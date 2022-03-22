@@ -62,7 +62,7 @@ hash = "5a18f60386e911b21c578afcb95cdefdea90b1bb1cef390b99ec89f21fb568fe"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "cfc59af9fb252b2a85722334fe5665ba3e666a9c7d908f8aa94af4948439a3b4"
+hash = "91f23151b54178b85cfa74ab6efe15c506a4b6d502d265e2295a8fda9d7fddab"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -1073,11 +1073,6 @@ hash = "76bfa35e43be0daa22c5b1e71330de5926785e4f33dc3e1126db255cb786b4fc"
 metafile = true
 
 [[files]]
-file = "mods/immersive-tech.toml"
-hash = "c15494e9bcd5583444a6d916024f9fd4b46c47ce6c289d402b8764fe4d2f8f83"
-metafile = true
-
-[[files]]
 file = "mods/immersiveposts.toml"
 hash = "5200926de2f1e3d3b7d88bbfe7c484b509ab0cab6b815f33ae8fba9f313f4268"
 metafile = true
@@ -1125,6 +1120,11 @@ metafile = true
 [[files]]
 file = "mods/matterlink.toml"
 hash = "dade6297979984c005bc570cbc07bf7ee14638a51c8de56335f3caf28ec76730"
+metafile = true
+
+[[files]]
+file = "mods/mct-immersive-technology.toml"
+hash = "20cf77461bd38fedca076ff90d6f0a6b80804803d094af332ac41c22d15940df"
 metafile = true
 
 [[files]]

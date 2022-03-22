@@ -1,0 +1,13 @@
+name = "Modular Forcefield System"
+filename = "MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2581/227/MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar"
+hash-format = "sha1"
+hash = "e9ec24c3a29c57ddc6c3643c4c9bfd3ce50cfd31"
+
+[update]
+[update.curseforge]
+file-id = 2581227
+project-id = 59882

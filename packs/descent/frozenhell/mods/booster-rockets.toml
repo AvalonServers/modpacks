@@ -1,0 +1,13 @@
+name = "Booster Rockets"
+filename = "BoosterRockets-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2501/831/BoosterRockets-1.1.1.jar"
+hash-format = "sha1"
+hash = "56ea4a85343f5ece5b4ee7cf326c0a698fa4ba00"
+
+[update]
+[update.curseforge]
+file-id = 2501831
+project-id = 255639

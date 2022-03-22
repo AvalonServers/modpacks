@@ -1,0 +1,13 @@
+name = "Charset Audio"
+filename = "Charset-Audio-0.5.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3066/683/Charset-Audio-0.5.6.5.jar"
+hash-format = "sha1"
+hash = "b120f398b5a5c5839786616071a502d01cfcdbc2"
+
+[update]
+[update.curseforge]
+file-id = 3066683
+project-id = 284580

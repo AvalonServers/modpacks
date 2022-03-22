@@ -1,0 +1,13 @@
+name = "Spawner Imbuer"
+filename = "spawnerimbuer-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2387/905/spawnerimbuer-0.1.jar"
+hash-format = "sha1"
+hash = "f77806d6adc6cf0c5ef2902114daae6a31ab3fd1"
+
+[update]
+[update.curseforge]
+file-id = 2387905
+project-id = 261930

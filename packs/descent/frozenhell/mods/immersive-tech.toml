@@ -1,0 +1,13 @@
+name = "Immersive Tech"
+filename = "immersivetech-1.12-1.3.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2568/579/immersivetech-1.12-1.3.10.jar"
+hash-format = "sha1"
+hash = "db87cdb932c62354851bb9391614897c10ef07c7"
+
+[update]
+[update.curseforge]
+file-id = 2568579
+project-id = 274159

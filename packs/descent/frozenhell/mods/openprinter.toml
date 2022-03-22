@@ -1,0 +1,13 @@
+name = "OpenPrinter"
+filename = "OpenPrinter-1.12.2-0.1.0.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3466/97/OpenPrinter-1.12.2-0.1.0.15.jar"
+hash-format = "sha1"
+hash = "de36dc317702dfa465976628412413f2289462c7"
+
+[update]
+[update.curseforge]
+file-id = 3466097
+project-id = 225127

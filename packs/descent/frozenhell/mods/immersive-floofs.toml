@@ -1,0 +1,13 @@
+name = "Immersive Floofs"
+filename = "ImmersiveFloofs-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2606/613/ImmersiveFloofs-1.12.2-1.0.0.jar"
+hash-format = "sha1"
+hash = "88959923b91b0a27e6b9c307a617ad69871d3dac"
+
+[update]
+[update.curseforge]
+file-id = 2606613
+project-id = 250718

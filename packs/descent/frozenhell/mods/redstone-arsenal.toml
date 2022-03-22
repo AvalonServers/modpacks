@@ -1,0 +1,13 @@
+name = "Redstone Arsenal"
+filename = "RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2939/416/RedstoneArsenal-1.12.2-2.6.6.1-universal.jar"
+hash-format = "sha1"
+hash = "9c8c89fd184ee8631d155ec81eee0a7db287a5ec"
+
+[update]
+[update.curseforge]
+file-id = 2939416
+project-id = 70631

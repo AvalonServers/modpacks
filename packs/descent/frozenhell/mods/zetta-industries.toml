@@ -1,0 +1,13 @@
+name = "Zetta Industries"
+filename = "zettaindustries-1.3-1.12.2-161.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2636/576/zettaindustries-1.3-1.12.2-161.jar"
+hash-format = "sha1"
+hash = "9a9a629c8f7d004c26c8116c96a529de060bada8"
+
+[update]
+[update.curseforge]
+file-id = 2636576
+project-id = 278475

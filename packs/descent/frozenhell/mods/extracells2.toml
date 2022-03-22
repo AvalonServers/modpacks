@@ -1,0 +1,13 @@
+name = "ExtraCells2"
+filename = "ExtraCells-1.12.2-2.6.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2855/967/ExtraCells-1.12.2-2.6.5.jar"
+hash-format = "sha1"
+hash = "ad12ab8ae21ed1076dc2c60fd5ce5f5d1f416538"
+
+[update]
+[update.curseforge]
+file-id = 2855967
+project-id = 229218

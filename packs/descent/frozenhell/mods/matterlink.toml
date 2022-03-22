@@ -1,0 +1,13 @@
+name = "MatterLink"
+filename = "MatterLink-1.12.2-1.6.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/2695/256/MatterLink-1.12.2-1.6.4.jar"
+hash-format = "sha1"
+hash = "4404de11248eb5af2ca809acc2f6d665434ac155"
+
+[update]
+[update.curseforge]
+file-id = 2695256
+project-id = 287323

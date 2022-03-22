@@ -1,0 +1,8 @@
+name = "Raefftech Narrow Gague"
+filename = "Raefftech_Narrow_Gauge.zip"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/s/kko9x8rixbqnho0/Raefftech_Narrow_Gauge_01.zip?dl=1"
+hash-format = "sha256"
+hash = "a52c28550f398ef39e39df8fcb29852c221e1ecf58aaaf4b535cb997513d4940"

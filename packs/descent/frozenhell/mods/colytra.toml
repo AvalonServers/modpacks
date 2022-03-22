@@ -1,0 +1,13 @@
+name = "Colytra (Forge)"
+filename = "colytra-1.12.2-1.2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2828/877/colytra-1.12.2-1.2.0.4.jar"
+hash-format = "sha1"
+hash = "ed1cb53243621af564d6371aaa5929646bc00c2b"
+
+[update]
+[update.curseforge]
+file-id = 2828877
+project-id = 280200

@@ -1,0 +1,13 @@
+name = "Satako library"
+filename = "Satako 1.12-2.26.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2744/381/Satako%201.12-2.26.jar"
+hash-format = "sha1"
+hash = "44ffa210d6f0629a7bc8cf19dc15760c44080f3b"
+
+[update]
+[update.curseforge]
+file-id = 2744381
+project-id = 282037

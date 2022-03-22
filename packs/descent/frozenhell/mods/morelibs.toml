@@ -1,0 +1,13 @@
+name = "More Libs"
+filename = "morelibs-1.12.2-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2669/468/morelibs-1.12.2-1.2.2.jar"
+hash-format = "sha1"
+hash = "0a8925bf2cbca5353d693562d9f3267917400646"
+
+[update]
+[update.curseforge]
+file-id = 2669468
+project-id = 304920

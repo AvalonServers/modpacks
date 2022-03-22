@@ -1,0 +1,13 @@
+name = "stimmedcow : NoMoreRecipeConflict"
+filename = "NoMoreRecipeConflict-0.13(1.12.2).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2671/230/NoMoreRecipeConflict-0.13(1.12.2).jar"
+hash-format = "sha1"
+hash = "b6eb46393d7b163c9704ceaeb42fa2b9115ab980"
+
+[update]
+[update.curseforge]
+file-id = 2671230
+project-id = 238123

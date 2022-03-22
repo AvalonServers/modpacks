@@ -14,7 +14,10 @@ def fixup_alphanumerical(filename: str):
     rep_dashes = [" ", "[", "]", "(", ")", "+"]
     for c in rep_dashes:
         filename = filename.replace(c, "-")
-    
+
+    # replace single quotes
+    filename = filename.replace("'", "")
+
     # remove instances of more than 1 dash in a row
     result = []
     last_char = None
@@ -31,8 +34,6 @@ def fixup_alphanumerical(filename: str):
         result.append(c)
         last_char = c
     filename = "".join(result)
-
-    print(filename)
     return filename
 
 for file in os.listdir(mods_dir):

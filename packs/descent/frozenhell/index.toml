@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/avaritia-complement.toml"
-hash = "d8e34da7c2325d302e4b9528f15dd16af45755f1823cc45032e1c757d28e8b15"
+hash = "7bd804f421b0bb4cc8ce528e740df04641711f99dd20f3446f5badcacfa10214"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-builders-wands.toml"
-hash = "5bd76029d4ed3d48a60d05a9aa27c26b5e50932864da01862f5d184d5e442c91"
+hash = "01121b6669638a7350e0296bf1d941999e875bd84b15eada608b43c7db5a29ac"
 metafile = true
 
 [[files]]
@@ -964,7 +964,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineered-golems.toml"
-hash = "83a2595c8a7a3e8a6ad9d26b0b2066ebbe5b6e6eed38b87649ea318670d05bf6"
+hash = "a27cc32e622c3e8e395f64298916cdf767fe55617e1d9186b4d20e309e47d580"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.toml"
-hash = "44a436b85a8236165536fbf225088505c64d352a1bf5e776fb5150866dfd4d45"
+hash = "c2b0f06a10194a033a08f2a431171d12539a8dbe22f8763a804a695dc584d317"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/satako-library.toml"
-hash = "5f38ba19ee1a6fc0e6486a8b169e8d93c5a380bfabd87c2967507eaaa12be398"
+hash = "b27cbc1a4d5ab762efeb3529c5bf41f8a29aec088223834df8cc5f79671cc09f"
 metafile = true
 
 [[files]]
@@ -1279,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/stimmedcow-nomorerecipeconflict.toml"
-hash = "e6e433877c481ed050a77ff0c069c7a79eb603252f495b00e4e47f6b0cb85f72"
+hash = "6207cb35f93c01bd63dafb513c4a544cf44f2abeb055ea2c4624659e6bb5244d"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-calculations.toml"
-hash = "45f6252dde1382e585e90123646033f019f2037894ba69d9f502c5cbbe2c4443"
+hash = "2c1e66e7adfea82d4219842d741b35694faaa3ead761a425b77624ef8892304b"
 metafile = true
 
 [[files]]

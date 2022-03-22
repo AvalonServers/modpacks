@@ -1,0 +1,12 @@
+name = "ChickenChunks"
+filename = "ChickenChunks-1.7.10-1.3.4.19-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2233/250/ChickenChunks-1.7.10-1.3.4.19-universal.jar"
+hash-format = "murmur2"
+hash = "1621057406"
+
+[update.curseforge]
+file-id = 2233250
+project-id = 229316

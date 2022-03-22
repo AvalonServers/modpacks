@@ -1,0 +1,12 @@
+name = "Collective Framework"
+filename = "CollectiveFramework-1.0.0-132.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2255/921/CollectiveFramework-1.0.0-132.jar"
+hash-format = "murmur2"
+hash = "672338394"
+
+[update.curseforge]
+file-id = 2255921
+project-id = 232966

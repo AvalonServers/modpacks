@@ -1,0 +1,12 @@
+name = "Forge Multi Part"
+filename = "ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2242/993/ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+hash-format = "murmur2"
+hash = "3017915821"
+
+[update.curseforge]
+file-id = 2242993
+project-id = 229323

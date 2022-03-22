@@ -1,0 +1,12 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-rv3-beta-6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2296/430/appliedenergistics2-rv3-beta-6.jar"
+hash-format = "murmur2"
+hash = "2630695765"
+
+[update.curseforge]
+file-id = 2296430
+project-id = 223794

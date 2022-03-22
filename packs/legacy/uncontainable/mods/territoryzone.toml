@@ -1,0 +1,13 @@
+name = "TerritoryZone"
+filename = "TerritoryZone 1.7.10 V31a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/171/TerritoryZone%201.7.10%20V31a.jar"
+hash-format = "sha1"
+hash = "ce234f2e245c53d3a0e3b328998d2282f37bac61"
+
+[update]
+[update.curseforge]
+file-id = 3570171
+project-id = 235610

@@ -1,0 +1,12 @@
+name = "OpenPeripheralAddons"
+filename = "OpenPeripheralAddons-1.7.10-0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2386/738/OpenPeripheralAddons-1.7.10-0.6.jar"
+hash-format = "murmur2"
+hash = "2799058301"
+
+[update.curseforge]
+file-id = 2386738
+project-id = 228818

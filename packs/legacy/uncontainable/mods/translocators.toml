@@ -1,0 +1,12 @@
+name = "Translocators"
+filename = "Translocator-1.7.10-1.1.2.16-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2300/180/Translocator-1.7.10-1.1.2.16-universal.jar"
+hash-format = "murmur2"
+hash = "1079670572"
+
+[update.curseforge]
+file-id = 2300180
+project-id = 229318

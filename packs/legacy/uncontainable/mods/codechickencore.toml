@@ -1,0 +1,12 @@
+name = "CodeChickenCore"
+filename = "CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3293/859/CodeChickenCore-1.7.10-1.0.7.48-universal.jar"
+hash-format = "murmur2"
+hash = "236548658"
+
+[update.curseforge]
+file-id = 3293859
+project-id = 222213

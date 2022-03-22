@@ -1,0 +1,12 @@
+name = "Peripherals++"
+filename = "Peripherals-1.3.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2286/103/Peripherals%2B%2B-1.3.6.jar"
+hash-format = "murmur2"
+hash = "3902611942"
+
+[update.curseforge]
+file-id = 2286103
+project-id = 226687

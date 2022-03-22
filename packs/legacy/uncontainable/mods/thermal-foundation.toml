@@ -1,0 +1,12 @@
+name = "Thermal Foundation"
+filename = "ThermalFoundation-1.7.10-1.2.6-118.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2388/752/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar"
+hash-format = "murmur2"
+hash = "108830516"
+
+[update.curseforge]
+file-id = 2388752
+project-id = 222880

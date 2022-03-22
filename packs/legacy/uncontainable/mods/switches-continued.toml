@@ -1,0 +1,12 @@
+name = "Switches Continued"
+filename = "switchescontinued-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2231/264/switchescontinued-0.0.1.jar"
+hash-format = "murmur2"
+hash = "4147450723"
+
+[update.curseforge]
+file-id = 2231264
+project-id = 228865

@@ -1,0 +1,12 @@
+name = "OpenPeripheralIntegration"
+filename = "OpenPeripheralIntegration-1.7.10-0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2386/741/OpenPeripheralIntegration-1.7.10-0.6.jar"
+hash-format = "murmur2"
+hash = "960381192"
+
+[update.curseforge]
+file-id = 2386741
+project-id = 228819

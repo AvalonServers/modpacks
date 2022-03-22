@@ -1,0 +1,12 @@
+name = "Ender Storage"
+filename = "EnderStorage-1.7.10-1.4.7.37-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2262/92/EnderStorage-1.7.10-1.4.7.37-universal.jar"
+hash-format = "murmur2"
+hash = "3023126635"
+
+[update.curseforge]
+file-id = 2262092
+project-id = 229306

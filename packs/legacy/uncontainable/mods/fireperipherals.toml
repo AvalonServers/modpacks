@@ -1,0 +1,12 @@
+name = "FirePeripherals"
+filename = "fireperipherals-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2255/351/fireperipherals-1.0.jar"
+hash-format = "murmur2"
+hash = "1726193665"
+
+[update.curseforge]
+file-id = 2255351
+project-id = 235673

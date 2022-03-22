@@ -1,0 +1,12 @@
+name = "MrTJPCore"
+filename = "MrTJPCore-1.1.0.33-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2279/413/MrTJPCore-1.1.0.33-universal.jar"
+hash-format = "murmur2"
+hash = "1498067025"
+
+[update.curseforge]
+file-id = 2279413
+project-id = 229002

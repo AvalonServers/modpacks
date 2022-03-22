@@ -1,0 +1,12 @@
+name = "Thermal Dynamics"
+filename = "ThermalDynamics-1.7.10-1.2.1-172.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2388/756/ThermalDynamics-%5B1.7.10%5D1.2.1-172.jar"
+hash-format = "murmur2"
+hash = "603746110"
+
+[update.curseforge]
+file-id = 2388756
+project-id = 227443

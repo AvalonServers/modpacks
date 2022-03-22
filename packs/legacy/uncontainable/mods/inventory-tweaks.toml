@@ -1,0 +1,12 @@
+name = "Inventory Tweaks [1.12 only] "
+filename = "InventoryTweaks-1.59-dev-152.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2210/792/InventoryTweaks-1.59-dev-152.jar"
+hash-format = "murmur2"
+hash = "2514137931"
+
+[update.curseforge]
+file-id = 2210792
+project-id = 223094

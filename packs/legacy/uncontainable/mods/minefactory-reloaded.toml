@@ -1,0 +1,12 @@
+name = "Minefactory Reloaded"
+filename = "MineFactoryReloaded-1.7.10-2.8.2B1-201.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2366/149/MineFactoryReloaded-%5B1.7.10%5D2.8.2B1-201.jar"
+hash-format = "murmur2"
+hash = "2889482046"
+
+[update.curseforge]
+file-id = 2366149
+project-id = 66672

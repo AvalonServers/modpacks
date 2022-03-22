@@ -1,0 +1,13 @@
+name = "ChromatiCraft"
+filename = "ChromatiCraft 1.7.10 V31b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3574/503/ChromatiCraft%201.7.10%20V31b.jar"
+hash-format = "sha1"
+hash = "40480aefeb00077239f80d73374cd9efd9946d90"
+
+[update]
+[update.curseforge]
+file-id = 3574503
+project-id = 235590

@@ -1,0 +1,12 @@
+name = "In-Game Wiki Mod"
+filename = "IGW-Mod-1.7.10-1.1.12-34-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2276/684/IGW-Mod-1.7.10-1.1.12-34-universal.jar"
+hash-format = "murmur2"
+hash = "2528388905"
+
+[update.curseforge]
+file-id = 2276684
+project-id = 223815

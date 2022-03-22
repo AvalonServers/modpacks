@@ -1,0 +1,12 @@
+name = "JourneyMap"
+filename = "journeymap-1.7.10-5.1.4p2-unlimited.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2367/915/journeymap-1.7.10-5.1.4p2-unlimited.jar"
+hash-format = "murmur2"
+hash = "3527155390"
+
+[update.curseforge]
+file-id = 2367915
+project-id = 32274

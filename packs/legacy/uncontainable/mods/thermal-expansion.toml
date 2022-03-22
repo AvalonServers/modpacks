@@ -1,0 +1,12 @@
+name = "Thermal Expansion"
+filename = "ThermalExpansion-1.7.10-4.1.5-248.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2388/758/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar"
+hash-format = "murmur2"
+hash = "4158757773"
+
+[update.curseforge]
+file-id = 2388758
+project-id = 69163

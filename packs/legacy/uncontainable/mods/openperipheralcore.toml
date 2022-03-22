@@ -1,0 +1,12 @@
+name = "OpenPeripheralCore"
+filename = "OpenPeripheralCore-1.7.10-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2386/735/OpenPeripheralCore-1.7.10-1.4.jar"
+hash-format = "murmur2"
+hash = "1853648921"
+
+[update.curseforge]
+file-id = 2386735
+project-id = 228817

@@ -1,0 +1,12 @@
+name = "Forge Relocation"
+filename = "ForgeRelocation-0.0.1.4-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2249/874/ForgeRelocation-0.0.1.4-universal.jar"
+hash-format = "murmur2"
+hash = "410700977"
+
+[update.curseforge]
+file-id = 2249874
+project-id = 232075

@@ -1,0 +1,12 @@
+name = "Project Red - Integration"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/731/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar"
+hash-format = "murmur2"
+hash = "159458493"
+
+[update.curseforge]
+file-id = 2280731
+project-id = 229045

@@ -1,0 +1,12 @@
+name = "WR-CBE-Universal"
+filename = "WR-CBE-1.7.10-1.4.1.9-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2233/235/WR-CBE-1.7.10-1.4.1.9-universal.jar"
+hash-format = "murmur2"
+hash = "610100030"
+
+[update.curseforge]
+file-id = 2233235
+project-id = 229314

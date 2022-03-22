@@ -1,0 +1,13 @@
+name = "ElectriCraft"
+filename = "ElectriCraft 1.7.10 V31a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/168/ElectriCraft%201.7.10%20V31a.jar"
+hash-format = "sha1"
+hash = "5e77da7b7dc30498d6e1a09cdbaf18f24f4033e4"
+
+[update]
+[update.curseforge]
+file-id = 3570168
+project-id = 235594

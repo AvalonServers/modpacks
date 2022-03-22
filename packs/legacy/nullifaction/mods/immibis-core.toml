@@ -1,0 +1,8 @@
+name = "Immibis Core"
+filename = "immibis-core-59.1.4.jar"
+side = "both"
+
+[download]
+url = "http://immibis.com/mcmoddl/files/immibis-core-59.1.4.jar"
+hash-format = "sha256"
+hash = "20dda08ee51aa1f88aa208e7fb9a959fb5a7852071c5e023e96c0cc7949d7051"

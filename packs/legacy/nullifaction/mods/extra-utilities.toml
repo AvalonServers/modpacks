@@ -1,0 +1,12 @@
+name = "Extra Utilities"
+filename = "extrautilities-1.2.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2264/383/extrautilities-1.2.12.jar"
+hash-format = "murmur2"
+hash = "2125572186"
+
+[update.curseforge]
+file-id = 2264383
+project-id = 225561

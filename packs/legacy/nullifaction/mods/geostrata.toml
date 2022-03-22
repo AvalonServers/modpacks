@@ -1,0 +1,13 @@
+name = "GeoStrata"
+filename = "GeoStrata 1.7.10 V31a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/170/GeoStrata%201.7.10%20V31a.jar"
+hash-format = "sha1"
+hash = "32940c1a2e34c154758d3497f939fe2848e865bc"
+
+[update]
+[update.curseforge]
+file-id = 3570170
+project-id = 235601

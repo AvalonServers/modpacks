@@ -1,0 +1,8 @@
+name = "AsieLib"
+filename = "asielib-1.7.10-0.4.9.jar"
+side = "both"
+
+[download]
+url = "https://files.vexatos.com/AsieLib/AsieLib-1.7.10-0.4.9.jar"
+hash-format = "sha256"
+hash = "145c1c7843886763385f99153b091b618a198bd57b9c09d73b99781b440f101c"

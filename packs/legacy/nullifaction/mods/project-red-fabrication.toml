@@ -1,0 +1,12 @@
+name = "Project Red - Fabrication"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/732/ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar"
+hash-format = "murmur2"
+hash = "1844050790"
+
+[update.curseforge]
+file-id = 2280732
+project-id = 230111

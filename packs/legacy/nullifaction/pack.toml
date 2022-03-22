@@ -1,0 +1,13 @@
+name = "Uncontainable"
+author = "CitadelCore"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ce7e3ac4098dfe0a55d5669d8924a1274fdb437a24ece03f178c2d535d2d9a98"
+
+[versions]
+forge = "10.13.0.1150"
+minecraft = "1.7.10"

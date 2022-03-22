@@ -1,0 +1,12 @@
+name = "Project Red - Illumination"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/733/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar"
+hash-format = "murmur2"
+hash = "2369747726"
+
+[update.curseforge]
+file-id = 2280733
+project-id = 229046

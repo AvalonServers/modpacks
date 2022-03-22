@@ -1,0 +1,12 @@
+name = "Chisel"
+filename = "Chisel-2.9.5.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2287/442/Chisel-2.9.5.11.jar"
+hash-format = "murmur2"
+hash = "2273472326"
+
+[update.curseforge]
+file-id = 2287442
+project-id = 235279

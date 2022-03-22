@@ -1,0 +1,12 @@
+name = "Project Red - Expansion"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/734/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar"
+hash-format = "murmur2"
+hash = "67016646"
+
+[update.curseforge]
+file-id = 2280734
+project-id = 229048

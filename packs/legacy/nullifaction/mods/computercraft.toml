@@ -1,0 +1,12 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.75.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2269/339/ComputerCraft1.75.jar"
+hash-format = "murmur2"
+hash = "3378751351"
+
+[update.curseforge]
+file-id = 2269339
+project-id = 67504

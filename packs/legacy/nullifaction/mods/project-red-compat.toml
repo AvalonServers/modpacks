@@ -1,0 +1,12 @@
+name = "Project Red - Compat"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/736/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar"
+hash-format = "murmur2"
+hash = "1065004369"
+
+[update.curseforge]
+file-id = 2280736
+project-id = 229050

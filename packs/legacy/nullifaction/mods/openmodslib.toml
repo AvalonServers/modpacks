@@ -1,0 +1,12 @@
+name = "OpenModsLib"
+filename = "OpenModsLib-1.7.10-0.10.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2765/573/OpenModsLib-1.7.10-0.10.1.jar"
+hash-format = "murmur2"
+hash = "457409585"
+
+[update.curseforge]
+file-id = 2765573
+project-id = 228815

@@ -1,0 +1,12 @@
+name = "Mantle"
+filename = "Mantle-1.7.10-0.3.2b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2264/244/Mantle-1.7.10-0.3.2b.jar"
+hash-format = "murmur2"
+hash = "1075159509"
+
+[update.curseforge]
+file-id = 2264244
+project-id = 74924

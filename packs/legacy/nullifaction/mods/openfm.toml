@@ -1,0 +1,12 @@
+name = "OpenFM"
+filename = "OpenFM-1.7.10-0.1.0-45.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2591/548/OpenFM-1.7.10-0.1.0-45.jar"
+hash-format = "murmur2"
+hash = "596202485"
+
+[update.curseforge]
+file-id = 2591548
+project-id = 236839

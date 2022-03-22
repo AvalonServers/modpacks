@@ -1,0 +1,12 @@
+name = "Project Red - Exploration"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-World.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2280/735/ProjectRed-1.7.10-4.7.0pre12.95-World.jar"
+hash-format = "murmur2"
+hash = "218653709"
+
+[update.curseforge]
+file-id = 2280735
+project-id = 229049

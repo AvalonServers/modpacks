@@ -1,0 +1,12 @@
+name = "NotEnoughItems"
+filename = "NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2302/312/NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+hash-format = "murmur2"
+hash = "1718343770"
+
+[update.curseforge]
+file-id = 2302312
+project-id = 222211

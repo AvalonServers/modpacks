@@ -35,40 +35,40 @@ jobs:
         with:
           name: data
           path: packs
-  # deploy-web:
-  #   name: Deploy web server
-  #   needs: ["build"]
-  #   runs-on: ubuntu-20.04
-  #   environment: prod
-  #   steps:
-  #     - name: Download client package
-  #       uses: actions/download-artifact@v2
-  #       with:
-  #         name: client
-  #         path: artifacts/client
-  #     - name: Download launcher package
-  #       uses: actions/download-artifact@v2
-  #       with:
-  #         name: launcher
-  #         path: artifacts/launcher
-  #     - name: Copy client files to server
-  #       uses: appleboy/scp-action@v0.1.1
-  #       with:
-  #         host: cdn.avalon.arctarus.co.uk
-  #         key: ${{ secrets.AVALON_SERVER_SSH }}
-  #         username: avalon-deploy
-  #         source: artifacts/client
-  #         target: /var/lib/avalon/cdn/ascent/client
-  #         strip_components: 2
-  #     - name: Copy launcher files to server
-  #       uses: appleboy/scp-action@v0.1.1
-  #       with:
-  #         host: cdn.avalon.arctarus.co.uk
-  #         key: ${{ secrets.AVALON_SERVER_SSH }}
-  #         username: avalon-deploy
-  #         source: artifacts/launcher
-  #         target: /var/lib/avalon/cdn/ascent/launcher
-  #         strip_components: 2
+  deploy-web:
+    name: Deploy web server
+    needs: ["build"]
+    runs-on: ubuntu-20.04
+    environment: production
+    steps:
+      - name: Download packs artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: packs
+          path: artifacts/packs
+      - name: Download data artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: data
+          path: artifacts/data
+      - name: Copy packs to server
+        uses: appleboy/scp-action@v0.1.1
+        with:
+          host: cdn.avalon.arctarus.co.uk
+          key: ${{ secrets.AVALON_SERVER_SSH }}
+          username: avalon-deploy
+          source: artifacts/packs
+          target: /var/lib/avalon/cdn/packs
+          strip_components: 2
+      - name: Copy data to server
+        uses: appleboy/scp-action@v0.1.1
+        with:
+          host: cdn.avalon.arctarus.co.uk
+          key: ${{ secrets.AVALON_SERVER_SSH }}
+          username: avalon-deploy
+          source: artifacts/data
+          target: /var/lib/avalon/cdn/data
+          strip_components: 2
   # deploy-mc:
   #   name: Deploy Minecraft server
   #   needs: ["build"]

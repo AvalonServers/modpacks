@@ -105,5 +105,5 @@ jobs:
             BASE_PATH=/var/lib/avalon/mc
             doas systemctl stop avalon-mc-ascent
             (cd "$BASE_PATH/ascent" && java -Xmx4G -jar $BASE_PATH/tools/packwiz-installer-bootstrap.jar -g -s server https://cdn.avalon.arctarus.co.uk/data/ascent/frozenhell/pack.toml)
-            ln -sf $BASE_PATH/ascent/forge-1.12.2-14.23.5.2854.jar "$BASE_PATH/ascent/server.jar"
+            ln -sf $BASE_PATH/ascent/forge-1.12.2-14.23.5.2860.jar "$BASE_PATH/ascent/server.jar"
             doas systemctl start avalon-mc-ascent

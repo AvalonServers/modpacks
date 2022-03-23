@@ -30,7 +30,6 @@ class PackWriter():
         if endpoint_override is not None:
             self._pack_meta_url = endpoint_override
         else:
-            print("FOO")
             self._pack_meta_url = DOWNLOAD_ENDPOINT
             for pack_comp in self._slug.split("-"):
                 self._pack_meta_url = f"{self._pack_meta_url}/{pack_comp}"

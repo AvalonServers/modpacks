@@ -5,6 +5,10 @@ file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 
 [[files]]
+file = "icon.png"
+hash = "21f9069ac3d7f489cbb31ff5c42bc9fa8c124449f5e205501f5ea3b619aa7a6d"
+
+[[files]]
 file = "mods/BioLock-v2.2.pr1-1.7.10.jar"
 hash = "362ec26decd29cdd5a80cb82725f3e884049a821f29fefac56963b2db03b8a81"
 
@@ -365,7 +369,3 @@ metafile = true
 file = "mods/wr-cbe-universal.toml"
 hash = "dc8b90266f08cda1156c52b5b96c8ec87318f923fe72c2c4b1b2c0ff0671e57b"
 metafile = true
-
-[[files]]
-file = "wrapper.sh"
-hash = "a1ad367c13990dd91c9a34ee04b878c4256509c32038cd98440feac2dd6d5d21"

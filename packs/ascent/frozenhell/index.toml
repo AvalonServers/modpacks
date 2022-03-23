@@ -700,10 +700,6 @@ file = "config/zettaindustries.cfg"
 hash = "62fd2c4610633a675c6e621741b160eeca5825fc417b9d97ace5c776767b4771"
 
 [[files]]
-file = "icon.png"
-hash = "526c0c33f007e357f33b14400097f731baa87028fe6a927860233eaf6057bd6c"
-
-[[files]]
 file = "marytts/marytts-lang-en.toml"
 hash = "74a2012855addd789dbeb54ddd48c4663f0427e2ca29da0155818602e39a0ecc"
 metafile = true

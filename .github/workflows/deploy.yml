@@ -35,6 +35,11 @@ jobs:
         with:
           name: data
           path: packs
+      - name: Upload tools artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: tools
+          path: tools
   deploy-web:
     name: Deploy web server
     needs: ["build"]

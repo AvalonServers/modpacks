@@ -1,0 +1,13 @@
+name = "IR Raefftech Railway Equipment"
+filename = "Raefftech_Railway_Equipment_0.0.0.12.zip"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3484/967/Raefftech_Railway_Equipment_0.0.0.12.zip"
+hash-format = "sha1"
+hash = "917276c83f9630409b7f669e746c899d43be632a"
+
+[update]
+[update.curseforge]
+file-id = 3484967
+project-id = 434152

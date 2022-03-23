@@ -1,0 +1,8 @@
+name = "MaryTTS Runtime"
+filename = "marytts-runtime-5.2-jar-for-computronics.jar"
+side = "both"
+
+[download]
+url = "https://files.vexatos.com/Computronics/marytts/marytts-runtime-5.2-jar-for-computronics.jar"
+hash-format = "sha256"
+hash = "1b7da181c5fd22aba50dd6f9a1fb34b8fcd725afcee784666eca085e7f60a417"

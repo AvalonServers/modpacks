@@ -1,0 +1,13 @@
+name = "copygirl's Wearable Backpacks"
+filename = "WearableBackpacks-1.12.2-3.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2800/372/WearableBackpacks-1.12.2-3.1.4.jar"
+hash-format = "sha1"
+hash = "3774558b2abb31af680bc169d5058b80db5184c2"
+
+[update]
+[update.curseforge]
+file-id = 2800372
+project-id = 257572

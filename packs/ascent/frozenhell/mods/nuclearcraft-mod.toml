@@ -1,0 +1,13 @@
+name = "NuclearCraft"
+filename = "NuclearCraft-2.18zz-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3643/158/NuclearCraft-2.18zz-1.12.2.jar"
+hash-format = "sha1"
+hash = "85214a0870e3764a6339589eef74e22baca8b708"
+
+[update]
+[update.curseforge]
+file-id = 3643158
+project-id = 226254

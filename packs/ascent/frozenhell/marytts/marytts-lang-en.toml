@@ -1,0 +1,8 @@
+name = "MaryTTS English Language"
+filename = "marytts-lang-en-5.2.jar"
+side = "both"
+
+[download]
+url = "https://files.vexatos.com/Computronics/marytts/marytts-lang-en-5.2.jar"
+hash-format = "sha256"
+hash = "f46cc60abbf1b7444ac37a75e72f60f1aa566bf2448c458463f2f50369fcb3d1"

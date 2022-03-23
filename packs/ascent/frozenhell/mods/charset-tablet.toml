@@ -1,0 +1,13 @@
+name = "Charset Tablet"
+filename = "Charset-Tablet-0.5.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2745/4/Charset-Tablet-0.5.6.0.jar"
+hash-format = "sha1"
+hash = "1e505db9748e2c88ad4c59f574c092e5e85684f1"
+
+[update]
+[update.curseforge]
+file-id = 2745004
+project-id = 285310

@@ -1,0 +1,13 @@
+name = "OpenComputers Book Converter"
+filename = "ocbookconv-0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2738/502/ocbookconv-0.1.jar"
+hash-format = "sha1"
+hash = "15de5bc8b4b14388e3eddcf8eec5544ef0ffd229"
+
+[update]
+[update.curseforge]
+file-id = 2738502
+project-id = 326890

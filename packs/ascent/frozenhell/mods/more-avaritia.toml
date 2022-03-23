@@ -1,0 +1,13 @@
+name = "More Avaritia"
+filename = "moreavaritia-mc1.12.2-v4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3054/338/moreavaritia-mc1.12.2-v4.jar"
+hash-format = "sha1"
+hash = "39ed155521dc19ad90301ac8bd337a6f9a527144"
+
+[update]
+[update.curseforge]
+file-id = 3054338
+project-id = 271236

@@ -1,0 +1,13 @@
+name = "Ascent: Frozen Hell"
+author = "Avalon Servers"
+version = "0.0.5"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc31ede4d9151f9fe20306617cc988da0e52ba28c435ef32c60c7ea5881f8fbe"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

@@ -1,0 +1,13 @@
+name = "Climate Control/Geographicraft"
+filename = "GeographiCraft-1.12-0.8.9b.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2497/541/GeographiCraft-1.12-0.8.9b.jar"
+hash-format = "sha1"
+hash = "2204f00887336b65c51dcc3d714c1429dcdfc523"
+
+[update]
+[update.curseforge]
+file-id = 2497541
+project-id = 76544

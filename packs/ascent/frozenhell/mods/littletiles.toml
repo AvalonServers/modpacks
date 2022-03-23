@@ -1,0 +1,13 @@
+name = "LittleTiles"
+filename = "LittleTiles_v1.5.57_mc1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/330/LittleTiles_v1.5.57_mc1.12.2.jar"
+hash-format = "sha1"
+hash = "433e236391e7f24fc6cf2fdbad6737f083da99ae"
+
+[update]
+[update.curseforge]
+file-id = 3584330
+project-id = 257818

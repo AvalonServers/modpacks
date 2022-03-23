@@ -1,6 +1,6 @@
 name = "IR Raefftech Railway Equipment"
 filename = "Raefftech_Railway_Equipment_0.0.0.12.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3484/967/Raefftech_Railway_Equipment_0.0.0.12.zip"

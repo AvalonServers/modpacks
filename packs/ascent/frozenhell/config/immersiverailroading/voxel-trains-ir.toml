@@ -1,6 +1,6 @@
 name = "Voxel Trains IR"
 filename = "Voxel Trains 4.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3571/8/Voxel%20Trains%204.zip"

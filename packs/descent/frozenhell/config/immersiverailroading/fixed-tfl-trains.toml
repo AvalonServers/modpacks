@@ -1,6 +1,6 @@
 name = "TFL Pack tom23 v100 fixed"
 filename = "TFL_Pack_tom23_v100.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://skyem.co.uk/files/TFL_Pack_tom23_v100_fixed_4.zip"

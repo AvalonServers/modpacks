@@ -1,6 +1,6 @@
 name = "INFRA Train Pack"
 filename = "INFRATrainPack.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://thepiguy24.github.io/INFRATrainPack_0005.zip"

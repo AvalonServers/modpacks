@@ -1,6 +1,6 @@
 name = "Small Gauge Goodies for Immersive Railroading."
 filename = "Small Gauge Goodies.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/2677/970/Small%20Gauge%20Goodies.zip"

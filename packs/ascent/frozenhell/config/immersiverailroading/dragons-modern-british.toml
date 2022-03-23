@@ -1,6 +1,6 @@
 name = "Dragon's Modern British"
 filename = "Dragons_Modern_British1.3.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3016/197/Dragons_Modern_British1.3.zip"

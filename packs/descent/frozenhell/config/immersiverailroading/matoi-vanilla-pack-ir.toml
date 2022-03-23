@@ -1,6 +1,6 @@
 name = "Matoi Vanilla Pack (IR)"
 filename = "MVP-IR-1.4-by-FrozeRain.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3084/15/MVP-IR-1.4-by-FrozeRain.zip"

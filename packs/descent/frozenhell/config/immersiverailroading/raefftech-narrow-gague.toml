@@ -1,6 +1,6 @@
 name = "Raefftech Narrow Gague"
 filename = "Raefftech_Narrow_Gauge.zip"
-side = "client"
+side = "both"
 
 [download]
 url = "https://www.dropbox.com/s/kko9x8rixbqnho0/Raefftech_Narrow_Gauge_01.zip?dl=1"

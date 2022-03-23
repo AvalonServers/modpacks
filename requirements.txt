@@ -1,2 +1,2 @@
-appdirs
-toml
+appdirs==1.4.4
+toml==0.10.2

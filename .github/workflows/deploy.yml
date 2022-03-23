@@ -74,36 +74,36 @@ jobs:
           source: artifacts/data
           target: /var/lib/avalon/cdn/data
           strip_components: 2
-  # deploy-mc:
-  #   name: Deploy Minecraft server
-  #   needs: ["build"]
-  #   runs-on: ubuntu-20.04
-  #   environment: prod
-  #   steps:
-  #     - name: Download server package
-  #       uses: actions/download-artifact@v2
-  #       with:
-  #         name: server
-  #         path: artifacts/server
-  #     - name: Copy files to server
-  #       uses: appleboy/scp-action@v0.1.1
-  #       with:
-  #         host: srv1.avalon.arctarus.co.uk
-  #         key: ${{ secrets.AVALON_SERVER_SSH }}
-  #         username: avalon-deploy
-  #         source: artifacts/server
-  #         target: /var/lib/avalon/mc/ascent/installer
-  #         strip_components: 2
-  #         rm: true
-  #     - name: Extract files on server and restart
-  #       uses: appleboy/ssh-action@v0.1.4
-  #       with:
-  #         host: srv1.avalon.arctarus.co.uk
-  #         key: ${{ secrets.AVALON_SERVER_SSH }}
-  #         username: avalon-deploy
-  #         script: |
-  #           BASE_PATH=/var/lib/avalon/mc/ascent
-  #           doas systemctl stop avalon-mc-ascent
-  #           java -Xmx4G -jar $BASE_PATH/installer/server-installer.jar $BASE_PATH
-  #           ln -sf $BASE_PATH/forge-1.12.2-14.23.5.2854.jar server.jar
-  #           doas systemctl start avalon-mc-ascent
+  deploy-mc:
+    name: Deploy Minecraft server
+    needs: ["build"]
+    runs-on: ubuntu-20.04
+    environment: production
+    steps:
+      - name: Download tools artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: tools
+          path: artifacts/tools
+      - name: Copy tools to server
+        uses: appleboy/scp-action@v0.1.1
+        with:
+          host: srv1.avalonsrv.com
+          key: ${{ secrets.AVALON_SERVER_SSH }}
+          username: avalon-deploy
+          source: artifacts/tools
+          target: /var/lib/avalon/mc/tools
+          strip_components: 2
+          rm: true
+      - name: Run pack installation and restart
+        uses: appleboy/ssh-action@v0.1.4
+        with:
+          host: srv1.avalonsrv.com
+          key: ${{ secrets.AVALON_SERVER_SSH }}
+          username: avalon-deploy
+          script: |
+            BASE_PATH=/var/lib/avalon/mc
+            doas systemctl stop avalon-mc-ascent
+            (cd "$BASE_PATH/ascent" && java -Xmx4G -jar $BASE_PATH/tools/packwiz-installer-bootstrap.jar -g -s server https://cdn.avalon.arctarus.co.uk/data/ascent/frozenhell/pack.toml)
+            ln -sf $BASE_PATH/ascent/forge-1.12.2-14.23.5.2854.jar "$BASE_PATH/ascent/server.jar"
+            doas systemctl start avalon-mc-ascent

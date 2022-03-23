@@ -4,7 +4,7 @@ import json
 import urllib.request
 import shutil
 
-DOWNLOAD_ENDPOINT = "https://avalonservers.github.io/modpacks/packs"
+DOWNLOAD_ENDPOINT = "https://cdn.avalon.arctarus.co.uk/data"
 INSTALLER_BOOTSTRAPPER_ENDPOINT = "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 
 def get_pack_dir(root: str, pack: str):

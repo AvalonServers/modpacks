@@ -1,0 +1,17 @@
+name = "Fancy Block Particles"
+filename = "FancyBlockParticles-1.12.x-2.4.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2632/107/FancyBlockParticles-1.12.x-2.4.1.jar"
+hash-format = "sha1"
+hash = "256b53b26298c2f59590f02ba67889821afd79b1"
+
+[update]
+[update.curseforge]
+file-id = 2632107
+project-id = 254441
+
+[option]
+optional = true
+description = "Caution: Resource heavy. Adds some flair to particle effects and animations. Highly configurable, costs fps. (Defaults set to be less intrusive.)"

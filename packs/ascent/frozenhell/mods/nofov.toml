@@ -1,0 +1,17 @@
+name = "NoFov"
+filename = "NoFov-MC1.12-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2432/421/NoFov-MC1.12-1.0.1.jar"
+hash-format = "sha1"
+hash = "79d0c790c6970128e2e0de49b779ecf131b51cb2"
+
+[update]
+[update.curseforge]
+file-id = 2432421
+project-id = 227965
+
+[option]
+optional = true
+description = "Disables changes to the field of view by effects, including stuff like sprinting and potions."

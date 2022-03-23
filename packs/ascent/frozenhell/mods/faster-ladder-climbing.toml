@@ -11,3 +11,8 @@ hash = "8f078c9f4389687103dc5f053403a921e9ac849d"
 [update.curseforge]
 file-id = 2512758
 project-id = 258881
+
+[option]
+optional = true
+description = "Helps you control ladder climb speed and allows you to go a bit faster."
+default = true

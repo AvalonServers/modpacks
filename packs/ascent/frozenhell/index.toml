@@ -429,10 +429,6 @@ file = "config/immersivefloofs.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/immersiveintelligence.cfg"
-hash = "ed50257f45ef3676c4ef38c0ee1dcf6e1e064bed7801230f1c30cd4ed7d129f9"
-
-[[files]]
 file = "config/immersivepetroleum.cfg"
 hash = "ce0869c39645a87df66e2d88c569fe7c1eaaca1c2e53f51e281b4379696df2ce"
 
@@ -704,6 +700,10 @@ file = "config/zettaindustries.cfg"
 hash = "62fd2c4610633a675c6e621741b160eeca5825fc417b9d97ace5c776767b4771"
 
 [[files]]
+file = "icon.png"
+hash = "526c0c33f007e357f33b14400097f731baa87028fe6a927860233eaf6057bd6c"
+
+[[files]]
 file = "marytts/marytts-lang-en.toml"
 hash = "74a2012855addd789dbeb54ddd48c4663f0427e2ca29da0155818602e39a0ecc"
 metafile = true
@@ -765,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/better-builders-wands.toml"
 hash = "5bd76029d4ed3d48a60d05a9aa27c26b5e50932864da01862f5d184d5e442c91"
+metafile = true
+
+[[files]]
+file = "mods/better-foliage.toml"
+hash = "8cb96ec7f2de9c6d23792f4b1c39524e312ef7e65d8f123b62c9950da584f089"
 metafile = true
 
 [[files]]
@@ -903,6 +908,16 @@ hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-lights.toml"
+hash = "b5ed5d07f98c6b63162af751f546670fffd17c8a21fe0d246f8a276e3d61a33b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "060656f2fd166bb4e37c6de7944e089b6a2aa40e29db10f40cf82a4a1ed7e84e"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.toml"
 hash = "859384ef72440ef9e0c206cd91a511f19726f5d47fbd1e0bbfd02c2d21dc6b2b"
 metafile = true
@@ -963,8 +978,13 @@ hash = "323075dd056b8d19b8e3efc7e82d2143f3f9a73899cf3b1d938e524632663c41"
 metafile = true
 
 [[files]]
+file = "mods/fancy-block-particles.toml"
+hash = "cf00e92d823ed9bd8bbde82217ad281c6d1c4c49e91e40c8352e63a98c8dffde"
+metafile = true
+
+[[files]]
 file = "mods/faster-ladder-climbing.toml"
-hash = "8ccc8fdf4954fb2f362793ab7ba0746087a99ff2a55a7f1e72a26946ef18eba7"
+hash = "ec60a95ea52fc771eeafcaa43ce7536dcf8310c29fd94af37aac3fbf9e3cfb20"
 metafile = true
 
 [[files]]
@@ -1078,6 +1098,11 @@ hash = "8fae1f839d6fcc7e12598220a98ddca39d1abdc6f163ce7b7ad9ca808d3a877c"
 metafile = true
 
 [[files]]
+file = "mods/laggoggles.toml"
+hash = "b657ca05f23d80f4368286058838f4e96e2b38efa4971d136a015962e14bb2b7"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.toml"
 hash = "c2df20d1f53752c99c1a69dca169a17cd526ebed0efeb1065c7f7323d0d4907d"
 metafile = true
@@ -1133,6 +1158,11 @@ hash = "bd56acd39a0e8c30ea993e5b0289c8562391c00db7feaaf8dd8ec994f3bcc966"
 metafile = true
 
 [[files]]
+file = "mods/nofov.toml"
+hash = "5e39430aa0d18944cdba89f75a6a399f670a9203cc7fc638e6448b716d742f9d"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-mod.toml"
 hash = "ac6850e4a3f7f670ad3ac3b1ecad2cf6e23b660b0de6c0fad30cf82fb3ca7f49"
 metafile = true
@@ -1155,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/opencomputers.toml"
 hash = "9f8a94107efc6ca0566cf9cd989fc082d5438a9e7e8e438fbacd89a5168dacbf"
+metafile = true
+
+[[files]]
+file = "mods/openeye.toml"
+hash = "bfba2eef47f19cf7e2e67ed391abb1d98b5b90656c5b59c5ab12796a33f6f0e5"
 metafile = true
 
 [[files]]
@@ -1250,6 +1285,11 @@ metafile = true
 [[files]]
 file = "mods/reload-audio-driver-rad.toml"
 hash = "f4269fce3475afb4a69501689608096758dcc1f6f936a40b17ed4763837bbca2"
+metafile = true
+
+[[files]]
+file = "mods/sampler.toml"
+hash = "0bb7f28bb753d8685b02dee4358fb92de082a13b61779d6844613853c05abc60"
 metafile = true
 
 [[files]]
@@ -1350,6 +1390,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "bc52b6371adcec9e88bf2c12f941d04229b7b85b6dab02f0a5daca43502b1560"
+metafile = true
+
+[[files]]
+file = "mods/tickcentral.toml"
+hash = "347234a218e23b44cd56e51a1e7efc8e9b24270b031d8ecca2e748804ef222cc"
 metafile = true
 
 [[files]]

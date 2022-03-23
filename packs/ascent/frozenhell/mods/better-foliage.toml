@@ -1,0 +1,17 @@
+name = "Better Foliage"
+filename = "BetterFoliage-MC1.12-2.3.3.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3393/955/BetterFoliage-MC1.12-2.3.3.jar"
+hash-format = "sha1"
+hash = "c34adcb52deed9acedb0b0c92ef7132f97c21e4d"
+
+[update]
+[update.curseforge]
+file-id = 3393955
+project-id = 228529
+
+[option]
+optional = true
+description = "Caution: Resource heavy. Disabled by default because there are a few render bugs."

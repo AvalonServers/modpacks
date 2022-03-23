@@ -1,0 +1,17 @@
+name = "OpenEye"
+filename = "OpenEye-1.12.2-0.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2545/677/OpenEye-1.12.2-0.8.jar"
+hash-format = "sha1"
+hash = "a6c6fa7d0188288f5c5605d29c1d77ba7d967066"
+
+[update]
+[update.curseforge]
+file-id = 2545677
+project-id = 251457
+
+[option]
+optional = true
+description = "Automatically collects and submits crash reports. Enable if asked or wish to help sort issues with the pack."

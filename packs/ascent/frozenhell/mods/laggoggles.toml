@@ -1,0 +1,17 @@
+name = "LagGoggles"
+filename = "LagGoggles-1.12.2-5.8-132.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2947/622/LagGoggles-1.12.2-5.8-132.jar"
+hash-format = "sha1"
+hash = "37ed9cf32bb3d0b3ae8e746cc10bb137cfe9fd3c"
+
+[update]
+[update.curseforge]
+file-id = 2947622
+project-id = 283525
+
+[option]
+optional = true
+description = "***Admin/diagnostic tool. Leave off unless asked to help test performance issues."

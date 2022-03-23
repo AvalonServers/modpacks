@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "07b075d91dd1f038edc6c4b509d3f8bdddfb8fb837c70bfd74c13c83220caa44"
+hash = "68d54b6dbaa35f4c0fba496b3f8837b93e87165ba6aadf85e5af325fc4f78fc9"
 metafile = true
 
 [[files]]

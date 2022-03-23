@@ -4,7 +4,6 @@ set -euo pipefail
 errored=false
 for folder in packs/*/*; do
     hash_before=$(sha256sum "$folder/index.toml")
-    stat "$folder/config/AppliedEnergistics2/AppliedEnergistics2.cfg"
     (cd "$folder" && packwiz refresh > /dev/null)
     hash_after=$(sha256sum "$folder/index.toml")
 

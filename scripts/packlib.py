@@ -1,7 +1,6 @@
 import os
 import toml
 import json
-import tempfile
 import urllib.request
 import shutil
 

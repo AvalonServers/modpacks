@@ -1,0 +1,16 @@
+name = "Ascent: Block One"
+author = "Avalon Servers"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4c4fad7dd0541ad6a569710bd36d6de76387a13318ba8e39c31cc64c327cfcac"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]

@@ -1,0 +1,13 @@
+name = "Dehydration"
+filename = "dehydration-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/832/dehydration-1.2.7.jar"
+hash-format = "sha1"
+hash = "2707acb55f196462ff02c85ec63c2bc81f30ee2a"
+
+[update]
+[update.curseforge]
+file-id = 3595832
+project-id = 410830

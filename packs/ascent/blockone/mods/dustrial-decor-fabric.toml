@@ -1,0 +1,13 @@
+name = "'Dustrial Decor [Fabric]"
+filename = "dustrial-decor-fabric-0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3695/707/dustrial-decor-fabric-0.5.jar"
+hash-format = "sha1"
+hash = "41e4e1210845793ce3275e0180529fc391c04733"
+
+[update]
+[update.curseforge]
+file-id = 3695707
+project-id = 592067

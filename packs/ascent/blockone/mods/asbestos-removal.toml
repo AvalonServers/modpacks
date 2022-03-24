@@ -1,0 +1,13 @@
+name = "Asbestos Removal"
+filename = "asbestos-1.2-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/259/asbestos-1.2-1.18.1.jar"
+hash-format = "sha1"
+hash = "254bb8dffe7836e37e187bd06eea2c6ee64608d5"
+
+[update]
+[update.curseforge]
+file-id = 3571259
+project-id = 430398

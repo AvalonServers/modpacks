@@ -1,0 +1,13 @@
+name = "Compressor"
+filename = "Compressor-Fabric-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/796/Compressor-Fabric-0.1.1.jar"
+hash-format = "sha1"
+hash = "466a0793c29f5425b27ca61d008b047c1227f1a6"
+
+[update]
+[update.curseforge]
+file-id = 3668796
+project-id = 563438

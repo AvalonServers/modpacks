@@ -1,0 +1,13 @@
+name = "EnvironmentZ"
+filename = "environmentz-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/715/environmentz-1.2.1.jar"
+hash-format = "sha1"
+hash = "07ad099a60af799d8a23ebe2f756d930be0bb621"
+
+[update]
+[update.curseforge]
+file-id = 3586715
+project-id = 410224

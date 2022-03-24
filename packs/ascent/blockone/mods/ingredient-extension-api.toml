@@ -1,0 +1,13 @@
+name = "Ingredient Extension API"
+filename = "IngredientExtensionAPI-fabric-1.18.1-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/646/IngredientExtensionAPI-fabric-1.18.1-2.0.1.jar"
+hash-format = "sha1"
+hash = "f8f9856db1d3c7caf353530da5541e50d3497533"
+
+[update]
+[update.curseforge]
+file-id = 3599646
+project-id = 557735

@@ -1,0 +1,13 @@
+name = "True Darkness"
+filename = "darkness-fabric-mc118-2.0.89.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/757/darkness-fabric-mc118-2.0.89.jar"
+hash-format = "sha1"
+hash = "146d81ca7f10c2306af25e9363eac36c4579a7f0"
+
+[update]
+[update.curseforge]
+file-id = 3566757
+project-id = 337243

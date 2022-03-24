@@ -1,0 +1,13 @@
+name = "TOP Plus"
+filename = "top_plus-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3707/939/top_plus-1.0.1.jar"
+hash-format = "sha1"
+hash = "fce2f55e0da4ecdc4b86a198ef05c43b9e45bdfd"
+
+[update]
+[update.curseforge]
+file-id = 3707939
+project-id = 595092

@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-1.1.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/733/twigs-1.1.3-fabric.jar"
+hash-format = "sha1"
+hash = "6a17028ac2f7bce4cad71be890c27259af3a733c"
+
+[update]
+[update.curseforge]
+file-id = 3597733
+project-id = 496913

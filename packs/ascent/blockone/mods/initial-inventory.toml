@@ -1,0 +1,13 @@
+name = "Initial Inventory"
+filename = "InitialInventory-fabric-1.18.1-6.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3668/71/InitialInventory-fabric-1.18.1-6.0.6.jar"
+hash-format = "sha1"
+hash = "8f1514aba33d1ebe753cc78a1ac89a60f0995273"
+
+[update]
+[update.curseforge]
+file-id = 3668071
+project-id = 253230

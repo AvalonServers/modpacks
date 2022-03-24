@@ -11,7 +11,7 @@ parser.add_argument("-d", "--dest-zip", default=f"{os.curdir}/build/mmc", help="
 args = parser.parse_args()
 
 pack_path = packlib.get_pack_dir(os.curdir, args.pack)
-writer = packlib.PackWriter(args.pack, pack_path)
+writer = packlib.MMCPackWriter(args.pack, pack_path)
 
 with tempfile.TemporaryDirectory() as tmpdir:
     writer.write(tmpdir)

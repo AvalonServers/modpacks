@@ -59,7 +59,7 @@ if not os.path.exists(mmc_path):
 instance_path = f"{mmc_path}/instances/{mmc_pack_name}"
 
 endpoint = f"http://127.0.0.1:8080/pack.toml"
-writer = packlib.PackWriter(mmc_pack_name, pack_path, endpoint_override=endpoint)
+writer = packlib.MMCPackWriter(mmc_pack_name, pack_path, endpoint_override=endpoint)
 writer._pack["name"] = writer._pack["name"]
 
 # update the multimc groups

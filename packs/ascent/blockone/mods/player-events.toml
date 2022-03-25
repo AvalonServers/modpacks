@@ -1,0 +1,13 @@
+name = "Player Events"
+filename = "player-events-2.2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3635/580/player-events-2.2.3.jar"
+hash-format = "sha1"
+hash = "234dd2e575fb0374f68a96504c99f4133e938462"
+
+[update]
+[update.curseforge]
+file-id = 3635580
+project-id = 404348

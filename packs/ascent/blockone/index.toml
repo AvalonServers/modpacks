@@ -617,6 +617,11 @@ file = "config/worldedit/worldedit.properties"
 hash = "f889088b53215bfed4aa48b7b351c47633fc6400285d663a94387280f215a4e5"
 
 [[files]]
+file = "mods/alloy-forgery.toml"
+hash = "dd02fc82d9a99e8f182b4cf157fd433a8ddddaca9306bf5161d0e54e11614809"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.toml"
 hash = "af6105414b338ff49ac5135a08d84741a9d1173dab93dc8091aae847692bb602"
 metafile = true
@@ -657,6 +662,11 @@ hash = "fb064285bf0dfd3d7143b585ad5b60a7d0a2f22b85f791ff7afc40a3f4b16561"
 metafile = true
 
 [[files]]
+file = "mods/building-wands.toml"
+hash = "8f842a734a3b4c3f0ef289732dd6bd91d1c7456a61ce4996221cf4e7eae402b7"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.toml"
 hash = "160981ea731e85b1dce8133f25d1a12c356c0aa59b4c04f06ebb0d37f087927e"
 metafile = true
@@ -689,6 +699,11 @@ metafile = true
 [[files]]
 file = "mods/custom-splash-screen.toml"
 hash = "48f2c73865bdf6e08bc5fe31ceb66d06b719cc4024c152fb25a11753455a8c72"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration-fabric.toml"
+hash = "35a8496da0dff3ccd8eee1b81ed103ba0fecce26bbbde8013cd387b2570451e9"
 metafile = true
 
 [[files]]
@@ -802,8 +817,18 @@ hash = "8f5c1c107f48206aae6fa8d270b4cf9d3ecb5d438410e8b071149c63df898d89"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.toml"
+hash = "51ae8cf51d2645daa792675b89be4fbe4fc375f47726293092d7039294d61d52"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.toml"
 hash = "1fbb24b0b382c6d21bd2fed103e564bfe5f3e5ee10e6686faafd0164f07bf8da"
+metafile = true
+
+[[files]]
+file = "mods/player-events.toml"
+hash = "e862ceff924107eafe187dbc93e704af6db34a65115660b0892d4285f65299d3"
 metafile = true
 
 [[files]]

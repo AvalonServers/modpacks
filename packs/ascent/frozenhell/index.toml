@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "68d54b6dbaa35f4c0fba496b3f8837b93e87165ba6aadf85e5af325fc4f78fc9"
+hash = "e8e92c92dc19cd59dd8b88972aef813df76916b3ec2a4f9a33cd593544a75b98"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.toml"
-hash = "c2df20d1f53752c99c1a69dca169a17cd526ebed0efeb1065c7f7323d0d4907d"
+hash = "0a2df8ab40dd1ec24a7ca34d97e7be3de0ba3c2719688aec30d33871efd62e0d"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.toml"
-hash = "20cf77461bd38fedca076ff90d6f0a6b80804803d094af332ac41c22d15940df"
+hash = "66e1bf25c7414d65a8f5416d635b541dae67d17658920a32ac168b062fc2bb58"
 metafile = true
 
 [[files]]

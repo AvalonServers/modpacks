@@ -3,6 +3,10 @@ set -euo pipefail
 
 errored=false
 for folder in packs/*/*; do
+    if [[ ! -f "$folder/pack.toml" ]]; then
+        continue
+    fi
+
     hash_before=$(sha256sum "$folder/index.toml")
     (cd "$folder" && packwiz refresh > /dev/null)
     hash_after=$(sha256sum "$folder/index.toml")

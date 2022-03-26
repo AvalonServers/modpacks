@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1b2e9d8400a3a478714e3337540f2115b60928f4dc3e356baf3702e3df1bdf80"
+
+[[files]]
 file = "config/appliedenergistics2/client.json"
 hash = "5bc8328f338b7b4839bb018de5290a14f72fe9c00d82df612ffa1767af095f54"
 
@@ -615,6 +619,10 @@ hash = "a19d088435d6334295d34fcf23fd2bd181a071a637ceb37cfd0dfdfb32312c56"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "f889088b53215bfed4aa48b7b351c47633fc6400285d663a94387280f215a4e5"
+
+[[files]]
+file = "icon.png"
+hash = "e5a55a7058e0e00e9caaef474f47b11b4f1c59de50b11c1cb386a5c7aa3eccd3"
 
 [[files]]
 file = "mods/alloy-forgery.toml"

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "f871c5996bb50fc98181e9713c5df71475eb53eeaee24ceebdff4ea0ebb478d8"
+
+[[files]]
 file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 

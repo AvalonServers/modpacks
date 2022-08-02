@@ -42,7 +42,7 @@ def update_instgroups(root: str, name: str):
 def write_error(text: str):
     print(text, file=sys.stderr)
 
-parser = argparse.ArgumentParser(description="Tool for testing packs locally via MultiMC")
+parser = argparse.ArgumentParser(description="Tool for testing packs locally via PolyMC")
 parser.add_argument("-p", "--pack", required=True, help="The pack name, i.e. ascent-frozenhell.")
 
 args = parser.parse_args()
@@ -50,9 +50,9 @@ args = parser.parse_args()
 pack_path = packlib.get_pack_dir(os.curdir, args.pack)
 
 mmc_pack_name = f"packwiz-test-{args.pack}"
-mmc_path = appdirs.user_data_dir("multimc")
+mmc_path = appdirs.user_data_dir("polymc")
 if not os.path.exists(mmc_path):
-    write_error("MultiMC data folder not found. Do you have MultiMC installed?")
+    write_error("PolyMC data folder not found. Do you have PolyMC installed?")
     write_error(f"(the folder that could not be found: {mmc_path})")
     exit(1)
 
@@ -83,8 +83,8 @@ with tempfile.TemporaryDirectory() as tmpdir:
 print("starting packwiz server...")
 server = subprocess.Popen(["packwiz", "serve"], cwd=pack_path, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
-print("starting multimc...")
-client = subprocess.Popen(["multimc", "-l", mmc_pack_name], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+print("starting polymc...")
+client = subprocess.Popen(["polymc", "-l", mmc_pack_name], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 server.wait()
 client.wait()

@@ -139,7 +139,9 @@ class ModrinthPackUploader:
         if "forge" in self._pack["versions"]:
             loaders.append("forge")
         if "fabric" in self._pack["versions"]:
-            loaders.append("fabeic")
+            loaders.append("fabric")
+        if "quilt" in self._pack["versions"]:
+            loaders.append("quilt")
 
         fields = {
             "project_id": project_id,
@@ -238,6 +240,13 @@ class MMCPackWriter:
                 {
                     "uid": "net.fabricmc.fabric-loader",
                     "version": self._pack["versions"]["fabric"],
+                }
+            )
+        elif "quilt" in self._pack["versions"]:
+            components.append(
+                {
+                    "uid": "org.quiltmc.quilt-loader",
+                    "version": self._pack["versions"]["quilt"],
                 }
             )
 

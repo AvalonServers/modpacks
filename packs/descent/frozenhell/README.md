@@ -144,7 +144,6 @@ The server eventually shut down due to lag problems. Many large tech mods with m
 - OpenComputers
 - OpenFM
 - OpenPrinter
-- OpenSecurity
 - p455w0rds library
 - ProjectRed
     - Compat

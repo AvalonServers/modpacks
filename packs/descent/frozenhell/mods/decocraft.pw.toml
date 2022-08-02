@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "Decocraft-2.6.3_1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "933f09bf69e768f922d506aeeb88ea901fbb5f9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2777813
+project-id = 79616

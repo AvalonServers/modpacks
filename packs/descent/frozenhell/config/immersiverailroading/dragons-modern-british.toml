@@ -3,11 +3,11 @@ filename = "Dragons_Modern_British1.3.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3016/197/Dragons_Modern_British1.3.zip"
 hash-format = "sha1"
-hash = "12a890aec03f9cff67e7213fc2bf83ddb3b068bf"
+hash = "7d25d71c7d988ecb2216a5c9f09f16b65e1bdd84"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3016197
+file-id = 3550367
 project-id = 367886

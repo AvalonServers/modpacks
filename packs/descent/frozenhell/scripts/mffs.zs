@@ -15,20 +15,6 @@ var esteel = <ore:ingotElectricalSteel>;
 ### machines ###
 ################
 
-# security station
-recipes.addShaped(<modularforcefieldsystem:adv_security>, [
-    [esteel, <opensecurity:biometric_reader>, esteel],
-    [chip1, machine_frame, chip1],
-    [esteel, chip1, esteel]
-]);
-
-# defense station
-recipes.addShaped(<modularforcefieldsystem:area_defense>, [
-    [esteel, <opensecurity:entity_detector>, esteel],
-    [<ore:pearlEnderEye>, machine_frame, <ore:pearlEnderEye>],
-    [esteel, <ore:ingotHardCarbon>, esteel]
-]);
-
 # capacitor
 recipes.addShaped(<modularforcefieldsystem:capacitor>, [
     [esteel, force_crystal, esteel],

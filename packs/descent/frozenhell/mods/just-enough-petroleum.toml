@@ -1,6 +1,6 @@
 name = "Just Enough Petroleum"
 filename = "JustEnoughPetroleum-0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2549/332/JustEnoughPetroleum-0.1.jar"

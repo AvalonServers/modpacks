@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "e538f98f5989ffa6a9984a9bd61c4b5af6812988f9ae420dd50fb7d0f5c815cf"
+hash = "b3b0fc443e531ad4c7616a0a10f3969e7362ccad2ec99aa9e7cb9ab9022d7371"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -430,7 +430,7 @@ hash = "b6282f88e497078d4ee3db8a7046ef4ed05e0ddf1bd02bc5656d02a1d2cc3130"
 
 [[files]]
 file = "config/immersiverailroading/dragons-modern-british.toml"
-hash = "d15f1c5b25cc71894bca796fcdeea7d4cd52c34477be30b4d002a35ce839f3bc"
+hash = "f25cdfd8b849116e3d30866bf8230bfd5b09bf0d09c5928c2e852c516c579f1d"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "config/immersiverailroading/matoi-vanilla-pack-ir.toml"
-hash = "b876594953fdc020c094fdc6c40daf9ab9df17a7a89895176bdc63b7da61ef31"
+hash = "ed0742ac4ff9b980c4a80d8cab2cf7768ffe2d03bf3b79ceb58d744aad47643d"
 metafile = true
 
 [[files]]
@@ -553,10 +553,6 @@ hash = "cb431cc89efb03fe00941be0e54103b930f2dc1998e0362a89f65f4d4d2e1fc8"
 [[files]]
 file = "config/openprinter.cfg"
 hash = "f4d5ee7fb7aa1f7860009a7778bd861fa4a53dbf369a38073c0c7fe79477ffbc"
-
-[[files]]
-file = "config/opensecurity.cfg"
-hash = "5fe52a7ea092f83d5bafe2b1d087ec9dc4082259f96b0a734206bba468f3bfca"
 
 [[files]]
 file = "config/presets/dsurround_emojis.presets"
@@ -753,8 +749,12 @@ file = "marytts/voice-dfki-prudence-hsmm-5.2.jar"
 hash = "63ee01863a7543b65dcf9ede81382888ff37e2d0a26b0b18b22d633edb049784"
 
 [[files]]
-file = "mods/advanced-chimneys.toml"
-hash = "27e6dbe6a017f1b5a367a0044e89801150fac73abd2500a3e7717a2cea7377c9"
+file = "mods/OpenComputers-MC1.12.2-1.7.5.213.jar"
+hash = "4e414de084682bb65d825548cbbea3e5d3bc7767a47cb986e30e1d61fa0d4852"
+
+[[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "8b43c402a3109f5a192424a9f57399850d24cd2904df9ab5b634f47dad1b1592"
 metafile = true
 
 [[files]]
@@ -783,8 +783,8 @@ hash = "09558a199835e9fe13657f5e24bebfbdc768f337d441c89aaba0a4903d70d453"
 metafile = true
 
 [[files]]
-file = "mods/avaritia-1-10.toml"
-hash = "269ef06fdb3f4d4d8f45ea1a357bc1c34a85789cb9f721ab0e579ae26e2e6107"
+file = "mods/avaritia-1-10.pw.toml"
+hash = "14da5ba59f218eaa8ec6dd3d023c1a13fb1f08e9304df41093552bc59b258b72"
 metafile = true
 
 [[files]]
@@ -813,8 +813,8 @@ hash = "7025d4cabd03bcc71ad00e245e293d0300841ad361e1b9525ebe3f9de428ba5d"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft.toml"
-hash = "27613daff04cde7fe073facce4205c3008cf07c3543962d83c37c96471aa08e6"
+file = "mods/buildcraft.pw.toml"
+hash = "47be88744cf01d274e26162717d62c8891ef099da94c56a2dcf9c6657776671a"
 metafile = true
 
 [[files]]
@@ -848,8 +848,8 @@ hash = "da62e9a4b484371d7d07bbfb28a4b43c4b8fe779ee8c68d7dd0818fd97d5e790"
 metafile = true
 
 [[files]]
-file = "mods/charset-lib.toml"
-hash = "f48f99daa3ca9fd3654f07524719afb74873ee9fbbd1bc8531673ab48437dc25"
+file = "mods/charset-lib.pw.toml"
+hash = "bb6614559883645188d628fa9a8de6e606a313019726fcb5b6c3f1a881d25e87"
 metafile = true
 
 [[files]]
@@ -908,8 +908,8 @@ hash = "cab1e53dc5250cc43fd70492ad909c334b98115e6eb36c5c6a44388e9af5170a"
 metafile = true
 
 [[files]]
-file = "mods/commons0815.toml"
-hash = "fc5ffcffa6e3a15f96d0d7a73c84c92f48cdb1b8a33a50662d0156b3b83fb300"
+file = "mods/commons0815.pw.toml"
+hash = "0d169dd83c29fd2940434d9f309385311593daadc8e26ef662bbe7e1628573fc"
 metafile = true
 
 [[files]]
@@ -918,13 +918,13 @@ hash = "b27ae6cf39982a8a5822ff88e61c0a94fcf92d4cc75101be2e3da1bc5e2e4824"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.toml"
-hash = "48c099617d459ddb0477d54f306954b321e1eab89fd23a72ca7f2bb1d776b9f8"
+file = "mods/crafttweaker.pw.toml"
+hash = "2898e2117951a4bef5f3b0a8b81682a3b575279da9033c0ff32d10f3f4cdad5a"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.toml"
-hash = "07b075d91dd1f038edc6c4b509d3f8bdddfb8fb837c70bfd74c13c83220caa44"
+file = "mods/creativecore.pw.toml"
+hash = "5784a2412f5bdf7e729e98d74cec6d7cfaa44bcf608a525555a8115c099ad4bb"
 metafile = true
 
 [[files]]
@@ -933,8 +933,8 @@ hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.toml"
-hash = "b55784b559c79e8d0217549d6fd45b398909d79d9265568b0b18a4613a2ea3d6"
+file = "mods/decocraft.pw.toml"
+hash = "98b11a9d18432fc91d1956270032dd429dada2fc24c2e3913bbe40dd7680cbbc"
 metafile = true
 
 [[files]]
@@ -948,13 +948,13 @@ hash = "232bebe223e0ddbca34d8e81415ff7571c0d37457c7f4a7eb6cdc443eeb3db4b"
 metafile = true
 
 [[files]]
-file = "mods/ender-io-endergy.toml"
-hash = "38db0b0c4cf28d9e664ef79730ec288431b089dbea182edda3e40e8aece740b1"
+file = "mods/ender-io-endergy.pw.toml"
+hash = "27af7c1beca511018f591c4809cfa6346b1c7d501c545cdaebcd2384bb5c04ce"
 metafile = true
 
 [[files]]
-file = "mods/ender-io.toml"
-hash = "78dfc28cf8d88628ab5a7f95ca3705d0e8722bec6d8c51e6321796a2aba022aa"
+file = "mods/ender-io.pw.toml"
+hash = "49aee2514cd42af1bb8ae95b8c41fb9c1f966e79967ace1210a23535b88e0f5f"
 metafile = true
 
 [[files]]
@@ -968,8 +968,8 @@ hash = "a27cc32e622c3e8e395f64298916cdf767fe55617e1d9186b4d20e309e47d580"
 metafile = true
 
 [[files]]
-file = "mods/engineers-decor.toml"
-hash = "41033469dd0f5476ea0160647807e0b5aa934b0825b8d3c76eb7fdb8cfa22f28"
+file = "mods/engineers-decor.pw.toml"
+hash = "709070a621f9db4d97fe3d248201722f55658cdf3af3786c7bef9954282db7c3"
 metafile = true
 
 [[files]]
@@ -1003,13 +1003,13 @@ hash = "8ccc8fdf4954fb2f362793ab7ba0746087a99ff2a55a7f1e72a26946ef18eba7"
 metafile = true
 
 [[files]]
-file = "mods/foamfix-optimization-mod.toml"
-hash = "4b281c1d8b6d76c5bdd9ddcbe38eb642960bec893fadb2d4aab9c247357d4bbd"
+file = "mods/foamfix-optimization-mod.pw.toml"
+hash = "5edb72153ad8ac27b3aa25e2cb7c3f31702c10a4ec132f4f842579513264fb94"
 metafile = true
 
 [[files]]
-file = "mods/forgeendertech.toml"
-hash = "b273b913f6aee818e1e1cd2a8502712e11c72ceefe45ffde219825ad3604a6bb"
+file = "mods/forgeendertech.pw.toml"
+hash = "a4f892d4e0527ad498c92a0f987dd15146c8db2cf82f6b89863abfb3ea0b6d26"
 metafile = true
 
 [[files]]
@@ -1023,18 +1023,18 @@ hash = "5666b7cd02bc3899a484d0428202ed3094939b247bafb679a8d11ac021605122"
 metafile = true
 
 [[files]]
-file = "mods/gunpowderlib.toml"
-hash = "037a5bf5e63077f85aa12173c8bf86810ce90b011e7ad568f100460fad5772e9"
+file = "mods/gunpowderlib.pw.toml"
+hash = "1cfc316dfb5b7071717664fe44a9cf2a62fc03084ba3c7317bf9c2f307dccf5c"
 metafile = true
 
 [[files]]
-file = "mods/hammer-lib.toml"
-hash = "1f07395b76c8e95d8afe87032ef705fffd9f8b2035227d984b230ffceee475c6"
+file = "mods/hammer-lib.pw.toml"
+hash = "19d9d85e1ac80e34ab1426c20965d408e704974d2dafbb2d3f5f729972a7e0f9"
 metafile = true
 
 [[files]]
-file = "mods/icbm-classic.toml"
-hash = "7e10026a87cb512dc24dc89ab80bc6eee32463f28bd7b179e709ab17f54ecc90"
+file = "mods/icbm-classic.pw.toml"
+hash = "4970c905dae0a560a948602ddf08c935022d94daf9b2e8e2f5a1034c9908d33b"
 metafile = true
 
 [[files]]
@@ -1058,18 +1058,18 @@ hash = "e4d37f399d8b1509ea7cf506aa275e75200919e883bfde58a917772fc3b012a5"
 metafile = true
 
 [[files]]
-file = "mods/immersive-intelligence.toml"
-hash = "3de8c5f3021dd51a4d0a992209f0e8ec5a7e5fbf8441ce6bb3183eb56a42a72c"
+file = "mods/immersive-intelligence.pw.toml"
+hash = "cdd27e31aeac3f4ac1eb3db631ea311d93db7e634ac5f17934fd0e22dec2ef55"
 metafile = true
 
 [[files]]
-file = "mods/immersive-petroleum.toml"
-hash = "c901b03164e3909dd2e7b213ef9b997f31ee75a561e314f595d292a4f0066966"
+file = "mods/immersive-petroleum.pw.toml"
+hash = "fdf9c1eb972fa8985f9cf585d8ebecbb1398ca42265b34874a925f0980837c88"
 metafile = true
 
 [[files]]
-file = "mods/immersive-railroading.toml"
-hash = "76bfa35e43be0daa22c5b1e71330de5926785e4f33dc3e1126db255cb786b4fc"
+file = "mods/immersive-railroading.pw.toml"
+hash = "6948e6c00691158c8aa9b6aa7bc99156c22c4b12b2bf2142ccdb86287adc0117"
 metafile = true
 
 [[files]]
@@ -1083,13 +1083,13 @@ hash = "eb9053d774202e70a5f14ade55f5d452dee5d809089c6cbba08da37dc438d436"
 metafile = true
 
 [[files]]
-file = "mods/industrial-wires.toml"
-hash = "9db7cc3622e8723b71f547ceb710aa765801e936139e496fba5c9aef1fbfe8c1"
+file = "mods/industrial-wires.pw.toml"
+hash = "3574aaa9781a7f95fa2c500190f9b3acd3d1d8a898a5608848786192b99ffca9"
 metafile = true
 
 [[files]]
-file = "mods/integration-foregoing.toml"
-hash = "034f4b29302e8bd07f8e9818c4dbaab42475d305993a579adc9137c6004ed3a2"
+file = "mods/integration-foregoing.pw.toml"
+hash = "7006ee8df95fb70b9db9439871042372aa7cfd6081333e027ccb2e82828a9d6c"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-petroleum.toml"
-hash = "8fae1f839d6fcc7e12598220a98ddca39d1abdc6f163ce7b7ad9ca808d3a877c"
+hash = "eb2c319d9d019f129a6c998408001bc61a945601d8483a07119d078c595714eb"
 metafile = true
 
 [[files]]
@@ -1123,13 +1123,13 @@ hash = "dade6297979984c005bc570cbc07bf7ee14638a51c8de56335f3caf28ec76730"
 metafile = true
 
 [[files]]
-file = "mods/mct-immersive-technology.toml"
-hash = "20cf77461bd38fedca076ff90d6f0a6b80804803d094af332ac41c22d15940df"
+file = "mods/mct-immersive-technology.pw.toml"
+hash = "46719658f58c8639c42b63d638b41e95edbbc213986e0c43577feeafcb01f73d"
 metafile = true
 
 [[files]]
-file = "mods/modtweaker.toml"
-hash = "451ddfe1a609df04264ad9c99caf90703d16322b3ed1d9a03bad1fe8b9d74da0"
+file = "mods/modtweaker.pw.toml"
+hash = "809479937b3e98f3ade846266a8ee98365aa2eb12459650f014fa8a73dca7ec2"
 metafile = true
 
 [[files]]
@@ -1158,13 +1158,13 @@ hash = "cc9385bac9b3dca6e188020d412fc99cbbd4e6d8b6d8ed5f0cc5c87d0d595a07"
 metafile = true
 
 [[files]]
-file = "mods/mtlib.toml"
-hash = "bd56acd39a0e8c30ea993e5b0289c8562391c00db7feaaf8dd8ec994f3bcc966"
+file = "mods/mtlib.pw.toml"
+hash = "51449deea003528528c7bd22813fce173094444bbfa657dc3b380dd964142a95"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-mod.toml"
-hash = "ac6850e4a3f7f670ad3ac3b1ecad2cf6e23b660b0de6c0fad30cf82fb3ca7f49"
+file = "mods/nuclearcraft-mod.pw.toml"
+hash = "a083e49b63c511e1629866c1a95883352790cff996b4dc31ac1405574839ee31"
 metafile = true
 
 [[files]]
@@ -1183,23 +1183,13 @@ hash = "ccf96df6dad9693821ff1c5bbfcdf17a8240221d8f8f3e0c54dc7fa132167875"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers.toml"
-hash = "9f8a94107efc6ca0566cf9cd989fc082d5438a9e7e8e438fbacd89a5168dacbf"
-metafile = true
-
-[[files]]
 file = "mods/openfm.toml"
 hash = "7ff6d0d9725bcb70fa7b3b6a56e9a25ac68fbb90e20df62f32d1e00876c19737"
 metafile = true
 
 [[files]]
-file = "mods/openprinter.toml"
-hash = "19e5f7f0cda14282c73ff46addcbdab52bd85b284dcad699dd2a9213c416c1e1"
-metafile = true
-
-[[files]]
-file = "mods/opensecurity.toml"
-hash = "ecc6e576456c0a2dafdbe6704d58d87cabecdbea5259b33fec0f31252acdace7"
+file = "mods/openprinter.pw.toml"
+hash = "47605bff68db59ab4ad16e99a8ce8ba2fa3c0b4410149a16e0ac7a8f80206ee2"
 metafile = true
 
 [[files]]
@@ -1238,8 +1228,8 @@ hash = "f04a8a91b0871a6aeba17ef874fd2c2fce48212b2215e277be9031475c941c05"
 metafile = true
 
 [[files]]
-file = "mods/ptrlib.toml"
-hash = "54af00e43c0e2e724552717103e762ad37c122e90961f6bd1a932db6a9cb9813"
+file = "mods/ptrlib.pw.toml"
+hash = "0a90dae2656cbb17f59775cd288eb814d98bb77e6e89bc16c824a143e86a6ecf"
 metafile = true
 
 [[files]]
@@ -1303,8 +1293,8 @@ hash = "46c2f226602630d2734885ed5e1832a5d20258cc76ff25a5e49ba460aa1f8c37"
 metafile = true
 
 [[files]]
-file = "mods/tesla-core-lib.toml"
-hash = "16bb71582241744093e9d884db33b6594721c9081cbc360a0de0c47d6447d38b"
+file = "mods/tesla-core-lib.pw.toml"
+hash = "fd201bf281cae8253635ad49baf23b985761325f81aa01363ddf7f461982d850"
 metafile = true
 
 [[files]]
@@ -1318,13 +1308,13 @@ hash = "0f51f9f60a7bbf0d35b89c23267c2b34a23fad09988fa5eb346159180b8f3c72"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-additions.toml"
-hash = "581b69fdbdec0dff9a1bf624a6352907f3c1695071398182940d64106b033794"
+file = "mods/thaumic-additions.pw.toml"
+hash = "e5c1278d59d7e9a29f0bbf8cb257481c6d2f46594cfe336e9ab66e2c2ff2a74d"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-augmentation.toml"
-hash = "9d40a3f5d5516934de248e10287e33d202119df09b722e987ec3e7421f7a93ae"
+file = "mods/thaumic-augmentation.pw.toml"
+hash = "96425d5d835f00cba552d2032bd3c079752bb37720cfb1cce3f0163224040534"
 metafile = true
 
 [[files]]
@@ -1393,11 +1383,6 @@ hash = "380174a8c050fb8342d2e09cf769a58af7ca9746091f4daf25797375681df479"
 metafile = true
 
 [[files]]
-file = "mods/universal-mod-core.toml"
-hash = "b27b5bc1f52610014ce33c83eded373294fc0f1e2bf9297984b336a7ca36b5fa"
-metafile = true
-
-[[files]]
 file = "mods/wearable-backpacks.toml"
 hash = "6284aa70fd24e191bd3374c52c0e0a6df10e5609f88c6d4b82a9d6b01217705e"
 metafile = true
@@ -1454,7 +1439,7 @@ hash = "c685f8d450d96a7aaaab44f631bc7d7852df33af295df2ac67622ad58c72ea42"
 
 [[files]]
 file = "scripts/mffs.zs"
-hash = "df4b816f617ad62c62bf1132e21070f2a95e8a85f5f57cce018ed5459b65d9da"
+hash = "73f29343b9c57260fcffbd6d4a2d9e37bdbb3b0bb076073dc184ef9130a48910"
 
 [[files]]
 file = "scripts/openprinter.zs"

@@ -1,0 +1,13 @@
+name = "PTRLib"
+filename = "PTRLib-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7804dbde28e3970ab3c44d0d352b3045207a291a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2685154
+project-id = 291499

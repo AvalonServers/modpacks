@@ -1250,11 +1250,6 @@ hash = "1d7342509fa93510fda74e6d7fbe2ef1bc5c805a115149f016e11f641997c47a"
 metafile = true
 
 [[files]]
-file = "mods/satako-library.toml"
-hash = "b27cbc1a4d5ab762efeb3529c5bf41f8a29aec088223834df8cc5f79671cc09f"
-metafile = true
-
-[[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "d2735f89a6984884ca7e596295ab07e8839cbd7acaf4085c62171568a2bfd462"
 metafile = true
@@ -1312,11 +1307,6 @@ metafile = true
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
 hash = "cb943b47e461a09ea3723fde4102771bc5d501726578074d3cf40499d2589548"
-metafile = true
-
-[[files]]
-file = "mods/thaumic-calculations.toml"
-hash = "2c1e66e7adfea82d4219842d741b35694faaa3ead761a425b77624ef8892304b"
 metafile = true
 
 [[files]]

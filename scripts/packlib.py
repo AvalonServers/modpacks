@@ -9,7 +9,7 @@ import urllib.request
 import subprocess
 import shutil
 
-DOWNLOAD_ENDPOINT = "https://cdn.avalon.arctarus.co.uk/data"
+DOWNLOAD_ENDPOINT = "https://s3.eu-west-1.wasabisys.com/avalon-assets/data"
 INSTALLER_BOOTSTRAPPER_ENDPOINT = "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 
 

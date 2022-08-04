@@ -1040,11 +1040,6 @@ hash = "533533118c0932408a6580ad3beeb3bd2f49edd1760b7b8d13bbcaba85a3ab20"
 metafile = true
 
 [[files]]
-file = "mods/ichunutil.toml"
-hash = "0be416f3a4dcf0352e429b6b2d5cc10ab0017f866ef3fd45778c083b79a2736f"
-metafile = true
-
-[[files]]
 file = "mods/immersive-cables.toml"
 hash = "2652c3aaf8f1fdd87cf2e886c6f498210f8875a238816d93b2f5aa6f9b5ae4b0"
 metafile = true
@@ -1275,11 +1270,6 @@ hash = "219a07552b2cd57f9f1d0e68ea808bd80fae554dda54a56f37c04ca50d8336a8"
 metafile = true
 
 [[files]]
-file = "mods/sync.toml"
-hash = "1a18088cc1d06dd59d1b889c06296817aaf8484965ea4e1b1b4e52e898e81f5a"
-metafile = true
-
-[[files]]
 file = "mods/tails.toml"
 hash = "46c2f226602630d2734885ed5e1832a5d20258cc76ff25a5e49ba460aa1f8c37"
 metafile = true
@@ -1444,10 +1434,6 @@ hash = "5e4ecc56ba7669fba7e8d9307f7fd0463691ffaf1186822182680712905afda2"
 [[files]]
 file = "scripts/railcraft.zs"
 hash = "49712b64ef2ef2df413eaa85f181ae3be7e63df66d87a214b9f2bef137b486b5"
-
-[[files]]
-file = "scripts/sync.zs"
-hash = "1abc434e6928c2b699dba699d860afc0a8f97bd15bba2d99b81cd50b487c4bd3"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

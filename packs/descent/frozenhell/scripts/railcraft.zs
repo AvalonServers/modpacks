@@ -1,3 +1,6 @@
+import crafttweaker.block.IBlock;
+import crafttweaker.block.IBlockDefinition;
+
 // buff recipes a bit
 recipes.removeByRecipeName("railcraft:locomotive_electric#0$1");
 

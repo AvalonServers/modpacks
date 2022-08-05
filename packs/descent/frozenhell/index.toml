@@ -21,12 +21,16 @@ file = "config/AppliedEnergistics2/extracells.cfg"
 hash = "8aacef28002e91b2f504b47912d19b9596a1570d3695386ab2226185297eecad"
 
 [[files]]
-file = "config/AvaritiaTweaks.cfg"
-hash = "db6cb19db867fbc38cce67c6d254b50a5b9db2d20ab658dd734c317891bb4bc0"
-
-[[files]]
 file = "config/IntegrationForegoing.cfg"
 hash = "a6e8eec7cf4cd1265eb7f164579a31dc2a098db62d711d6f7595ffd1e991b770"
+
+[[files]]
+file = "config/MatterOverdrive/MatterOverdrive.cfg"
+hash = "cb4a8fe8544038f02960e790b5445244ca9381716e0f1c0d62f9d4520e5d5b51"
+
+[[files]]
+file = "config/MatterOverdrive/recipes/inscriber.xml"
+hash = "58c316a0bd2538db7e7b28ef2c255d946025e8026a3c60407e9a557ebc3452ee"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
@@ -47,10 +51,6 @@ hash = "6ead3f27d6d98c0eff51c5c77779b2f771103735a68c95cc54b4cd2225924e37"
 [[files]]
 file = "config/asielib.cfg"
 hash = "0d20ca70e415085c7e218d4e5afd40325a45826c3d5ad2a6fa2fc4912c32e296"
-
-[[files]]
-file = "config/avaritia.cfg"
-hash = "efc9872009a9cbe9deb84926be95f65ba5ce51ce74f0f34e2fab98e9930cfc8e"
 
 [[files]]
 file = "config/baubles.cfg"
@@ -799,16 +799,6 @@ hash = "09558a199835e9fe13657f5e24bebfbdc768f337d441c89aaba0a4903d70d453"
 metafile = true
 
 [[files]]
-file = "mods/avaritia-1-10.pw.toml"
-hash = "6f23d45fe071155dd4f3014e7b9f4af7b1336bfbe1c34f8aa23343cc80be3cf2"
-metafile = true
-
-[[files]]
-file = "mods/avaritia-complement.toml"
-hash = "7bd804f421b0bb4cc8ce528e740df04641711f99dd20f3446f5badcacfa10214"
-metafile = true
-
-[[files]]
 file = "mods/baubles.toml"
 hash = "ee536cc0cb4572824c4ab0f0ea6f3e5d2772d2760039808b413d74d88a906a9d"
 metafile = true
@@ -969,11 +959,6 @@ hash = "dd031c2b035202a2accf80f2be63577533c348a0ab0a5658e9ecdff4a32da0a9"
 metafile = true
 
 [[files]]
-file = "mods/engineered-golems.toml"
-hash = "a27cc32e622c3e8e395f64298916cdf767fe55617e1d9186b4d20e309e47d580"
-metafile = true
-
-[[files]]
 file = "mods/engineers-decor.pw.toml"
 hash = "e269b797f696ea4a422384260a9ace0318e921b2ab3755310e7e60414ac7cf18"
 metafile = true
@@ -986,11 +971,6 @@ metafile = true
 [[files]]
 file = "mods/engineers-tools.toml"
 hash = "f45e2f1695754db8ca6d89e2eadcda58ef22794483163ed57f5c7d67eb68625a"
-metafile = true
-
-[[files]]
-file = "mods/expanded-arcanum.toml"
-hash = "45bdde232f9f15ee9bfb2db01c1bee52486cee684d1d2a8d58eafbcece6cf05c"
 metafile = true
 
 [[files]]
@@ -1124,6 +1104,11 @@ hash = "dade6297979984c005bc570cbc07bf7ee14638a51c8de56335f3caf28ec76730"
 metafile = true
 
 [[files]]
+file = "mods/matteroverdrive-legacy.pw.toml"
+hash = "a29a8dfffc39a328d82910fad5bee015add93bf250930e34e932beab0e59b01d"
+metafile = true
+
+[[files]]
 file = "mods/mct-immersive-technology.pw.toml"
 hash = "616af241df1709a54883605623569c94978ac9fe610a1a5b59f9d13d08dc3672"
 metafile = true
@@ -1136,11 +1121,6 @@ metafile = true
 [[files]]
 file = "mods/modular-forcefield-system.toml"
 hash = "0373698e69d5674f73f4b215e8e475b812f0019b67fd0e16b5888284c08e6758"
-metafile = true
-
-[[files]]
-file = "mods/more-avaritia.toml"
-hash = "c73f90177cf8503caa196e4bf9d291dd6e4eb0dfecdd5b1a32ae1c59b41d6c03"
 metafile = true
 
 [[files]]
@@ -1319,11 +1299,6 @@ hash = "ac48245b06fa3290925f63e2cc10403244b0b0b5ea498c7c33eee4b6210f11c5"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-periphery.toml"
-hash = "bd86cf51ea6de1a8c43f00b629fcdae9568d9da1998c4fcd61fb703472ec5abf"
-metafile = true
-
-[[files]]
 file = "mods/thaumic-tinkerer.toml"
 hash = "e1fb9f6dfee09c8480cbe76210552c71f66bad4c978bac4a9e93d5ee0ca28e26"
 metafile = true
@@ -1388,10 +1363,6 @@ file = "scripts/appeng.zs"
 hash = "006dca111538a128ac8745f605f3a0c5021cb48c1cea3da7a78ead8e41881794"
 
 [[files]]
-file = "scripts/avaritia.zs"
-hash = "457c095deaa02d3646b16a5acb9cfff98d6c0f2a625d26cd0d9b7d67c8f67812"
-
-[[files]]
 file = "scripts/chisel.zs"
 hash = "cd4f9a8032e177f8c44351e56c3b6b8d37f222470cfdfded62229765a268dccd"
 
@@ -1437,7 +1408,7 @@ hash = "5e4ecc56ba7669fba7e8d9307f7fd0463691ffaf1186822182680712905afda2"
 
 [[files]]
 file = "scripts/railcraft.zs"
-hash = "49712b64ef2ef2df413eaa85f181ae3be7e63df66d87a214b9f2bef137b486b5"
+hash = "b8d8289a120085cdbe04218a7d519a5b8519e01142df85a59a9ed51676b82e9d"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

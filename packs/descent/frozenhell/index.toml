@@ -30,7 +30,7 @@ hash = "cb4a8fe8544038f02960e790b5445244ca9381716e0f1c0d62f9d4520e5d5b51"
 
 [[files]]
 file = "config/MatterOverdrive/recipes/inscriber.xml"
-hash = "58c316a0bd2538db7e7b28ef2c255d946025e8026a3c60407e9a557ebc3452ee"
+hash = "f5a9cba41162d70b68ea9a4ce71213a380d97482874ea887f714065851658bb1"
 
 [[files]]
 file = "config/MrTJPCore.cfg"

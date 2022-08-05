@@ -90,6 +90,11 @@ hash = "0faba4c61be8f426f7ce4a08ffa08e33cbb00715b729b7109f41e7a3dd1b144e"
 metafile = true
 
 [[files]]
+file = "mods/forge-multi-part.pw.toml"
+hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
+metafile = true
+
+[[files]]
 file = "mods/geostrata.toml"
 hash = "0a71517185eaf8403f25477fe825d1cab39af80b2dfdf86bf6243bb6b35b34c7"
 metafile = true
@@ -107,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/in-game-wiki-mod.toml"
 hash = "0fd7a1fd60c99d29112c457107c4a1710956f0b22c2458128bd8a2bb2ad1b8c7"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.pw.toml"
+hash = "4db4762305744be1a6cf1b1c4505ae9b9bf3dc1a4c0fd3749694da21b98c47bf"
 metafile = true
 
 [[files]]

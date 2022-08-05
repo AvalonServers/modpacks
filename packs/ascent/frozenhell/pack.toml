@@ -1,12 +1,12 @@
 name = "Ascent: Frozen Hell"
 author = "Avalon Servers"
 version = "0.0.6"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "87e09a18fe4e3c9f5fdc9f27b55038332048e26e17d5a842865fa53a5689060a"
+hash = "4d1aec46292743f1bfa697a34844fa7a171907f524f9c95149b80c5c2d2ee8b3"
 
 [versions]
 forge = "14.23.5.2860"

@@ -1457,10 +1457,6 @@ file = "scripts/appeng.zs"
 hash = "006dca111538a128ac8745f605f3a0c5021cb48c1cea3da7a78ead8e41881794"
 
 [[files]]
-file = "scripts/avaritia.zs"
-hash = "457c095deaa02d3646b16a5acb9cfff98d6c0f2a625d26cd0d9b7d67c8f67812"
-
-[[files]]
 file = "scripts/chisel.zs"
 hash = "f73c0a148225b83f550ad713ad4b33f5d0600144070ca7fbaec2bb0aad77ce51"
 

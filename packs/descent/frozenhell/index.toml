@@ -278,7 +278,7 @@ hash = "7cd4a23d210049e0aae4de734eb0987132cca66fc2ca9b37738d4fd863f83738"
 
 [[files]]
 file = "config/dynview.cfg"
-hash = "5fc5ba83422d7152b3712334cbc3c0d0dfe6e708e19062b8e04565abaa7a36a9"
+hash = "ed1a8cf98f91962b1cbdcefd4c61baa2c2b7eef11c5c8ece4aba6ecc102f5402"
 
 [[files]]
 file = "config/endercore/cropconfig.json"
@@ -761,6 +761,10 @@ file = "mods/OpenComputers-MC1.12.2-1.7.5.213.jar"
 hash = "4e414de084682bb65d825548cbbea3e5d3bc7767a47cb986e30e1d61fa0d4852"
 
 [[files]]
+file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+
+[[files]]
 file = "mods/PTRLib-1.0.5.jar"
 hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
 
@@ -1007,6 +1011,16 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
+metafile = true
+
+[[files]]
+file = "mods/forge-essentials-74735.pw.toml"
+hash = "a82eed04c10a54c86809c454a6a91cd64e37875dbf2fa42301fb50e19aa699cc"
+metafile = true
+
+[[files]]
+file = "mods/forge-essentials-client.pw.toml"
+hash = "82b7ad6656b4affd6225709246d686ce6a3d80bb896756421a9f43efa31b2659"
 metafile = true
 
 [[files]]

@@ -519,6 +519,10 @@ file = "config/multipart.cfg"
 hash = "cc6a5f19afb365f55ebaf05e46b6dcc56aa47b4b286973b727ae3514b92d6635"
 
 [[files]]
+file = "config/noworldgen5you.cfg"
+hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
+
+[[files]]
 file = "config/nuclearcraft.cfg"
 hash = "5486ad880f833e57196d1e1e57d8a161725247bca4fafcce03617a88bdb890dc"
 
@@ -1144,6 +1148,11 @@ hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
+file = "mods/no-worldgen-5-you.pw.toml"
+hash = "c592d8593cd1519173c7c9d024fa0f8ecb73c451b6c5d8f5edf50bf396d60d63"
+metafile = true
+
+[[files]]
 file = "mods/nuclearcraft-mod.pw.toml"
 hash = "d74658c8c2268a429c03ec21c33548f06394a16c00ef9814c94fdbd8273b51bd"
 metafile = true
@@ -1357,6 +1366,10 @@ metafile = true
 file = "mods/zetta-industries.toml"
 hash = "6bebaf492b4cd0aa6a164376aec328d95afe77cc780cb700aab9a00ce3940915"
 metafile = true
+
+[[files]]
+file = "policy.md"
+hash = "4e6fa0d423406cef78f96ef88d49d7299184103b05c221e8b7c260c45ea5c0ec"
 
 [[files]]
 file = "scripts/appeng.zs"

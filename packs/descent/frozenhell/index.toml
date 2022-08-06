@@ -1368,10 +1368,6 @@ hash = "6bebaf492b4cd0aa6a164376aec328d95afe77cc780cb700aab9a00ce3940915"
 metafile = true
 
 [[files]]
-file = "policy.md"
-hash = "4e6fa0d423406cef78f96ef88d49d7299184103b05c221e8b7c260c45ea5c0ec"
-
-[[files]]
 file = "scripts/appeng.zs"
 hash = "006dca111538a128ac8745f605f3a0c5021cb48c1cea3da7a78ead8e41881794"
 

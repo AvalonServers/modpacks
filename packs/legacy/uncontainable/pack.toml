@@ -1,12 +1,12 @@
 name = "Uncontainable"
 author = "CitadelCore"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "57a1214041de7d67ea60b2eb11743687bfeaf4635457b3f1135a2218efd0d386"
+hash = "c79d72c104027c946367c03a0f3c4cf3d9d3cfb0d727f15df8a71f4f953e6ebf"
 
 [versions]
 forge = "10.13.0.1150"

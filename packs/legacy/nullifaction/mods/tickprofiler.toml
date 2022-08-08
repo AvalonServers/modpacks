@@ -1,0 +1,8 @@
+name = "TickProfiler"
+filename = "TickProfiler-1.7.10.jenkins.37.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/TickProfiler-1.7.10.jenkins.37.jar"
+hash-format = "sha256"
+hash = "805b88bddbd714d3ec503956df0415cb74c370873115a3c998b41bddf3d78dd7"

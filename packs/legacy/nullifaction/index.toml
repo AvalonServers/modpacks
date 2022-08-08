@@ -9,22 +9,6 @@ file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 
 [[files]]
-file = "mods/BioLock-v2.2.pr1-1.7.10.jar"
-hash = "362ec26decd29cdd5a80cb82725f3e884049a821f29fefac56963b2db03b8a81"
-
-[[files]]
-file = "mods/ExtraCells-1.7.10-2.3.14b197.jar"
-hash = "48735b82e240bcadea62baa3a5ab601d091045579e1ecd1945866393394f4ce1"
-
-[[files]]
-file = "mods/IC2NCaddedsounds-2.4.2a.jar"
-hash = "4afc2f1911751eaab4d31bfa5b23f76c75eb5adc51fe47b92ddf3ee1355af26e"
-
-[[files]]
-file = "mods/TickProfiler-1.7.10.jenkins.37.jar"
-hash = "805b88bddbd714d3ec503956df0415cb74c370873115a3c998b41bddf3d78dd7"
-
-[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "87717836e5fbbbe979f245e991f9ab9d2056c43f5264e41d8c6d0777c4502aea"
 metafile = true
@@ -33,6 +17,10 @@ metafile = true
 file = "mods/asielib.toml"
 hash = "5974d2da1ebeee082e61ef6760102260ca7141f5e64bba9ca0d3ba80a302ad7d"
 metafile = true
+
+[[files]]
+file = "mods/biolock.toml"
+hash = "c06df07ef292c686f4b8c25d8c8cf2057038ecdd815790c2e582902bb4d9dde1"
 
 [[files]]
 file = "mods/cclights2.toml"
@@ -46,7 +34,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromaticraft.toml"
-hash = "1bb034eb96b807bd6c7fb50b4671ebb2be5a64daf6066b2221b91bfbcff2f9dc"
+hash = "bb5f3ddfb7002c4c54ddb21162f84b7d774d0cd72724401870607fa41fd83696"
 metafile = true
 
 [[files]]
@@ -71,17 +59,17 @@ metafile = true
 
 [[files]]
 file = "mods/dragonapi.toml"
-hash = "08a7ae36303395c2224ea02e4b85b7307f544bcb75f2d61d04f165d5d1564473"
+hash = "9d14f9948fb7de746bfbbe8518e41c8878898a97dd71c76fd0a7cfed17eda0e8"
 metafile = true
 
 [[files]]
 file = "mods/electricraft.toml"
-hash = "efe32d70862d44b1f53f048823932604b86cb7b48206b32327b0a734effa95fe"
+hash = "608abbd5aa516d51663f25a08ca830f313d700c4b74a3a98cbbd6b040dc9b48e"
 metafile = true
 
 [[files]]
 file = "mods/expandedredstone.toml"
-hash = "cd7f18b3bc0f3f0c702069510d4575279fd725bf5831eb07a64dffb8f8d64478"
+hash = "fc4f61d4d1b7d5d65910b5567821da97554ac7539849c202c6e52f218d8520ea"
 metafile = true
 
 [[files]]
@@ -90,14 +78,22 @@ hash = "0faba4c61be8f426f7ce4a08ffa08e33cbb00715b729b7109f41e7a3dd1b144e"
 metafile = true
 
 [[files]]
+file = "mods/extracells.toml"
+hash = "4931fdabfa6f3020c3faa8a18a043bc7e35efccce4726daf8c6cfb7907458ad8"
+
+[[files]]
 file = "mods/forge-multi-part.pw.toml"
 hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
 metafile = true
 
 [[files]]
 file = "mods/geostrata.toml"
-hash = "0a71517185eaf8403f25477fe825d1cab39af80b2dfdf86bf6243bb6b35b34c7"
+hash = "ce3aa7e3edcc60ae399584a9f541858962e57d9813e6c954593a1dcf21d4da64"
 metafile = true
+
+[[files]]
+file = "mods/ic2ncaddedsounds.toml"
+hash = "bd1bede31d4fad5971dd411daba5c5a5e0c2e6c1740f5d0e457b165d585d452f"
 
 [[files]]
 file = "mods/immibis-core.toml"
@@ -135,8 +131,8 @@ hash = "fa92c9f8008e9435066f47da05242b70ffdb87a5152ce2b7665aa86927e46a95"
 metafile = true
 
 [[files]]
-file = "mods/mp3spi-1.9.5-1.jar"
-hash = "b716a03527ffcb247cb0c0f348261619323f6ca9af2a9a17ef1e1a218a21293f"
+file = "mods/mp3spi.toml"
+hash = "79caea86d8aa35da95c7aea226fa0152e8188595fe1bffe35723e697cbbda4e4"
 
 [[files]]
 file = "mods/notenoughitems.toml"
@@ -215,26 +211,30 @@ metafile = true
 
 [[files]]
 file = "mods/reactorcraft.toml"
-hash = "90181a94e2c5da54d48a7e33b8fef24d0723e2f76a89a73ac48f6ab76965cbc5"
+hash = "9812a52b09c1346626d27083314d80fd4c3013e4143381fad1134e98fb247846"
 metafile = true
 
 [[files]]
-file = "mods/rhino-1_7r4.jar"
-hash = "eb4cbd05a48ee4448825da229e94115e68adc6c5638d29022914e1178c60a6c4"
+file = "mods/rhino.toml"
+hash = "987ea53aa39d354d5a0b0b8544c1fd514c12b8cbb47f7bf9f4f31186f0b62eb8"
 
 [[files]]
 file = "mods/rotarycraft.toml"
-hash = "d07183c5a30aaa687d992863ba34eca59cf4995240b0a1fad09cd33e8c5447fc"
+hash = "adde67342e46f4519874d42df353be4ccc30ecf5415036bf51fe37903a34c9b5"
 metafile = true
 
 [[files]]
 file = "mods/territoryzone.toml"
-hash = "554a177018ce73e51e4f61cd7909da59beb8ff92ffe40a8a6d46f1d72544d11f"
+hash = "0bf6825707ff8318a5f80a11e93c95d06c9f4fd2f7242914a8c2b0437d093376"
 metafile = true
 
 [[files]]
-file = "mods/vorbisspi-1.0.3-1.jar"
-hash = "875a4c1159fc1b2b54327a0f2d86ebff8e959f929240574accfada882b963a45"
+file = "mods/tickprofiler.toml"
+hash = "c758374a67265d0fb067350898cb058a428db89ad000de7d27d95c740e4779ec"
+
+[[files]]
+file = "mods/vorbisspi.toml"
+hash = "36fb725578b8035019484b047e58990e97f43125e4e7a2aa07160b244dbf1b77"
 
 [[files]]
 file = "mods/waila.toml"

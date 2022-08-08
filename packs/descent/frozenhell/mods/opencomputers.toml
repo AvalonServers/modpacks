@@ -1,0 +1,8 @@
+name = "OpenComputers"
+filename = "OpenComputers-MC1.12.2-1.7.5.213.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/OpenComputers-MC1.12.2-1.7.5.213.jar"
+hash-format = "sha256"
+hash = "4e414de084682bb65d825548cbbea3e5d3bc7767a47cb986e30e1d61fa0d4852"

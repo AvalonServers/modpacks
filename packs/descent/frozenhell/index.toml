@@ -749,28 +749,8 @@ hash = "d626969b9ee08af541a381a8785c610a77bf011820bb26dfa301792270756c0b"
 metafile = true
 
 [[files]]
-file = "marytts/voice-dfki-prudence-hsmm-5.2.jar"
-hash = "63ee01863a7543b65dcf9ede81382888ff37e2d0a26b0b18b22d633edb049784"
-
-[[files]]
-file = "mods/Commons0815-1.12.2-1.4.0.jar"
-hash = "b8302780b2d234fb686c48b149ea8705291dca2a5f4b252a1e1e1ae3759bef5d"
-
-[[files]]
-file = "mods/Decocraft-2.6.3.7_1.12.2.jar"
-hash = "8f1a4791109d0cde722705bdbf9438d3783ee4b40fc7608e00aae19c2a2e568b"
-
-[[files]]
-file = "mods/OpenComputers-MC1.12.2-1.7.5.213.jar"
-hash = "4e414de084682bb65d825548cbbea3e5d3bc7767a47cb986e30e1d61fa0d4852"
-
-[[files]]
-file = "mods/OptiFine_1.12.2_HD_U_G5.jar"
-hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
-
-[[files]]
-file = "mods/PTRLib-1.0.5.jar"
-hash = "d6e815a765bea4c419176aba73b7e59c0c6095b59ec37894b2e221858fcd81bd"
+file = "marytts/voice-dfki-prudence-hsmm.toml"
+hash = "41c2fef3383dc9ce91ed3d3e8338d552d2dac94413d1f0c6781a65b349d18b3c"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
@@ -918,6 +898,10 @@ hash = "cab1e53dc5250cc43fd70492ad909c334b98115e6eb36c5c6a44388e9af5170a"
 metafile = true
 
 [[files]]
+file = "mods/commons0815.toml"
+hash = "2190e5d5d1669bfd2300e2e16244914de98e807f7b206110f4d4346f891c772f"
+
+[[files]]
 file = "mods/computronics.toml"
 hash = "b27ae6cf39982a8a5822ff88e61c0a94fcf92d4cc75101be2e3da1bc5e2e4824"
 metafile = true
@@ -936,6 +920,10 @@ metafile = true
 file = "mods/ctm.toml"
 hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
+
+[[files]]
+file = "mods/decocraft.toml"
+hash = "41b1647e325f291ade49e8d3a2a31d1e3349ff3951e0dff16bea9b64fe9a7005"
 
 [[files]]
 file = "mods/dynamic-view.toml"
@@ -1173,6 +1161,10 @@ hash = "ccf96df6dad9693821ff1c5bbfcdf17a8240221d8f8f3e0c54dc7fa132167875"
 metafile = true
 
 [[files]]
+file = "mods/opencomputers.toml"
+hash = "23b66b73f6aa64a9b4cde3a75bbbb6b57d6f402c0253e671325de42ecb8e1661"
+
+[[files]]
 file = "mods/openfm.toml"
 hash = "7ff6d0d9725bcb70fa7b3b6a56e9a25ac68fbb90e20df62f32d1e00876c19737"
 metafile = true
@@ -1181,6 +1173,10 @@ metafile = true
 file = "mods/openprinter.pw.toml"
 hash = "01e41b8bf4b9e0f7f3beee9d4d311c231ae744f7d91b898ae0ea492a2f18130e"
 metafile = true
+
+[[files]]
+file = "mods/optifine.toml"
+hash = "1c81ecbd040413963a292b2786b3e6481c4cebc56a40bd1ca9508d5f41be5150"
 
 [[files]]
 file = "mods/p455w0rds-library.toml"
@@ -1216,6 +1212,10 @@ metafile = true
 file = "mods/project-red-integration.toml"
 hash = "f04a8a91b0871a6aeba17ef874fd2c2fce48212b2215e277be9031475c941c05"
 metafile = true
+
+[[files]]
+file = "mods/ptrlib.toml"
+hash = "ce16eaae7ae839d57f66596123a21dd33e7148722c67943918dfe021b73f6db2"
 
 [[files]]
 file = "mods/railcraft.toml"

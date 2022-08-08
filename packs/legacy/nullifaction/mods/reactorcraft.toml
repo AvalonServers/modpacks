@@ -1,5 +1,5 @@
 name = "ReactorCraft"
-filename = "ReactorCraft 1.7.10 V31b.jar"
+filename = "ReactorCraft-1.7.10-V31b.jar"
 side = "both"
 
 [download]
@@ -7,7 +7,6 @@ url = "https://edge.forgecdn.net/files/3574/505/ReactorCraft%201.7.10%20V31b.jar
 hash-format = "sha1"
 hash = "70bd6107d767de24ab288171b7cb9372a67523d7"
 
-[update]
 [update.curseforge]
 file-id = 3574505
 project-id = 235593

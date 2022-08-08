@@ -1,0 +1,8 @@
+name = "Rhino"
+filename = "rhino-1_7r4.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/rhino-1_7r4.jar"
+hash-format = "sha256"
+hash = "eb4cbd05a48ee4448825da229e94115e68adc6c5638d29022914e1178c60a6c4"

@@ -1,5 +1,5 @@
 name = "ExpandedRedstone"
-filename = "ExpandedRedstone 1.7.10 V31a.jar"
+filename = "ExpandedRedstone-1.7.10-V31a.jar"
 side = "both"
 
 [download]
@@ -7,7 +7,6 @@ url = "https://edge.forgecdn.net/files/3570/163/ExpandedRedstone%201.7.10%20V31a
 hash-format = "sha1"
 hash = "117300dc7353f2342ed5a4f5d3338f2766088839"
 
-[update]
 [update.curseforge]
 file-id = 3570163
 project-id = 235602

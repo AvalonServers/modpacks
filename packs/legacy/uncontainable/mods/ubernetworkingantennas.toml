@@ -1,0 +1,8 @@
+name = "Uber Networking Antennas"
+filename = "ubernetworkingantennas-1.7.10-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/ubernetworkingantennas-1.7.10-0.1.0.jar"
+hash-format = "sha256"
+hash = "30d10b348e68785cd5a1f9406a77c84d8ed9706d1edf75daeafbe7ecad1ed9ae"

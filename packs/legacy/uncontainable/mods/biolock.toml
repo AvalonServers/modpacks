@@ -1,0 +1,8 @@
+name = "BioLock"
+filename = "BioLock-v2.2.pr1-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/BioLock-v2.2.pr1-1.7.10.jar"
+hash-format = "sha256"
+hash = "362ec26decd29cdd5a80cb82725f3e884049a821f29fefac56963b2db03b8a81"

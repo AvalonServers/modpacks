@@ -1,0 +1,8 @@
+name = "MP3SPI"
+filename = "mp3spi-1.9.5-1.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/mp3spi-1.9.5-1.jar"
+hash-format = "sha256"
+hash = "b716a03527ffcb247cb0c0f348261619323f6ca9af2a9a17ef1e1a218a21293f"

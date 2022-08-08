@@ -1,0 +1,8 @@
+name = "DFKI Prudence HSMM"
+filename = "voice-dfki-prudence-hsmm-5.2.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/voice-dfki-prudence-hsmm-5.2.jar"
+hash-format = "sha256"
+hash = "63ee01863a7543b65dcf9ede81382888ff37e2d0a26b0b18b22d633edb049784"

@@ -1,5 +1,5 @@
 name = "RotaryCraft"
-filename = "RotaryCraft 1.7.10 V31b.jar"
+filename = "RotaryCraft-1.7.10-V31b.jar"
 side = "both"
 
 [download]
@@ -7,7 +7,6 @@ url = "https://edge.forgecdn.net/files/3574/506/RotaryCraft%201.7.10%20V31b.jar"
 hash-format = "sha1"
 hash = "f7aec455aaccff0b11bf54638fd632033fe86d4e"
 
-[update]
 [update.curseforge]
 file-id = 3574506
 project-id = 235596

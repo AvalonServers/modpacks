@@ -714,8 +714,8 @@ hash = "d626969b9ee08af541a381a8785c610a77bf011820bb26dfa301792270756c0b"
 metafile = true
 
 [[files]]
-file = "marytts/voice-dfki-prudence-hsmm-5.2.jar"
-hash = "63ee01863a7543b65dcf9ede81382888ff37e2d0a26b0b18b22d633edb049784"
+file = "marytts/voice-dfki-prudence-hsmm.toml"
+hash = "41c2fef3383dc9ce91ed3d3e8338d552d2dac94413d1f0c6781a65b349d18b3c"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/avaritia-complement.toml"
-hash = "d8e34da7c2325d302e4b9528f15dd16af45755f1823cc45032e1c757d28e8b15"
+hash = "7bd804f421b0bb4cc8ce528e740df04641711f99dd20f3446f5badcacfa10214"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-builders-wands.toml"
-hash = "5bd76029d4ed3d48a60d05a9aa27c26b5e50932864da01862f5d184d5e442c91"
+hash = "01121b6669638a7350e0296bf1d941999e875bd84b15eada608b43c7db5a29ac"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/engineered-golems.toml"
-hash = "83a2595c8a7a3e8a6ad9d26b0b2066ebbe5b6e6eed38b87649ea318670d05bf6"
+hash = "a27cc32e622c3e8e395f64298916cdf767fe55617e1d9186b4d20e309e47d580"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.toml"
-hash = "44a436b85a8236165536fbf225088505c64d352a1bf5e776fb5150866dfd4d45"
+hash = "c2b0f06a10194a033a08f2a431171d12539a8dbe22f8763a804a695dc584d317"
 metafile = true
 
 [[files]]
@@ -1309,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/stimmedcow-nomorerecipeconflict.toml"
-hash = "e6e433877c481ed050a77ff0c069c7a79eb603252f495b00e4e47f6b0cb85f72"
+hash = "6207cb35f93c01bd63dafb513c4a544cf44f2abeb055ea2c4624659e6bb5244d"
 metafile = true
 
 [[files]]

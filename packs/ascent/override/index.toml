@@ -529,6 +529,10 @@ file = "config/zettaindustries.cfg"
 hash = "51ff7f1215d80fd1a07ec6aa14685f0590a7e81a608702b42b89995560e6239a"
 
 [[files]]
+file = "icon.png"
+hash = "1a5b91bc76db75add1d2709c8dd331b25b680daca630c1f1f16d6998bbdd132a"
+
+[[files]]
 file = "mods/ae2wtlib.pw.toml"
 hash = "ce050f4ae82f3d6df53b775951c048d313a8b35eaf87e2125d42c8ee6bdbd5f8"
 metafile = true
@@ -1103,3 +1107,7 @@ hash = "c7cf0a58066593d48d054fe3454d2d6239ead8991d36e9f46edfd41c9c1aecac"
 [[files]]
 file = "resources/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"
 hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"
+
+[[files]]
+file = "start.sh"
+hash = "5e08af981191737d8ed0bdfc1f8760e17f6bc256ef8d1826e50a02cc63cdb12f"

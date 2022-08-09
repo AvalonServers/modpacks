@@ -1,0 +1,13 @@
+name = "Override"
+author = "Alex Zero"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c4eff5c4e314ba48ca5d82c3b1a4ac9e7c5e7939d52b37fdcced4aac3061ec52"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

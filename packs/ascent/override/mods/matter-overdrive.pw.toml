@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/MatterOverdrive-1.12.2-0.8.0-universal.jar"
 hash-format = "sha256"
-hash = "b3929db0258de2d82b84e74e66bad90505c72796e55fc105ed14d8e8da656c34"
+hash = "a72a0810eac8589155d09078655b93c45c727927b0780c4fccaf6b3cd54ccc2c"

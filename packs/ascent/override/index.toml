@@ -58,7 +58,7 @@ hash = "9942e8e7cac1c56242efea389b4afb2970a9c6d62b252fc64624423463afe938"
 
 [[files]]
 file = "config/codechicken/supporters.json"
-hash = "17dbbdaf349fe74ceeecfdce8c5e54247ccaf83775749d9194d20d23674540f0"
+hash = "7e43f5aa2d5bd09420ca3513730184c6796435f24d319e55d3be7a47035e6279"
 
 [[files]]
 file = "config/codechicken/supporters.marker"
@@ -90,7 +90,7 @@ hash = "c297275b538da1e0c1033e3c5d85e03f3da4d57d6a58790653569e59a2ff3218"
 
 [[files]]
 file = "config/cofh/thermaldynamics/cover_blacklist.json"
-hash = "4bea0304342029262d27286d6089165d091f147809c93edd7a8ba986e2584fdf"
+hash = "9671cdb2d2f6ac1666bf63f56e568c674a1bd933280768ee0e78fbed4cf8c8f2"
 
 [[files]]
 file = "config/cofh/thermalexpansion/client.cfg"
@@ -122,19 +122,19 @@ hash = "f5001a5e295ea9c616cdb91b604b2593216cd215a457dcb41f44a884e3ed3d4c"
 
 [[files]]
 file = "config/cofh/world/00_minecraft.json"
-hash = "cba133ba6ce78679471b1d29260c126f5b3d357d751f3b3ff73d9fc1790f8130"
+hash = "6ecfbc51c9e98aa905a93516c177d881e282a6f99faa66d93f6e21cbef5085fe"
 
 [[files]]
 file = "config/cofh/world/01_thermalfoundation_ores.json"
-hash = "d9a45850f874a6956c68c5982b0ca3f9adb433dd7c79541c6eaabd92b84822c4"
+hash = "3ee545abc7f6d7c8cfd1b431d3901653d1c481c338b6fde43c998451be2be163"
 
 [[files]]
 file = "config/cofh/world/02_thermalfoundation_oil.json"
-hash = "4de8460e4846527c3c4c947e6156bdd640055a0a34ffef6f37955dafca8654fe"
+hash = "f0b3241dca20b7619ad4f58d77c99b568192a5bd3ffd40d0f31c5c1921a86acb"
 
 [[files]]
 file = "config/cofh/world/03_thermalfoundation_clathrates.json"
-hash = "59b06d7a6362e0937c63cb7716cdf043ff84fcd945b3536293efb6e0c1b8fa0d"
+hash = "8e19adc8a921f3a656b216d5023ed022a22c43fac91299d19f1cfed61fe89c64"
 
 [[files]]
 file = "config/cofh/world/config.cfg"

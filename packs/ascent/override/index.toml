@@ -182,7 +182,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "5c922f66e8c495b581697174a47e1c79676f32f1aefc8bcd759726c2c6cf052b"
+hash = "5cbe74664f12236558d1ad8e315508db42eb7472d21bfa21feb26c2bd55193a6"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
@@ -658,8 +658,8 @@ hash = "9ccc79f5e58d87a2240bba4d24c29f284b1eed99b157a0a60f19ad9b125b5236"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
-hash = "1e618970fca7ce80725b5ada1c2f4eeaff93f76dcdb6d6718d49a8dd438ee221"
+file = "mods/hbms-nuclear-tech-mod-blackout.pw.toml"
+hash = "f88110ae0043d3d358098f956f0ce6b384826210cf942445abd4770889225106"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.pw.toml"
-hash = "260f17df66f36ac79ab67ba721c28f868c09a32c9c858649f9971f9147cf6e21"
+hash = "acab9e1399b025ddc684f719679aa179b902dce0ce2fe0897245f4a3e45be572"
 metafile = true
 
 [[files]]
@@ -765,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/mtlib.pw.toml"
 hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
+metafile = true
+
+[[files]]
+file = "mods/nether-update-backport.pw.toml"
+hash = "af52db6ee49f4277c8700147660a15cb6381bdf44930c099c5e0379551a0a1d1"
 metafile = true
 
 [[files]]

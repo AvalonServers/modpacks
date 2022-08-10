@@ -1,0 +1,8 @@
+name = "Hbm's Nuclear Tech Mod (Blackout Edition)"
+filename = "hbm-1.6.8a-Gv5-blackout.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/hbm-1.6.8a-Gv5-blackout.jar"
+hash-format = "sha256"
+hash = "5475f08e10e5bd392d02f375873f1ee4c7d40e13c93cb1ab3e850ed1b065fd63"

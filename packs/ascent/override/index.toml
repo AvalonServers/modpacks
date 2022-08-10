@@ -978,7 +978,7 @@ hash = "89c07197a449ecedccde4680a7e67a019e9dcc28d688179494f09b2a29bdac12"
 
 [[files]]
 file = "resources/minecraft/lang/en_us.lang"
-hash = "7497931c90028775e3218adccc39d5028de831c8888e1169bd40125e4945d97e"
+hash = "a5b69eca54a596a62143bf04b35df4f275cdf71ff775e790de3ad37e120475f5"
 
 [[files]]
 file = "resources/minecraft/texts/credits.txt"
@@ -990,19 +990,7 @@ hash = "f7703cf2349d2d12816639bbaa83050d8d0609d4ab0d62f96fe5ccfe4d07a654"
 
 [[files]]
 file = "resources/minecraft/texts/splashes.txt"
-hash = "ebbf5d68c4437cd40f5c3fa8063d0702d30fe63f21dd8813045ea3b9113f6d51"
-
-[[files]]
-file = "resources/minecraft/textures/blocks/piston_top_sticky.png"
-hash = "3a9d38d31452b658ca479be130d8bb845706d2ca0ac9d4ca53308cbeb6762d62"
-
-[[files]]
-file = "resources/minecraft/textures/blocks/slime.png"
-hash = "63758e4d55245ec6d5a2a894b5e6d3ab726d7abdcb6fe20e676d1aeeda131014"
-
-[[files]]
-file = "resources/minecraft/textures/entity/slime/slime.png"
-hash = "8faea054851f8aed9e43bd77b8d5a225e154edc25a7d2ef65a96c0e58066938e"
+hash = "7eba8bb4acec9eb5a54681cd07a83e3a85a8a76a25d39a696bf4a13f45eb2da7"
 
 [[files]]
 file = "resources/minecraft/textures/gui/advancements/tabs.png"
@@ -1191,10 +1179,6 @@ hash = "8df607ba6233ddd341d5e3a872b6af2233826c95edc91afeb9321ff846f6a3fc"
 [[files]]
 file = "resources/minecraft/textures/items/empty_armor_slot_shield.png"
 hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
-
-[[files]]
-file = "resources/minecraft/textures/items/slimeball.png"
-hash = "c7cf0a58066593d48d054fe3454d2d6239ead8991d36e9f46edfd41c9c1aecac"
 
 [[files]]
 file = "resources/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"

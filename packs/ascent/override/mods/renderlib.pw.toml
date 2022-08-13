@@ -1,6 +1,6 @@
 name = "RenderLib"
 filename = "RenderLib-1.12.2-1.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

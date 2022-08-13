@@ -898,8 +898,9 @@ hash = "cab1e53dc5250cc43fd70492ad909c334b98115e6eb36c5c6a44388e9af5170a"
 metafile = true
 
 [[files]]
-file = "mods/commons0815.toml"
+file = "mods/commons0815.pw.toml"
 hash = "2190e5d5d1669bfd2300e2e16244914de98e807f7b206110f4d4346f891c772f"
+metafile = true
 
 [[files]]
 file = "mods/computronics.toml"
@@ -922,8 +923,9 @@ hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.toml"
+file = "mods/decocraft.pw.toml"
 hash = "41b1647e325f291ade49e8d3a2a31d1e3349ff3951e0dff16bea9b64fe9a7005"
+metafile = true
 
 [[files]]
 file = "mods/dynamic-view.toml"
@@ -1161,8 +1163,9 @@ hash = "ccf96df6dad9693821ff1c5bbfcdf17a8240221d8f8f3e0c54dc7fa132167875"
 metafile = true
 
 [[files]]
-file = "mods/opencomputers.toml"
+file = "mods/opencomputers.pw.toml"
 hash = "23b66b73f6aa64a9b4cde3a75bbbb6b57d6f402c0253e671325de42ecb8e1661"
+metafile = true
 
 [[files]]
 file = "mods/openfm.toml"
@@ -1175,8 +1178,9 @@ hash = "01e41b8bf4b9e0f7f3beee9d4d311c231ae744f7d91b898ae0ea492a2f18130e"
 metafile = true
 
 [[files]]
-file = "mods/optifine.toml"
+file = "mods/optifine.pw.toml"
 hash = "1c81ecbd040413963a292b2786b3e6481c4cebc56a40bd1ca9508d5f41be5150"
+metafile = true
 
 [[files]]
 file = "mods/p455w0rds-library.toml"
@@ -1214,8 +1218,9 @@ hash = "f04a8a91b0871a6aeba17ef874fd2c2fce48212b2215e277be9031475c941c05"
 metafile = true
 
 [[files]]
-file = "mods/ptrlib.toml"
+file = "mods/ptrlib.pw.toml"
 hash = "ce16eaae7ae839d57f66596123a21dd33e7148722c67943918dfe021b73f6db2"
+metafile = true
 
 [[files]]
 file = "mods/railcraft.toml"

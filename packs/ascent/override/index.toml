@@ -643,6 +643,11 @@ hash = "cd43c995d3b2f2095d27c5ca40cef005adff2dc07a827c7b9a6aff4a14438ffe"
 metafile = true
 
 [[files]]
+file = "mods/faster-ladder-climbing.pw.toml"
+hash = "2412145ac3688d33a36efc242c766ea7f598761ef1672c2629541b332f4a78c6"
+metafile = true
+
+[[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
 metafile = true
@@ -655,11 +660,6 @@ metafile = true
 [[files]]
 file = "mods/future-mc.pw.toml"
 hash = "9ccc79f5e58d87a2240bba4d24c29f284b1eed99b157a0a60f19ad9b125b5236"
-metafile = true
-
-[[files]]
-file = "mods/hbms-nuclear-tech-mod-blackout.pw.toml"
-hash = "f88110ae0043d3d358098f956f0ce6b384826210cf942445abd4770889225106"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/matter-overdrive.pw.toml"
-hash = "ff39ed386839bf660f7ac9755bdb70e84d81ea10775d8db68fa3cf984bfe40cf"
+hash = "7dcf756a990dedfc93e0e2ab37e8f6b321cd6cd06b376355f353e6e118709922"
 metafile = true
 
 [[files]]
@@ -1183,6 +1183,14 @@ hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
 [[files]]
 file = "resources/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"
 hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"
+
+[[files]]
+file = "scripts/matteroverdrive.zs"
+hash = "c48661debb3b0840d71e4f952b652d469b97c3639daf161398b8a54774f00b9e"
+
+[[files]]
+file = "scripts/vanilla.zs"
+hash = "4a8da51c6e5b9fed63d910078cd8fc090807035609bcd45101cab329d5d8889a"
 
 [[files]]
 file = "start.sh"

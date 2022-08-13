@@ -29,14 +29,6 @@ file = "config/AppliedEnergistics2/items.csv"
 hash = "a5e0c43d99fc89494ae3276b59c966d72331bc3d46f723181033eb1e76235d17"
 
 [[files]]
-file = "config/CoroUtil/BlockDestruction.cfg"
-hash = "82506687672bf9cbd1d421bb64b138366a8cf5c12024e65cda9fa0d194941fb6"
-
-[[files]]
-file = "config/CoroUtil/General.cfg"
-hash = "a8fedf1a2b36643f2a6d297d781bcd7bc7f45d622dacfe43534bc21657d976b4"
-
-[[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
 hash = "ec6a9fd24cca4c985c3446b24c0dbf78e919b3bdcb8a2e9fc3c9def952422ac5"
 
@@ -55,38 +47,6 @@ hash = "800bba74a688bfec4597325f5b195c1141e0105c7878b8ed180b1dc004892c85"
 [[files]]
 file = "config/TinkerModules.cfg"
 hash = "b8560ee6ba7c99297a489fd1f39217e47431238db471a5140af31a1d7718d2cc"
-
-[[files]]
-file = "config/Weather2/Foliage.cfg"
-hash = "736a0a67532f765a89b3a1032450667e6f6764aa5764f104ff24dbdc6383934e"
-
-[[files]]
-file = "config/Weather2/Misc.cfg"
-hash = "3b7d9d586ec4cc67219caa88a4fd636557673fdfc23b55da6e00496c9747f22f"
-
-[[files]]
-file = "config/Weather2/Particle.cfg"
-hash = "564990bccd3967cee7d3719dcbbcd65fc2af49db94e77ae990a7ae04d3ecb12f"
-
-[[files]]
-file = "config/Weather2/Sand.cfg"
-hash = "2676ffe815f696d8fe416924dd5b43014b815db90a6dddc5b8b5e6d8103b3ddc"
-
-[[files]]
-file = "config/Weather2/Snow.cfg"
-hash = "02abc5f56ef27d06993946bee4e76f7bf1bab80eff92049c6cc324f5a859717b"
-
-[[files]]
-file = "config/Weather2/Storm.cfg"
-hash = "8d061c8cfe6ded5ad030b704298d568605e875774b0276277f170d07928c1032"
-
-[[files]]
-file = "config/Weather2/Tornado.cfg"
-hash = "d683dc8edba4fd941f376b8377fac7483c093e39e661d6e76f67dee224470922"
-
-[[files]]
-file = "config/Weather2/Wind.cfg"
-hash = "31eb957e45085d5e9eeb938e4365c0f04e761258669da87498de7972af9b7a37"
 
 [[files]]
 file = "config/alternatingflux.cfg"
@@ -807,6 +767,11 @@ hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-forge.pw.toml"
+hash = "6aab174b12e2335e589aae9136ef5aecdfd1805b5930830d9ce378ae41abd9e3"
+metafile = true
+
+[[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "98ce0745c39570074e48d503da5fd3f97952ac3f7fcccc363365f08295c41e6e"
 metafile = true
@@ -1114,11 +1079,6 @@ metafile = true
 [[files]]
 file = "mods/wawla.pw.toml"
 hash = "dc1ee5d5a602f9cc633d511a4d00e2e0e7189d6135fd11343bf76e9f47aa2d07"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "faece63c31002b0929cfc4b14d8c7f998cc9ae13518a4d5eef46fc11be041349"
 metafile = true
 
 [[files]]

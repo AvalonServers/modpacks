@@ -704,6 +704,10 @@ file = "config/zettaindustries.cfg"
 hash = "51ff7f1215d80fd1a07ec6aa14685f0590a7e81a608702b42b89995560e6239a"
 
 [[files]]
+file = "extra.toml"
+hash = "eed548f068eb33f9fb553993bf6cdd4408f70a46cbaa79c67ab1c5cab2d9906c"
+
+[[files]]
 file = "marytts/marytts-lang-en.toml"
 hash = "74a2012855addd789dbeb54ddd48c4663f0427e2ca29da0155818602e39a0ecc"
 metafile = true

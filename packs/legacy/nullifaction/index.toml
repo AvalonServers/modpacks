@@ -9,6 +9,10 @@ file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 
 [[files]]
+file = "extra.toml"
+hash = "20a014fedb6b3507b54c43f5a8e14c72f3694afd4dafd9dd8e34859de1d93b79"
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "87717836e5fbbbe979f245e991f9ab9d2056c43f5264e41d8c6d0777c4502aea"
 metafile = true

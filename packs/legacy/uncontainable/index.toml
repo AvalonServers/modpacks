@@ -9,6 +9,10 @@ file = "config/AppliedEnergistics2/CustomRecipes.cfg"
 hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 
 [[files]]
+file = "extra.toml"
+hash = "859ccb0d9d145c65241c3d9d87ef1089eec7ba0ef0126d9d420422d884185349"
+
+[[files]]
 file = "icon.png"
 hash = "21f9069ac3d7f489cbb31ff5c42bc9fa8c124449f5e205501f5ea3b619aa7a6d"
 

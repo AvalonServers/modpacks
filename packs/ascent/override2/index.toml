@@ -616,6 +616,11 @@ hash = "32e49e250be282bb9621b0b3df9c069efa8259e5da0a9afcbec8931b57481851"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "508dd3ddc4a4d7880b80a3806b24002a1bdf90dd608da1e51b58e845bcc66fce"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
 metafile = true

@@ -225,6 +225,234 @@ file = "config/noindium.json"
 hash = "ed093ed833011b0f97e7b6d5054def07d6d76e67e9f0ae696a4471d77abee112"
 
 [[files]]
+file = "config/openloader/data/default/pack.mcmeta"
+hash = "654b7095d64246be630dafdf51da67f05beb5b3b0a686d5be46151354ad4832d"
+
+[[files]]
+file = "config/openloader/data/default/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
+file = "config/openloader/resources/default/assets/.mcassetsroot"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/lang/en_us.lang"
+hash = "a5b69eca54a596a62143bf04b35df4f275cdf71ff775e790de3ad37e120475f5"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/texts/credits.txt"
+hash = "c61043732eb3c5341d07e72b8a383e0268fae4316cc18a419772c75babb12a51"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/texts/end.txt"
+hash = "f7703cf2349d2d12816639bbaa83050d8d0609d4ab0d62f96fe5ccfe4d07a654"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/texts/splashes.txt"
+hash = "7eba8bb4acec9eb5a54681cd07a83e3a85a8a76a25d39a696bf4a13f45eb2da7"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/advancements/tabs.png"
+hash = "b52bb08ea33fbf6b7e5e297c8c205a59df018ff33cd62a248750615be5d7879f"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/advancements/widgets.png"
+hash = "aac558bced7c20fbbdf6912afae2dd4346a42ea41deacb6b8c02c45a0936e4e2"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/advancements/window.png"
+hash = "d0f1c22b87b189687f2b7afeda900527b6f342898147c1a8d3b750079fda9748"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/book.png"
+hash = "28d9d4b964c6caed90f0edc42ce1273efc8fb91f4fb9dfeffaf29e485474ab71"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/anvil.png"
+hash = "16c5eb90244d9769435a3816650f616498621419f8d7f6b5c8ca6f0ae678000c"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/beacon.png"
+hash = "eef312b482a8a27e74fafa0d6d0cdb9b459fb87d02b3c2d3c9b39671a9cc9c3a"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/brewing_stand.png"
+hash = "8a148dfc38615a65b48f72a9a38751a9019ec512bc41db93ee349f78b12bbebd"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/crafting_table.png"
+hash = "f0464b2bf19bc1eb90945f1a516881e2e3d87bd1f1005b92b986a7e68bbd56d2"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
+hash = "1e73d08c7e35655bb108cc37f0427d5d1902fe6bd8e2d5deba0a4f986d33fea1"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
+hash = "84d4b300f80767b8c7f686bd17bd676fdab67f1c6405d72bccca7cc13df6db84"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/creative_inventory/tab_items.png"
+hash = "dd45aa7b8bcd661c77bfd6c710b3eff31da7ced1d066a444f9f4fbd1fe7671ca"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/creative_inventory/tabs.png"
+hash = "9f12ce80e740e4f356db3585e0db078047d36b3eb11e97b5866397766a747a34"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/dispenser.png"
+hash = "af6efe0a6a1056235920eb849ce083d41ba2e99768321fe29bb7746573ba299c"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/enchanting_table.png"
+hash = "81311c1725f4a949eaf0bdbb965379b33e4063b146d101accdfef612280908cb"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/furnace.png"
+hash = "ef69902a28cad5652af1de8a569c4833ddb99f356732f741b834d384dbe757ac"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/generic_54.png"
+hash = "59981053c465bfbb89537be829d47f63c7c26d831acc758566bf677b7fa6ddbc"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/hopper.png"
+hash = "2e0c9f8a671aadad1f43f5d0ad094bf021719e0fe535ab99cc57d481882f4f6f"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/horse.png"
+hash = "d649d0d5b31024eb1dc2cc49841968126ae303db5c41a1496fe89cc631620833"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/inventory.png"
+hash = "392ce117f43dc20af0742e1f42fb534dce758373a0926f05dbecad13959c9a96"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/recipe_background.png"
+hash = "af074f9f603e623e8d0d16c83683ad19e3e889b22422a95de54865ef40e80df6"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/shulker_box.png"
+hash = "59fc68893a75fb1825ff7d91325d060a244bb74db1372be9c4d2fc3065a2d983"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/stats_icons.png"
+hash = "2150ea058b411d9b8dedf8a7b5c941b0afee619ae20cb47b3cc21bf0c593ad31"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/container/villager.png"
+hash = "867674ec86b3572f0f649fd14e0ca99a18c5d0a0b139e864adc4d26c08ee9435"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/demo_background.png"
+hash = "3e25e73b5b5588af87412b3a5c9d2c0bb26a5403fcbf58c6cfdda88cd2b2d38f"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/mojang.png"
+hash = "89c07197a449ecedccde4680a7e67a019e9dcc28d688179494f09b2a29bdac12"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/options_background.png"
+hash = "df191065ec8761a0244cd3c3d2f038294eaa0af43a2c85fe12ea36128eeb0acb"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/recipe_book.png"
+hash = "caea9e6cb2ac01406eff78d0b2f6080c608e5be438b3114b994bc305fd870bbf"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/resource_packs.png"
+hash = "08ca525152d0477a152c5ef4b8aecabe83a0fbe3f464e9b52d73c417bf513b84"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/server_selection.png"
+hash = "21e28b13fa81a2bc12070b8ab04e0de5bc22b8e928ec8886e10fd283570aadb1"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/spectator_widgets.png"
+hash = "dba8ae207656da38bf886e47e03cde94bcae870f9547fbec14de9d664130c380"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "fd5d5848cf65726c88f3cff08b1ae2d9cddd66e66cd6e39b3ac2c7dd861ddd0a"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "4a17ae927aab6c7dad3a6c480241d62d150a1dcda466b95ae0e01f8a69cf75bc"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "babbf5de78e7b9e52a3d9b6fb95435deebe8ffdbd8d72c03543980b5e723c1d4"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "8ca2313e5b79d6ade6ae91d3126ca92b9d987e649c92bb0abcac96919dcfed7a"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e70b217409c10fedc3b8a9f6b152180f307b178464b2be23a4efb4b6f75ed944"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "c45893f35836bac75ccb175a4e368392f63fad5bc71744d8984d451d02d90e0e"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/edition.png"
+hash = "703a4dd25177657b8ce67fe076af897e4675aa08c3b580d8bcd589a04df1f7de"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "3bc68dbdabf732675b6493ed86ae1126ec8777a7f4216a9396f4dd8ab423eb8e"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/toasts.png"
+hash = "94a6854fd917a65a06cc88fc8215858bb836780005df11f374f053cd85f4e320"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/widgets.png"
+hash = "f2b0904073d6c71520c13a14a9b2b4298b305682dd5a8e49e27dacf1f2660343"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/widgets2.png"
+hash = "f50db687bc947e45ea9f052b12fd9eb4e830d95675d7f7851b5d1b978c071ce5"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/gui/world_selection.png"
+hash = "45bf90334fd8066ec8506152c4bc2c848b89bf731e1da0b98a1c5aff68df3c45"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/items/empty_armor_slot_boots.png"
+hash = "451825fddcdf7e58a3175cc20097c47317ead29dad2921f245021ca8144ae946"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/items/empty_armor_slot_chestplate.png"
+hash = "6c0c91db3250f88e68c932a203233482804801e24a387a8a15661ebdcce3bfb4"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/items/empty_armor_slot_helmet.png"
+hash = "437e8852be4f459b91a7d641aa2d96fd5b6e96aeab60d2627a34003dede52a02"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/items/empty_armor_slot_leggings.png"
+hash = "8df607ba6233ddd341d5e3a872b6af2233826c95edc91afeb9321ff846f6a3fc"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/items/empty_armor_slot_shield.png"
+hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
+
+[[files]]
+file = "config/openloader/resources/default/assets/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"
+hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"
+
+[[files]]
+file = "config/openloader/resources/default/pack.mcmeta"
+hash = "579f00f9d7ad543c5e621c0b3b0044d7ef6b665eebbd2aae07d43ad0682a13b1"
+
+[[files]]
+file = "config/openloader/resources/default/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
 file = "config/origins_server.toml"
 hash = "3df326eacd3e957cdab0886143c8abc51884df8c875ef78f5f4e96a9889b6b53"
 
@@ -640,11 +868,6 @@ hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
 metafile = true
 
 [[files]]
-file = "mods/load-my-resources-fabric.pw.toml"
-hash = "78f4c33a23fd187c3bb2838da7dcf347b16eedbc79d1cb82500673cc111f4b8d"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "8f674ae940cae6707bafbfbb44bd474104f4f587cbfce229f63bcccd6c37e6b4"
 metafile = true
@@ -672,6 +895,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
 
 [[files]]
@@ -773,215 +1001,3 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "0455abc4f7df28e558ae6ca7e33bc794dfa4541fc7cb4199a8a59151710fa54d"
 metafile = true
-
-[[files]]
-file = "resources/.mcassetsroot"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "resources/minecraft/lang/en_us.lang"
-hash = "a5b69eca54a596a62143bf04b35df4f275cdf71ff775e790de3ad37e120475f5"
-
-[[files]]
-file = "resources/minecraft/texts/credits.txt"
-hash = "c61043732eb3c5341d07e72b8a383e0268fae4316cc18a419772c75babb12a51"
-
-[[files]]
-file = "resources/minecraft/texts/end.txt"
-hash = "f7703cf2349d2d12816639bbaa83050d8d0609d4ab0d62f96fe5ccfe4d07a654"
-
-[[files]]
-file = "resources/minecraft/texts/splashes.txt"
-hash = "7eba8bb4acec9eb5a54681cd07a83e3a85a8a76a25d39a696bf4a13f45eb2da7"
-
-[[files]]
-file = "resources/minecraft/textures/gui/advancements/tabs.png"
-hash = "b52bb08ea33fbf6b7e5e297c8c205a59df018ff33cd62a248750615be5d7879f"
-
-[[files]]
-file = "resources/minecraft/textures/gui/advancements/widgets.png"
-hash = "aac558bced7c20fbbdf6912afae2dd4346a42ea41deacb6b8c02c45a0936e4e2"
-
-[[files]]
-file = "resources/minecraft/textures/gui/advancements/window.png"
-hash = "d0f1c22b87b189687f2b7afeda900527b6f342898147c1a8d3b750079fda9748"
-
-[[files]]
-file = "resources/minecraft/textures/gui/book.png"
-hash = "28d9d4b964c6caed90f0edc42ce1273efc8fb91f4fb9dfeffaf29e485474ab71"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/anvil.png"
-hash = "16c5eb90244d9769435a3816650f616498621419f8d7f6b5c8ca6f0ae678000c"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/beacon.png"
-hash = "eef312b482a8a27e74fafa0d6d0cdb9b459fb87d02b3c2d3c9b39671a9cc9c3a"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/brewing_stand.png"
-hash = "8a148dfc38615a65b48f72a9a38751a9019ec512bc41db93ee349f78b12bbebd"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/crafting_table.png"
-hash = "f0464b2bf19bc1eb90945f1a516881e2e3d87bd1f1005b92b986a7e68bbd56d2"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/creative_inventory/tab_inventory.png"
-hash = "1e73d08c7e35655bb108cc37f0427d5d1902fe6bd8e2d5deba0a4f986d33fea1"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/creative_inventory/tab_item_search.png"
-hash = "84d4b300f80767b8c7f686bd17bd676fdab67f1c6405d72bccca7cc13df6db84"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/creative_inventory/tab_items.png"
-hash = "dd45aa7b8bcd661c77bfd6c710b3eff31da7ced1d066a444f9f4fbd1fe7671ca"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/creative_inventory/tabs.png"
-hash = "9f12ce80e740e4f356db3585e0db078047d36b3eb11e97b5866397766a747a34"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/dispenser.png"
-hash = "af6efe0a6a1056235920eb849ce083d41ba2e99768321fe29bb7746573ba299c"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/enchanting_table.png"
-hash = "81311c1725f4a949eaf0bdbb965379b33e4063b146d101accdfef612280908cb"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/furnace.png"
-hash = "ef69902a28cad5652af1de8a569c4833ddb99f356732f741b834d384dbe757ac"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/generic_54.png"
-hash = "59981053c465bfbb89537be829d47f63c7c26d831acc758566bf677b7fa6ddbc"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/hopper.png"
-hash = "2e0c9f8a671aadad1f43f5d0ad094bf021719e0fe535ab99cc57d481882f4f6f"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/horse.png"
-hash = "d649d0d5b31024eb1dc2cc49841968126ae303db5c41a1496fe89cc631620833"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/inventory.png"
-hash = "392ce117f43dc20af0742e1f42fb534dce758373a0926f05dbecad13959c9a96"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/recipe_background.png"
-hash = "af074f9f603e623e8d0d16c83683ad19e3e889b22422a95de54865ef40e80df6"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/shulker_box.png"
-hash = "59fc68893a75fb1825ff7d91325d060a244bb74db1372be9c4d2fc3065a2d983"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/stats_icons.png"
-hash = "2150ea058b411d9b8dedf8a7b5c941b0afee619ae20cb47b3cc21bf0c593ad31"
-
-[[files]]
-file = "resources/minecraft/textures/gui/container/villager.png"
-hash = "867674ec86b3572f0f649fd14e0ca99a18c5d0a0b139e864adc4d26c08ee9435"
-
-[[files]]
-file = "resources/minecraft/textures/gui/demo_background.png"
-hash = "3e25e73b5b5588af87412b3a5c9d2c0bb26a5403fcbf58c6cfdda88cd2b2d38f"
-
-[[files]]
-file = "resources/minecraft/textures/gui/mojang.png"
-hash = "89c07197a449ecedccde4680a7e67a019e9dcc28d688179494f09b2a29bdac12"
-
-[[files]]
-file = "resources/minecraft/textures/gui/options_background.png"
-hash = "df191065ec8761a0244cd3c3d2f038294eaa0af43a2c85fe12ea36128eeb0acb"
-
-[[files]]
-file = "resources/minecraft/textures/gui/recipe_book.png"
-hash = "caea9e6cb2ac01406eff78d0b2f6080c608e5be438b3114b994bc305fd870bbf"
-
-[[files]]
-file = "resources/minecraft/textures/gui/resource_packs.png"
-hash = "08ca525152d0477a152c5ef4b8aecabe83a0fbe3f464e9b52d73c417bf513b84"
-
-[[files]]
-file = "resources/minecraft/textures/gui/server_selection.png"
-hash = "21e28b13fa81a2bc12070b8ab04e0de5bc22b8e928ec8886e10fd283570aadb1"
-
-[[files]]
-file = "resources/minecraft/textures/gui/spectator_widgets.png"
-hash = "dba8ae207656da38bf886e47e03cde94bcae870f9547fbec14de9d664130c380"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "fd5d5848cf65726c88f3cff08b1ae2d9cddd66e66cd6e39b3ac2c7dd861ddd0a"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "4a17ae927aab6c7dad3a6c480241d62d150a1dcda466b95ae0e01f8a69cf75bc"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "babbf5de78e7b9e52a3d9b6fb95435deebe8ffdbd8d72c03543980b5e723c1d4"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "8ca2313e5b79d6ade6ae91d3126ca92b9d987e649c92bb0abcac96919dcfed7a"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "e70b217409c10fedc3b8a9f6b152180f307b178464b2be23a4efb4b6f75ed944"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "c45893f35836bac75ccb175a4e368392f63fad5bc71744d8984d451d02d90e0e"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/edition.png"
-hash = "703a4dd25177657b8ce67fe076af897e4675aa08c3b580d8bcd589a04df1f7de"
-
-[[files]]
-file = "resources/minecraft/textures/gui/title/minecraft.png"
-hash = "3bc68dbdabf732675b6493ed86ae1126ec8777a7f4216a9396f4dd8ab423eb8e"
-
-[[files]]
-file = "resources/minecraft/textures/gui/toasts.png"
-hash = "94a6854fd917a65a06cc88fc8215858bb836780005df11f374f053cd85f4e320"
-
-[[files]]
-file = "resources/minecraft/textures/gui/widgets.png"
-hash = "f2b0904073d6c71520c13a14a9b2b4298b305682dd5a8e49e27dacf1f2660343"
-
-[[files]]
-file = "resources/minecraft/textures/gui/widgets2.png"
-hash = "f50db687bc947e45ea9f052b12fd9eb4e830d95675d7f7851b5d1b978c071ce5"
-
-[[files]]
-file = "resources/minecraft/textures/gui/world_selection.png"
-hash = "45bf90334fd8066ec8506152c4bc2c848b89bf731e1da0b98a1c5aff68df3c45"
-
-[[files]]
-file = "resources/minecraft/textures/items/empty_armor_slot_boots.png"
-hash = "451825fddcdf7e58a3175cc20097c47317ead29dad2921f245021ca8144ae946"
-
-[[files]]
-file = "resources/minecraft/textures/items/empty_armor_slot_chestplate.png"
-hash = "6c0c91db3250f88e68c932a203233482804801e24a387a8a15661ebdcce3bfb4"
-
-[[files]]
-file = "resources/minecraft/textures/items/empty_armor_slot_helmet.png"
-hash = "437e8852be4f459b91a7d641aa2d96fd5b6e96aeab60d2627a34003dede52a02"
-
-[[files]]
-file = "resources/minecraft/textures/items/empty_armor_slot_leggings.png"
-hash = "8df607ba6233ddd341d5e3a872b6af2233826c95edc91afeb9321ff846f6a3fc"
-
-[[files]]
-file = "resources/minecraft/textures/items/empty_armor_slot_shield.png"
-hash = "d65740f1c055985cc229c5682dcb56f61cfd3842d8c6df94748ce6a40189fbc2"
-
-[[files]]
-file = "resources/minecraft/textures/painting/paintings_kristoffer_zetterstrand.png"
-hash = "676dd8fe68173a0590d332ecd6d3368d1bd0b67c08c3db9755a31f095f95551b"

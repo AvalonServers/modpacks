@@ -18,7 +18,7 @@ aws s3 sync \
     --delete --acl public-read \
     "$pack_path" "s3://avalon-assets/data/$pack_subpath"
 
-# echo "Reconfiguring the Minecraft server"
+echo "Reconfiguring the Minecraft server"
 
 read -r -d '' supervisor_config_file <<EOF
 [program:avalon-$pack_name]
@@ -41,9 +41,12 @@ echo "$supervisor_config_file" | sudo tee /etc/supervisor/conf.d/avalon-$pack_na
 echo "Stopping the Minecraft server"
 sudo supervisorctl stop "avalon-$pack_name"
 
-echo "Installing the server"
-sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && wget "$forge_url" -O forge-installer.jar && java -jar ./forge-installer.jar --installServer'
-sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && ln -sf "forge-$forge_version.jar" "server.jar"'
+echo "Creating a world backup"
+sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && mkdir -p backups/pre-update && zip -r backups/pre-update/world-$(date +%Y-%m-%d_%H-%M-%S).zip world'
+
+# echo "Installing the server"
+# sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && wget "$forge_url" -O forge-installer.jar && java -jar ./forge-installer.jar --installServer'
+# sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && ln -sf "forge-$forge_version.jar" "server.jar"'
 
 echo "Installing the modpack"
 sudo mkdir -p "/var/lib/avalon/mc/$pack_subpath"
@@ -53,7 +56,6 @@ sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && java -Xmx4G -j
 sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && chmod +x ./start.sh'
 
 echo "Starting the server"
-sudo supervisorctl reload
 sudo supervisorctl start "avalon-$pack_name"
 
 echo "Operation completed"

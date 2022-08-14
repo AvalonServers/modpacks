@@ -1,12 +1,14 @@
+#!/usr/bin/env python3
 import os
 import sys
 import json
 import shutil
 import appdirs
 import argparse
-import packlib
 import tempfile
 import subprocess
+
+from lib import packlib
 
 
 def update_instgroups(root: str, name: str):
@@ -43,13 +45,14 @@ def write_error(text: str):
     print(text, file=sys.stderr)
 
 parser = argparse.ArgumentParser(description="Tool for testing packs locally via PolyMC")
-parser.add_argument("-p", "--pack", required=True, help="The pack name, i.e. ascent-frozenhell.")
+parser.add_argument("-p", "--pack", default=os.curdir, help="The pack path")
 
 args = parser.parse_args()
 
-pack_path = packlib.get_pack_dir(os.curdir, args.pack)
+pack_path = args.pack
+extra_data = packlib.read_pack_supplementary_data(pack_path)
 
-mmc_pack_name = f"packwiz-test-{args.pack}"
+mmc_pack_name = f"packwiz-test-{extra_data.slug()}"
 mmc_path = appdirs.user_data_dir("polymc")
 if not os.path.exists(mmc_path):
     write_error("PolyMC data folder not found. Do you have PolyMC installed?")
@@ -66,7 +69,8 @@ writer._pack["name"] = writer._pack["name"]
 update_instgroups(mmc_path, mmc_pack_name)
 
 # copy the icon
-shutil.copyfile("data/test-instance.png", f"{mmc_path}/icons/packwiz-test.png")
+dir_path = os.path.dirname(os.path.realpath(__file__))
+shutil.copyfile(f"{dir_path}/data/test-instance.png", f"{mmc_path}/icons/packwiz-test.png")
 
 # sync the pack files
 print("copying pack files...")

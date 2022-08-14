@@ -1,10 +1,11 @@
+#!/usr/bin/env python3
 import os
-import sys
 import urllib.parse
+import subprocess
 
 import toml
 
-root_dir = sys.argv[1]
+root_dir = os.curdir
 mods_dir = f"{root_dir}/mods"
 
 fixup_count = 0
@@ -71,3 +72,4 @@ for file in os.listdir(mods_dir):
         fixup_count = fixup_count + 1
     
 print(f"{fixup_count} files fixed up!")
+subprocess.run(["packwiz", "refresh"])

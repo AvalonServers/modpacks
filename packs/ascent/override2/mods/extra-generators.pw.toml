@@ -1,5 +1,5 @@
 name = "Extra Generators"
-filename = "extra-generators-1.2.1-BETA+1.18.jar"
+filename = "extra-generators-1.2.1-BETA-1.18.jar"
 side = "both"
 
 [download]
@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "d58aa38f47fe751381af8574c7d4a2471136f112"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 3770936
 project-id = 475623

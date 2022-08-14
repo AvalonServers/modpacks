@@ -8,16 +8,19 @@ import urllib.parse
 import urllib.request
 import subprocess
 import shutil
+from typing import Any
 
 DOWNLOAD_ENDPOINT = "https://s3.eu-west-1.wasabisys.com/avalon-assets/data"
 INSTALLER_BOOTSTRAPPER_ENDPOINT = "https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar"
 
 
-def get_pack_dir(root: str, pack: str):
-    path = f"{root}/packs"
-    for comp in pack.split("-"):
-        path = f"{path}/{comp}"
-    return path
+class PackSupplementaryData:
+    def __init__(self, data):
+        self.series = data["series"]
+        self.name = data["name"]
+    
+    def slug(self) -> str:
+        return f"{self.series}-{self.name}"
 
 
 class ModrinthPackUploader:
@@ -299,3 +302,8 @@ class MMCPackWriter:
             INSTALLER_BOOTSTRAPPER_ENDPOINT,
             f"{output}/.minecraft/packwiz-installer-bootstrap.jar",
         )
+
+def read_pack_supplementary_data(root: str) -> PackSupplementaryData:
+    with open(f"{root}/extra.toml") as f:
+        data = toml.load(f)
+    return PackSupplementaryData(data)

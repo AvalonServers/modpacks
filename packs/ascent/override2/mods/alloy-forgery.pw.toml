@@ -1,5 +1,5 @@
 name = "Alloy Forgery"
-filename = "wraith-alloy-forgery-2.0.13+1.18.jar"
+filename = "wraith-alloy-forgery-2.0.13-1.18.jar"
 side = "both"
 
 [download]
@@ -7,7 +7,6 @@ hash-format = "sha1"
 hash = "1ced07990224e175037ce081f8b8e12b00793f66"
 mode = "metadata:curseforge"
 
-[update]
 [update.curseforge]
 file-id = 3758381
 project-id = 438718

@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Avalon: Override Official",
+      "address": "aov.avalonsrv.com",
+      "forced": true
+    }
+  ]
+}

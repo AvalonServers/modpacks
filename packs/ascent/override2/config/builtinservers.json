@@ -1,5 +1,5 @@
 {
-  "badgeVisible": true,
+  "badgeVisible": false,
   "builtinServers": [
     {
       "name": "Avalon: Override Official",

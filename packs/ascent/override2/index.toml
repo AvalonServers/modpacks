@@ -30,7 +30,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f9c00c9194e857a6b3d35819b48fd7010b5987a9bd55037d33519ec9cc1dc1c1"
+hash = "0cd7f6e0c5bc761b48ba608d86ca13198086a21209a4e1e62054e3f67f25d08e"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -42,7 +42,7 @@ hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
 
 [[files]]
 file = "config/builtinservers.json"
-hash = "eb0eed9903b87ab85fa0b162a80a61c8ae534405d195fd118f017240d01df6df"
+hash = "07bb6f4cdc17aee045b7e431a8219e8e59dd68a09e98885b80cf6504641c63c5"
 
 [[files]]
 file = "config/clienttweaks.toml"
@@ -765,6 +765,11 @@ hash = "83dcf4790804376087ca9d10573d94a75d38af071119bc2783909b2dfeb56bda"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "0a39c5f9ef9f8bb7582acae72a8b309b5b9be6a4ef739fff8529e382e05cd96d"
+metafile = true
+
+[[files]]
 file = "mods/dustrial-decor-fabric.pw.toml"
 hash = "3531d487a8c774e3336ade0fedf753827c3cb67967e0dfda8f6fad6bed714949"
 metafile = true
@@ -885,6 +890,11 @@ hash = "32e49e250be282bb9621b0b3df9c069efa8259e5da0a9afcbec8931b57481851"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "964e93ce2ef52c799835cee57e6f1593b22785c9c78ef8263ee2fde5c7fb3f01"
+metafile = true
+
+[[files]]
 file = "mods/kibe.pw.toml"
 hash = "80361d6fec850fc8cd9e025227a5bb00623eb39b8b26c9591b7222b943c5dda2"
 metafile = true
@@ -975,6 +985,11 @@ hash = "58f5a89fbd98bca1b3c31194ef521971b4ff8a8cae60965ab1e3dbf6690055dc"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "a9f274245a5cbc1004edef84e529a5e260fc432a4a38929838f311d6110fdb28"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "4611e1f46255f6f38ff465ef7b66a0be2a11f3c2ffda4c70042d93d2c1a07a36"
 metafile = true
@@ -1002,6 +1017,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "cd182c74e318b804bb29df863bb4bb22fcd42fb53a29923c792f29e190bd569f"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "1c73aa2048b52ae2eccdfb4310fcfd101824ff0b2170b665cc61ef37cd190f73"
 metafile = true
 
 [[files]]

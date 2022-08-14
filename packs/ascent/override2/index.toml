@@ -201,10 +201,6 @@ file = "config/lithium.properties"
 hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
-file = "config/loadmyresources/config.cfg"
-hash = "549a26b9b8ab9e2df0a427732a737c5dbcdb0b6790ad7ea9a387dea789abcad5"
-
-[[files]]
 file = "config/magna.json"
 hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
 
@@ -223,6 +219,42 @@ hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
 [[files]]
 file = "config/noindium.json"
 hash = "ed093ed833011b0f97e7b6d5054def07d6d76e67e9f0ae696a4471d77abee112"
+
+[[files]]
+file = "config/openloader/data/default/data/origins/origin_layers/origin.json"
+hash = "4e32cffb85019071cfaf99e0c4cda6f431ad1c19021c86b8f1b3f19cd97234d8"
+
+[[files]]
+file = "config/openloader/data/default/data/override/origins/android.json"
+hash = "6fbeb1fd15b171b9c2fb3dc0d3dddd65bb3b46a95186ff61f76654fc2720a4d3"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/fall_immunity.json"
+hash = "709fcf57ef8f74149f48cc6697a7b6080eb733ec9c175bf07308e51b5fc3b58f"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/fire_resistance.json"
+hash = "b7cf8fa249ecd0738534492e5c35cd236a9e7c452e1bc9c4f886d48163baa0e4"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/immune_to_effects.json"
+hash = "866e0fa73d45ad996279d49050232d642a89464ce2c55b71218ff18bb4d299cc"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/less_damage_from_arrows.json"
+hash = "d7c9a73e2a89bcb2f3b2a9655be513d375cb9975f299976026398719578462e0"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/more_damage_from_fire.json"
+hash = "7361fcc900dda769e3969161a7b0adfa28fb482d131cd63bf8effae8f4bf75e9"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/speed_boost.json"
+hash = "cc7d539b9fa7bdd05ae8b6f1f18610c08c8430e149a78e35f49be17a80b99ad7"
+
+[[files]]
+file = "config/openloader/data/default/data/override/powers/sprint_jump.json"
+hash = "87492adb20125ebdf62f87c285767503753f711ac82d8720e1a66d0f99b8cd71"
 
 [[files]]
 file = "config/openloader/data/default/pack.mcmeta"
@@ -813,6 +845,11 @@ hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
 metafile = true
 
 [[files]]
+file = "mods/hunger-remover.pw.toml"
+hash = "d12e9d7409f03e1fb23a566ba8f4e7e2a5232446827e80f81473f61ea51c416f"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-fabric.pw.toml"
 hash = "a2c5ed8ec06b5d9313e94c83685013f726a2503b64f32e19b8f326af6c76d1f9"
 metafile = true
@@ -900,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
-metafile = true
-
-[[files]]
-file = "mods/origins.pw.toml"
-hash = "3b695c715b0500ffa0934bb6b688cd54f63fdc44f69e3706308eaf708fe9a17b"
 metafile = true
 
 [[files]]

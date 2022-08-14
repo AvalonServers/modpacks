@@ -1,8 +1,0 @@
-name = "Matter Overdrive"
-filename = "MatterOverdrive-1.12.2-0.8.0-universal.jar"
-side = "both"
-
-[download]
-url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/MatterOverdrive-1.12.2-0.8.0-universal.jar"
-hash-format = "sha256"
-hash = "c0edc1d6ea98337d1a0174de581711a77c0f674ea4fef9f6c1685c19d77b5bdd"

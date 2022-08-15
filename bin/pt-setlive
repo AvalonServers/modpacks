@@ -18,7 +18,7 @@ aws s3 cp \
 aws s3 sync \
     --endpoint-url=https://s3.eu-west-1.wasabisys.com \
     --profile=wasabi_arctarus_avalon \
-    --delete --acl public-read \
+    --exclude "build/*" --delete --acl public-read \
     "$(pwd)" "s3://avalon-assets/data/$pack_subpath"
 
 echo "Reconfiguring the Minecraft server"
@@ -51,8 +51,8 @@ sudo chown -R avalon:avalon /var/lib/avalon/mc/$pack_subpath
 sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && java -Xmx4G -jar /var/lib/avalon/mc/packwiz-installer-bootstrap.jar -g -s server https://s3.eu-west-1.wasabisys.com/avalon-assets/data/$pack_subpath/pack.toml'
 sudo -i -u avalon bash -c 'cd /var/lib/avalon/mc/$pack_subpath && chmod +x ./start.sh'
 
-#echo "Starting the server"
-#sudo supervisorctl start "avalon-$pack_slug"
+echo "Starting the server"
+sudo supervisorctl start "avalon-$pack_slug"
 
 echo "Operation completed"
 EOF

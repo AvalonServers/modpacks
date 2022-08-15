@@ -1558,3 +1558,7 @@ metafile = true
 file = "mods/youre-in-grave-danger.pw.toml"
 hash = "0455abc4f7df28e558ae6ca7e33bc794dfa4541fc7cb4199a8a59151710fa54d"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "5e02574866798e4112e83a8e1a30452484f78adb7295e2aef38daba4ebc1ea7a"

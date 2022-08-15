@@ -30,7 +30,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "58f39412d6ca0337d0d25d99ff79b87844f594a45e689c7776b053e2bdd541fd"
+hash = "040d3257f6c435a1bfa4249b8f117432650942fd0ce22c2d31786c946d023fd8"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -1347,11 +1347,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-fabric.pw.toml"
 hash = "4e49681df144935cd936b290b6bcfb88bd91cca0043df56e788be1ba4ec9459c"
-metafile = true
-
-[[files]]
-file = "mods/hunger-remover.pw.toml"
-hash = "d12e9d7409f03e1fb23a566ba8f4e7e2a5232446827e80f81473f61ea51c416f"
 metafile = true
 
 [[files]]

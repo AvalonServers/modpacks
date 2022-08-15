@@ -30,7 +30,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f45b2e773f413359c81a4dd65a4221e08efe9ee9593c69e82673b8a29557097c"
+hash = "58f39412d6ca0337d0d25d99ff79b87844f594a45e689c7776b053e2bdd541fd"
 
 [[files]]
 file = "config/botania-client.json5"
@@ -42,7 +42,7 @@ hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
 
 [[files]]
 file = "config/builtinservers.json"
-hash = "07bb6f4cdc17aee045b7e431a8219e8e59dd68a09e98885b80cf6504641c63c5"
+hash = "e5340b90eb76b9a1daa3e9bdb23f740e7b7bb5b652905f05a2e5b8cb3f8ca255"
 
 [[files]]
 file = "config/clienttweaks.toml"

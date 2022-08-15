@@ -2,7 +2,7 @@
   "badgeVisible": false,
   "builtinServers": [
     {
-      "name": "Avalon: Override Official",
+      "name": "Ascent Override Official",
       "address": "aov.avalonsrv.com",
       "forced": true
     }

@@ -1,9 +1,0 @@
-{
-    "type": "origins:effect_immunity",
-    "effects": [
-        "minecraft:wither",
-        "minecraft:poison",
-        "minecraft:hunger"
-    ],
-    "hidden": true
-}

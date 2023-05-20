@@ -433,36 +433,6 @@ file = "config/immersiverailroading.cfg"
 hash = "b6282f88e497078d4ee3db8a7046ef4ed05e0ddf1bd02bc5656d02a1d2cc3130"
 
 [[files]]
-file = "config/immersiverailroading/dragons-modern-british.toml"
-hash = "f25cdfd8b849116e3d30866bf8230bfd5b09bf0d09c5928c2e852c516c579f1d"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/fixed-tfl-trains.toml"
-hash = "376b6ff9b353a94a266e500ecffe981fd759f157a31cdc901d21329dddcef4c7"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/infra-train-pack.toml"
-hash = "aded112dcffcb9d797033bfcb99dbfb450c7e046f0aec1f89597f867e10ba7d8"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/matoi-vanilla-pack-ir.toml"
-hash = "ace567a21b573e7f1652ce1a3a8cd6a350d2af5484639b17826e673c48da0648"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/raefftech-narrow-gague.toml"
-hash = "ead8e8fb03ea3a54f57534d9c255f6557c0ae08b9d0ce133b556b644a665f3f0"
-metafile = true
-
-[[files]]
-file = "config/immersiverailroading/small-gauge-goodies-for-immersive-railroading.toml"
-hash = "42fb3961ad4026017403d5bdf4cce3432f0674485e8168025ca8850d99ce7b83"
-metafile = true
-
-[[files]]
 file = "config/industrialforegoing.cfg"
 hash = "daac1d75a68bd1406afe02254b1bbc00ada81ccb379f82fb82df26a9c7bc8a7f"
 
@@ -1053,11 +1023,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
 hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
-metafile = true
-
-[[files]]
-file = "mods/immersive-railroading.pw.toml"
-hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
 metafile = true
 
 [[files]]

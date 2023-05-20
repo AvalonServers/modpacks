@@ -1,8 +1,0 @@
-name = "INFRA Train Pack"
-filename = "INFRATrainPack.zip"
-side = "both"
-
-[download]
-url = "https://thepiguy24.github.io/INFRATrainPack_0005.zip"
-hash-format = "sha256"
-hash = "a1e0458f80972caea3e35e1613259c73b6a796cf67792760165aaa8d2d58bba1"

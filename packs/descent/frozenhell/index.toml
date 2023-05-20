@@ -2,7 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b3b0fc443e531ad4c7616a0a10f3969e7362ccad2ec99aa9e7cb9ab9022d7371"
+hash = "d2f0ecf70c3221bfcaad1c98c6fa2c06fce0d5f39cd13a9ef00d1347889b689c"
+
+[[files]]
+file = "asm/hammercore.xml"
+hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -445,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "config/immersiverailroading/matoi-vanilla-pack-ir.toml"
-hash = "ed0742ac4ff9b980c4a80d8cab2cf7768ffe2d03bf3b79ceb58d744aad47643d"
+hash = "ace567a21b573e7f1652ce1a3a8cd6a350d2af5484639b17826e673c48da0648"
 metafile = true
 
 [[files]]
@@ -758,7 +762,7 @@ hash = "41c2fef3383dc9ce91ed3d3e8338d552d2dac94413d1f0c6781a65b349d18b3c"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
-hash = "edf22648f6c289c748735ebbabe34c1c713cc65a055697e655b06f3ed1a73762"
+hash = "32c06a4f8be53f56b83231d5949312bc2d0289a9c16860623d6a678e2bf8cfa4"
 metafile = true
 
 [[files]]
@@ -913,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "e2f94e4cf2b0d9248c27d294a5616bf08f545b4ed54c690cb946d809a6286911"
+hash = "0c9c269ddc14d35c369b8a32dc7b3ac8238567307c106914f00495d82f8bb10d"
 metafile = true
 
 [[files]]
@@ -973,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-culling.pw.toml"
-hash = "13e722d737f19762eac3c2dd37d41cfdf01ecd6ccf5e7ee0c3a6d326fe730b16"
+hash = "a849464db9194c61ebf4c693c5f82ac3fbf78dafe96e877a62f38ecb71da7456"
 metafile = true
 
 [[files]]
@@ -993,12 +997,12 @@ metafile = true
 
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
-hash = "7977514914adf41c3dad0459b1ae4028bd7ed6832595ee12e16c334bea673292"
+hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
 file = "mods/forgeendertech.pw.toml"
-hash = "7d83f4782137fcc91362cf0ca8ba2bb15fd42916df5ba1d7caf68d5d0e3f008a"
+hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
 
 [[files]]
@@ -1023,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "533533118c0932408a6580ad3beeb3bd2f49edd1760b7b8d13bbcaba85a3ab20"
+hash = "5c88b3be25620407a8956853e4fbf0f99feb4412a291179e2004bcc2abff1504"
 metafile = true
 
 [[files]]
@@ -1083,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "ae330b544e16da4ceafeda93946605d70ddee06be29980e60b2ed510e132e363"
+hash = "7df3e470ce54bd383a0fe740e057a8c35512d538b73158d2bf3efae0d274171e"
 metafile = true
 
 [[files]]
@@ -1098,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "5401f122583ce6bda28b96ed1edf01ad52302f3b2c7e996ab893f60a77a84abf"
+hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
 metafile = true
 
 [[files]]
@@ -1193,7 +1197,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "1c81ecbd040413963a292b2786b3e6481c4cebc56a40bd1ca9508d5f41be5150"
+hash = "c81ac38a05799c1a0acedde195e87477e2f6048728cf0a2b2d22f89257aa253b"
 metafile = true
 
 [[files]]
@@ -1203,7 +1207,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-culling.pw.toml"
-hash = "ca5225625901963e18cce2879ffa85a8f81d58679a8039bc21c6831b1c17d4b7"
+hash = "74229e6ba0f623b52dbed54ee504bbf1b910bc4a40dad47fc7fae2a94162fffc"
 metafile = true
 
 [[files]]
@@ -1263,7 +1267,7 @@ metafile = true
 
 [[files]]
 file = "mods/renderlib.pw.toml"
-hash = "2493eb2fff35a3843cf92f2d3b274f3d49caa80b0844df488974298542544f53"
+hash = "7d28c1d2a740692d3a22dc0b185437229f018a9e2f48ffc921dbf828058231c6"
 metafile = true
 
 [[files]]
@@ -1318,7 +1322,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "cb943b47e461a09ea3723fde4102771bc5d501726578074d3cf40499d2589548"
+hash = "ad6bb1a3b399cc8c317348f52b3a1ac5b613b8b1692c66655c034baf84f2ae83"
 metafile = true
 
 [[files]]

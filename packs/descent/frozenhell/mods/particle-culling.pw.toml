@@ -1,13 +1,13 @@
 name = "Particle Culling"
-filename = "particleculling-1.12.2-v1.3.1.jar"
+filename = "particleculling-1.12.2-v1.4.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "aef29745d35544a30d010fd31a8c64f9002509ae"
+hash = "23b7b68d0c791b8d4ff538c728c0c55ead9c78d7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3608582
+file-id = 4439001
 project-id = 408853

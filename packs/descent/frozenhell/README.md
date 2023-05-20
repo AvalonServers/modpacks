@@ -20,7 +20,12 @@ Frozen Hell was a large general-purpose themed 1.12.2 pack centered around the c
 
 A short period into Frozen Hell, both BetterWithMods (BWM) and Tough as Nails were removed, which made the pack a lot easier.
 
-The server eventually shut down due to lag problems. Many large tech mods with multiple addons (Thermal Expansion, Industrial Foregoing, Immersive Engineering, Ender IO) plus the sheer density of the large chunkloaded areas made for consistent framerates below 15 FPS and the server not being above 10 TPS. 
+The server eventually shut down due to lag problems. Many large tech mods with multiple addons (Thermal Expansion, Industrial Foregoing, Immersive Engineering, Ender IO) plus the sheer density of the large chunkloaded areas made for consistent framerates below 15 FPS and the server not being above 10 TPS.
+
+## Mods that should not be updated
+- CreativeCore (breaks multiblocks)
+- Immersive Technology (removes coke ovens)
+- Railcraft (causes crash on start due to a conflict with computronics)
 
 ## Players
 - LumiVaris

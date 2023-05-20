@@ -1,4 +1,0 @@
-toml
-semver
-requests
-gitpython

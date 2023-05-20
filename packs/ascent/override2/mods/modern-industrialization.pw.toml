@@ -1,0 +1,8 @@
+name = "Modern Industrialization"
+filename = "Modern-Industrialization-local.jar"
+side = "both"
+
+[download]
+url = "https://f003.backblazeb2.com/file/reflector2/mods/Modern-Industrialization-local.jar"
+hash-format = "sha1"
+hash = "e59f64be26b6c6341713c42610a98ad3a10c932f"

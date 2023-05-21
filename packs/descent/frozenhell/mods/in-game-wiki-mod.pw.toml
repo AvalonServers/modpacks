@@ -1,0 +1,13 @@
+name = "In-Game Wiki Mod"
+filename = "IGW-Mod-1.12.2-1.4.4-15-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d5ed04375f2e3c4fe7486279813191566c1528c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2551739
+project-id = 223815

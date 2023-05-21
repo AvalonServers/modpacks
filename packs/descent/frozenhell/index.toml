@@ -418,7 +418,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "c19d2de315772f7bf804725b230665569d0aa6d7ed104e90e0f783a3df9de35f"
+hash = "d0fd4f05f3c38ffddc06829adcbd84a8ecba7cceb7b57e5393f86e4d90ce7ee3"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -646,15 +646,15 @@ hash = "b7206f5790240af4b1eadc239c6297a62b2995ee363907162f25f309241adf85"
 
 [[files]]
 file = "config/thaumcomp.cfg"
-hash = "e0a007219bfa69e09b90738aec77d6fe49c65cf10a67e8dee11557a2e4966dd3"
+hash = "90f0908403b78f11595da2f0e108a95d4c7e33af9ba89ce5b81199878a989905"
 
 [[files]]
 file = "config/thaumcraft_graphics.cfg"
-hash = "706f5492f3f402a3cd3de0b6c66cf5ba16483552be3d953406f9657b03743895"
+hash = "eb3422adfedb11bbf69fce4145d0098a22b9abed4bd694f459e4be5302319267"
 
 [[files]]
 file = "config/thaumcraft_misc.cfg"
-hash = "e459d8c02c6914e9921644229573512d98f599b4bddad40f16116e2004bda1e5"
+hash = "723d9721163d568a7b795e0c90c37283beb556e0d1e4b123b0cffdacc8895fa4"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
@@ -1031,6 +1031,11 @@ hash = "5200926de2f1e3d3b7d88bbfe7c484b509ab0cab6b815f33ae8fba9f313f4268"
 metafile = true
 
 [[files]]
+file = "mods/in-game-wiki-mod.pw.toml"
+hash = "7eb816b028b13da76e77fb300500d09b0dd5616453142cb36c951148f629cc0d"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing.toml"
 hash = "eb9053d774202e70a5f14ade55f5d452dee5d809089c6cbba08da37dc438d436"
 metafile = true
@@ -1147,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "23b66b73f6aa64a9b4cde3a75bbbb6b57d6f402c0253e671325de42ecb8e1661"
+hash = "593af7b6bad411c4d7e558723d66de4520a58522b24034f0a0f0e256f0e833da"
 metafile = true
 
 [[files]]
@@ -1238,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "d2735f89a6984884ca7e596295ab07e8839cbd7acaf4085c62171568a2bfd462"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "30baf3b03af0c64606bd16fdbeda89666d8f4d925fbf4dc0bef21db36cc417f4"
 metafile = true
 
 [[files]]
@@ -1336,18 +1346,8 @@ hash = "a4b4c98438ef8aba2c3d949ecf2ea2e9e633e698dc77fc6c0f41be62ad53fb27"
 metafile = true
 
 [[files]]
-file = "mods/track-api.toml"
-hash = "c03d6843d6e160d9671749c90675cc9631561cf565836cfda5888ba83e241481"
-metafile = true
-
-[[files]]
 file = "mods/tree-chopper.toml"
 hash = "380174a8c050fb8342d2e09cf769a58af7ca9746091f4daf25797375681df479"
-metafile = true
-
-[[files]]
-file = "mods/universal-mod-core.pw.toml"
-hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
 metafile = true
 
 [[files]]
@@ -1387,7 +1387,7 @@ hash = "918f0d7f47a6247b38c81ff2f17676bc9519bb50b26393b8c6b34d3afa8957bd"
 
 [[files]]
 file = "scripts/icbm.zs"
-hash = "d2145a28463f87b8ee89c2302eaef9ad9df55c726598e73b3b135327246fdc9f"
+hash = "d72777a3d0d389dd4cd3eced202cc15cef1af34b40d78f7d2993b4178bd8bc4e"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"

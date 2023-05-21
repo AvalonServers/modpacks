@@ -61,6 +61,10 @@ file = "config/baubles.cfg"
 hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
+file = "config/bcc.json"
+hash = "c83c186fd4eb3c4fa56e13191a58961ffe36d03510663bf680f96608897b911b"
+
+[[files]]
 file = "config/betterbuilderswands.cfg"
 hash = "46ed04338f405a327ebce8bec17d63f51311e4d65871bd8f3101d328f10cc659"
 

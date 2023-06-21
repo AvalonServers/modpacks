@@ -62,7 +62,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "993eff761edc901046c520f4c6df2f142610bb6436be34579117c196dfd30a0f"
+hash = "9d94f30d14af86199429c8f7c6850389697cb54cc986c225112e036f0aca22b3"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -1077,11 +1077,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
-metafile = true
-
-[[files]]
-file = "mods/matterlink.toml"
-hash = "dade6297979984c005bc570cbc07bf7ee14638a51c8de56335f3caf28ec76730"
 metafile = true
 
 [[files]]

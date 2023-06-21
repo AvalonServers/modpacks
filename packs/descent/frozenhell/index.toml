@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "d2f0ecf70c3221bfcaad1c98c6fa2c06fce0d5f39cd13a9ef00d1347889b689c"
+hash = "2e1378ef836485967bf61d4ab7bb910a7067e0d2c0eb727564077e2cb425158b"
 
 [[files]]
 file = "asm/hammercore.xml"
@@ -62,7 +62,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c83c186fd4eb3c4fa56e13191a58961ffe36d03510663bf680f96608897b911b"
+hash = "993eff761edc901046c520f4c6df2f142610bb6436be34579117c196dfd30a0f"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -166,7 +166,7 @@ hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
-hash = "fd37902262bc11c2e60cbe5f8f1ef8b0f1d4eccfd0bd60b5d966bb6feb755fef"
+hash = "11bd058b10e186996182e6b6391335417f3695a3842b132055cafdd8f52a34b0"
 
 [[files]]
 file = "config/cofh/core/common.cfg"
@@ -354,7 +354,7 @@ hash = "ed15b539998fbdc95343a244ba55c0750d71129227e242f24d67a7e01c3c3b48"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "075c69a7dd3bfc884141cf0543f31b03445e6c5cc925e39f1d016a71c765bb83"
+hash = "9492884d6cbb94d3b8573e4fee5c0bb124c9d1d8221ed78c3e983493b99c22a3"
 
 [[files]]
 file = "config/forge.cfg"
@@ -626,7 +626,7 @@ hash = "97ff8e9b468d73b229af164bd6c9e4a22d67955586b2ed7ef3887d8351642987"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "bae9f208cacde82eedb19ccdb3fa420ed7e819927540e9943cdf8c4c804d7d4d"
+hash = "e9ac97e5ddcf7c941efa67a4f57c1217d273842517a023b7161876b7b19bf691"
 
 [[files]]
 file = "config/splash.properties"
@@ -658,7 +658,7 @@ hash = "eb3422adfedb11bbf69fce4145d0098a22b9abed4bd694f459e4be5302319267"
 
 [[files]]
 file = "config/thaumcraft_misc.cfg"
-hash = "723d9721163d568a7b795e0c90c37283beb556e0d1e4b123b0cffdacc8895fa4"
+hash = "05d1aaf1ceaf04eb2cec2dcb1bc72da7762ca2b7ec3e859050c2ec4aba15c06c"
 
 [[files]]
 file = "config/thaumcraft_world.cfg"
@@ -674,7 +674,7 @@ hash = "f3ddf2aceeb242e6553dc80f07cbffa26a6d16637eb69a98d93c317800edb45d"
 
 [[files]]
 file = "config/thaumicjei.cfg"
-hash = "5f04debc9d23b4003c788d5ffe685d809972022e9c20a49b100211768b13572a"
+hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
 [[files]]
 file = "config/thaumicjei_itemstack_aspects.json"
@@ -905,11 +905,6 @@ hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
 
 [[files]]
-file = "mods/decocraft.pw.toml"
-hash = "41b1647e325f291ade49e8d3a2a31d1e3349ff3951e0dff16bea9b64fe9a7005"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.toml"
 hash = "859384ef72440ef9e0c206cd91a511f19726f5d47fbd1e0bbfd02c2d21dc6b2b"
 metafile = true
@@ -1030,6 +1025,11 @@ hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
 metafile = true
 
 [[files]]
+file = "mods/immersive-railroading.pw.toml"
+hash = "8142b434d15baa49253cf4ca09ee26bee07ac0bce52ae4211979bb1f06257590"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.toml"
 hash = "5200926de2f1e3d3b7d88bbfe7c484b509ab0cab6b815f33ae8fba9f313f4268"
 metafile = true
@@ -1135,8 +1135,8 @@ hash = "c592d8593cd1519173c7c9d024fa0f8ecb73c451b6c5d8f5edf50bf396d60d63"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-mod.pw.toml"
-hash = "d74658c8c2268a429c03ec21c33548f06394a16c00ef9814c94fdbd8273b51bd"
+file = "mods/nuclearcraft-overhauled.pw.toml"
+hash = "f26ccfdf7d8799345b2d4cd447ddf17daefc3c5fecb40efc9817e3eeb559bee6"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/spongeforge.pw.toml"
-hash = "2b3661741b3486404c95c14aff8a4de1f011fbcf2530122e4a5cba4495d80ce4"
+hash = "b7e78baafe8650869d7b02a73ae54540f548ae204684eee5f355330e4a84760d"
 metafile = true
 
 [[files]]
@@ -1355,8 +1355,18 @@ hash = "a4b4c98438ef8aba2c3d949ecf2ea2e9e633e698dc77fc6c0f41be62ad53fb27"
 metafile = true
 
 [[files]]
+file = "mods/track-api.pw.toml"
+hash = "45a91b2fd9cd1424357aab07b60395c23df4f494e943a6489ef89808845b4f27"
+metafile = true
+
+[[files]]
 file = "mods/tree-chopper.toml"
 hash = "380174a8c050fb8342d2e09cf769a58af7ca9746091f4daf25797375681df479"
+metafile = true
+
+[[files]]
+file = "mods/universal-mod-core.pw.toml"
+hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
 metafile = true
 
 [[files]]

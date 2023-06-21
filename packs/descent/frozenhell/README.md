@@ -27,6 +27,9 @@ The server eventually shut down due to lag problems. Many large tech mods with m
 - Immersive Technology (removes coke ovens)
 - Railcraft (causes crash on start due to a conflict with computronics)
 
+## Known issues
+- SpongeForge's jarfile must be prefixed with `_a` due to another mod that applies an old mixin, causing a conflict.
+
 ## Players
 - LumiVaris
 - MrGermandeutsch

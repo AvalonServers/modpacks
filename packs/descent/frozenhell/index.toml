@@ -1,20 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".DS_Store"
-hash = "1319f2df41aedbc52c55f8a6b4357a3f26eda97028862cc1d716101044fce5c8"
-
-[[files]]
 file = "README.md"
 hash = "2e1378ef836485967bf61d4ab7bb910a7067e0d2c0eb727564077e2cb425158b"
 
 [[files]]
 file = "asm/hammercore.xml"
 hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
-
-[[files]]
-file = "config/.DS_Store"
-hash = "146482c310ba0362fa722d23a3dffaf49bed1e43a87c7d126956264932edbb98"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -540,10 +532,6 @@ hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
 [[files]]
 file = "config/nuclearcraft.cfg"
 hash = "5486ad880f833e57196d1e1e57d8a161725247bca4fafcce03617a88bdb890dc"
-
-[[files]]
-file = "config/opencomputers/.DS_Store"
-hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
 
 [[files]]
 file = "config/opencomputers/default.recipes"

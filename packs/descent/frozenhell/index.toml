@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "1319f2df41aedbc52c55f8a6b4357a3f26eda97028862cc1d716101044fce5c8"
+
+[[files]]
 file = "README.md"
 hash = "2e1378ef836485967bf61d4ab7bb910a7067e0d2c0eb727564077e2cb425158b"
 
 [[files]]
 file = "asm/hammercore.xml"
 hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
+
+[[files]]
+file = "config/.DS_Store"
+hash = "146482c310ba0362fa722d23a3dffaf49bed1e43a87c7d126956264932edbb98"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -62,7 +70,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "63cdbf9fae5e0f44ceb6369e56cc156368c27392af426b1fd35cd74e7f2b16ea"
+hash = "4a04040dad4b95b83946ae055f8b75889b6a0bdac8c7ee3eb921cdd306f34d43"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -78,7 +86,7 @@ hash = "91f23151b54178b85cfa74ab6efe15c506a4b6d502d265e2295a8fda9d7fddab"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
-hash = "c2160a08c810338141ead64ebbd0b974e7b39c6cbb4f86e257b026c648efe350"
+hash = "ce68180ebf8ed49e9168d3eef62829c6b61475fdbaecdf41be8abe6199f971a9"
 
 [[files]]
 file = "config/catwalks.cfg"
@@ -162,7 +170,7 @@ hash = "f64898ff8de09e710f6b155721c6f7b261776538ef82088aa532ccce0c0c57d3"
 
 [[files]]
 file = "config/codechickenlib.cfg"
-hash = "cd362380ceff6360c6fd1312599b277942674106fb430866d3efc834556a7d1b"
+hash = "fdabac87e892d38be5ffbb6fad662ebf4231e020adca82f9b01a9a8b5f20cf06"
 
 [[files]]
 file = "config/cofh/core/client.cfg"
@@ -429,6 +437,10 @@ file = "config/immersivefloofs.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/immersiveintelligence.cfg"
+hash = "7169b7228c7f83b7315690ccd8383e8c91b7b27e66c59fcbf3ba24078eb33317"
+
+[[files]]
 file = "config/immersivepetroleum.cfg"
 hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
 
@@ -530,6 +542,10 @@ file = "config/nuclearcraft.cfg"
 hash = "5486ad880f833e57196d1e1e57d8a161725247bca4fafcce03617a88bdb890dc"
 
 [[files]]
+file = "config/opencomputers/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
 file = "config/opencomputers/default.recipes"
 hash = "7a6905fda2366bfa4c99baa163a89d78ada8336a65e6fd6bcdea8d986b941fb9"
 
@@ -551,7 +567,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "5d65cf8ec95891a497137280bb76d09bcd8d327466355ab83aa3218b0ca8b003"
+hash = "f76a8eb5aeabd7bd3a74dfcbad51139cc0e6b80d3838088b67b0b54c1c321047"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -1041,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "cdd27e31aeac3f4ac1eb3db631ea311d93db7e634ac5f17934fd0e22dec2ef55"
+hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
 metafile = true
 
 [[files]]
@@ -1171,11 +1187,11 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "593af7b6bad411c4d7e558723d66de4520a58522b24034f0a0f0e256f0e833da"
+hash = "0001e4118f156ce49387bcf5341db9b3ff79205de170910a63d8a4dcc1176966"
 metafile = true
 
 [[files]]
-file = "mods/openfm.toml"
+file = "mods/openfm.pw.toml"
 hash = "7ff6d0d9725bcb70fa7b3b6a56e9a25ac68fbb90e20df62f32d1e00876c19737"
 metafile = true
 

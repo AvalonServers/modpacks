@@ -62,7 +62,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9d94f30d14af86199429c8f7c6850389697cb54cc986c225112e036f0aca22b3"
+hash = "63cdbf9fae5e0f44ceb6369e56cc156368c27392af426b1fd35cd74e7f2b16ea"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -435,6 +435,31 @@ hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
 [[files]]
 file = "config/immersiverailroading.cfg"
 hash = "b6282f88e497078d4ee3db8a7046ef4ed05e0ddf1bd02bc5656d02a1d2cc3130"
+
+[[files]]
+file = "config/immersiverailroading/fixed-tfl-trains.pw.toml"
+hash = "376b6ff9b353a94a266e500ecffe981fd759f157a31cdc901d21329dddcef4c7"
+metafile = true
+
+[[files]]
+file = "config/immersiverailroading/infra-train-pack.pw.toml"
+hash = "aded112dcffcb9d797033bfcb99dbfb450c7e046f0aec1f89597f867e10ba7d8"
+metafile = true
+
+[[files]]
+file = "config/immersiverailroading/matoi-vanilla-pack-ir.pw.toml"
+hash = "ace567a21b573e7f1652ce1a3a8cd6a350d2af5484639b17826e673c48da0648"
+metafile = true
+
+[[files]]
+file = "config/immersiverailroading/raefftech-narrow-gauge.pw.toml"
+hash = "d9169e1186658c52f698690d24c0def961f37cc938d960697fc1387490e86704"
+metafile = true
+
+[[files]]
+file = "config/immersiverailroading/small-gauge-goodies-for-immersive-railroading.pw.toml"
+hash = "42fb3961ad4026017403d5bdf4cce3432f0674485e8168025ca8850d99ce7b83"
+metafile = true
 
 [[files]]
 file = "config/industrialforegoing.cfg"
@@ -1080,11 +1105,6 @@ hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
 metafile = true
 
 [[files]]
-file = "mods/matteroverdrive-legacy.pw.toml"
-hash = "a29a8dfffc39a328d82910fad5bee015add93bf250930e34e932beab0e59b01d"
-metafile = true
-
-[[files]]
 file = "mods/mct-immersive-technology.pw.toml"
 hash = "616af241df1709a54883605623569c94978ac9fe610a1a5b59f9d13d08dc3672"
 metafile = true
@@ -1165,8 +1185,13 @@ hash = "01e41b8bf4b9e0f7f3beee9d4d311c231ae744f7d91b898ae0ea492a2f18130e"
 metafile = true
 
 [[files]]
+file = "mods/optifine-preview.pw.toml"
+hash = "1a685d3d52360c662fd3bae902ffd2bb0b54daba0af8237e9e699b076b4006ff"
+metafile = true
+
+[[files]]
 file = "mods/optifine.pw.toml"
-hash = "c81ac38a05799c1a0acedde195e87477e2f6048728cf0a2b2d22f89257aa253b"
+hash = "fa3a30b4e92be721c963deb5bf9edf0ecbd3e70c72208afc191df7f9d6610c68"
 metafile = true
 
 [[files]]

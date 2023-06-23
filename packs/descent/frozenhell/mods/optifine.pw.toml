@@ -1,8 +1,12 @@
 name = "OptiFine"
-filename = "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+filename = "OptiFine_1.12.2_HD_U_G5.jar"
 side = "client"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/OptiFine_1.12.2_HD_U_G5.jar"
 hash-format = "sha256"
-hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
+hash = "3b0006797771feb97f2d0d2908ae7c9a78cefb2e730af1c2e85d08a839ba271e"
+
+[option]
+optional = true
+description = "Optifine, may improve performance slightly at the cost of stability"

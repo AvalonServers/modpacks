@@ -62,7 +62,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4a04040dad4b95b83946ae055f8b75889b6a0bdac8c7ee3eb921cdd306f34d43"
+hash = "d5b2d2b853c3e79c89d409483e4f505aa6cf0d7633dd0b2c5fe82f37e421a8d5"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"

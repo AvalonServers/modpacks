@@ -517,7 +517,7 @@ hash = "7e7f45a42648a30470cb80373e30a41bec1a079a399f7dd8d225f7f8a21eb001"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "788e65a1b2d3adc40c3e9b73f19593f12b85011ef0b8dec2dee40da2a603c1a6"
+hash = "9d115383fc0299d52cc331b51ce5249255b061e270a35259167542ec8bf94495"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -569,7 +569,7 @@ hash = "f4d5ee7fb7aa1f7860009a7778bd861fa4a53dbf369a38073c0c7fe79477ffbc"
 
 [[files]]
 file = "config/opensecurity.cfg"
-hash = "5fe52a7ea092f83d5bafe2b1d087ec9dc4082259f96b0a734206bba468f3bfca"
+hash = "5b9ea78443887216013408888df4c6f623acb9d7282a91880848683012c3de15"
 
 [[files]]
 file = "config/ore.txt"

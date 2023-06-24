@@ -1,5 +1,6 @@
 import crafttweaker.block.IBlock;
 import crafttweaker.block.IBlockDefinition;
+import mods.railcraft.FluidFuel;
 
 // buff recipes a bit
 recipes.removeByRecipeName("railcraft:locomotive_electric#0$1");
@@ -26,3 +27,6 @@ recipes.addShapeless(<railcraft:circuit:3> * 2, [<ore:oc:materialCircuitBoardPri
 val irVanillaScale = <immersiverailroading:item_rail_part>.withTag({gauge: 0.632});
 recipes.addShapeless(irVanillaScale, [<railcraft:rail>, <railcraft:rail>]);
 recipes.addShapeless(<railcraft:rail> * 2, [irVanillaScale]);
+
+// allow IT Flue Gas to be used in Railcraft Boilers
+// FluidFuel.addFuel(<liquid:fluegas>, 4800);

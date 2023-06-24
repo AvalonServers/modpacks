@@ -1,13 +1,8 @@
 name = "Immersive Intelligence"
-filename = "immersiveintelligence-0.2.1.jar"
+filename = "immersiveintelligence-0.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8ef7fb130e6be51203f75d71c10237b69fcf41bd"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3586937
-project-id = 344344
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/immersiveintelligence-0.3.0.jar"
+hash-format = "sha256"
+hash = "c326d4f39db8f94ace48ee23dbc31e09eaff96e06226e6c3ee997264aafdcf83"

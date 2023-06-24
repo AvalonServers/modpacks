@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "2e1378ef836485967bf61d4ab7bb910a7067e0d2c0eb727564077e2cb425158b"
+hash = "ab684ccd2488233e4c2fba316119803ad2d0819c1a3683b023e220f0914b3960"
 
 [[files]]
 file = "asm/hammercore.xml"
@@ -22,7 +22,7 @@ hash = "dfc2633f5e4fd2f7ec38c4d078e2d7679b9b82dcee6a945bf71e3ce2d5372e78"
 
 [[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
-hash = "8aacef28002e91b2f504b47912d19b9596a1570d3695386ab2226185297eecad"
+hash = "ba46e44637786d9b959733a7e6538187f39392237f5b84810348e7749f90b1b2"
 
 [[files]]
 file = "config/IntegrationForegoing.cfg"
@@ -285,10 +285,6 @@ file = "config/dynamiclights_theplayer.cfg"
 hash = "7cd4a23d210049e0aae4de734eb0987132cca66fc2ca9b37738d4fd863f83738"
 
 [[files]]
-file = "config/dynview.cfg"
-hash = "ed1a8cf98f91962b1cbdcefd4c61baa2c2b7eef11c5c8ece4aba6ecc102f5402"
-
-[[files]]
 file = "config/endercore/cropconfig.json"
 hash = "f7c71c3da20edeb996b16f4d72709b55ba3f650eb91b0793a4dcefe495c200f3"
 
@@ -410,7 +406,7 @@ hash = "3c6aaafe6d491fa4bc7fa380200127ee9781915f24a120da3ea8fae6a74fc16c"
 
 [[files]]
 file = "config/igwmod.cfg"
-hash = "b009114e923af3b280640ec647d2c497b45ebfdce053a8ff60f08f10441cdcff"
+hash = "52cd917ee9452639272289581db8c5cd4d299326b68bf80a04b1d13f5362d784"
 
 [[files]]
 file = "config/immersive_energy.cfg"
@@ -495,7 +491,7 @@ hash = "68938d029ec3ad2f57ace8427dc06e57b447598202a68e8ea3b7ba657888c70a"
 
 [[files]]
 file = "config/journeymap_server.cfg"
-hash = "c3dd92629e5c58b896df3364bc19cbbfd74446163b20084eb61947ae08dde223"
+hash = "92651a23614b1cfc42e604137a7c61ba1e5729ad2980076c5608544a446bf62a"
 
 [[files]]
 file = "config/laser_drill_ores/default_ores.json"
@@ -511,7 +507,7 @@ hash = "4baf2acf8b8dfbe01215e3715a0ac59b64e396c1e97b9f67172f23bf8d49a3ac"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "788e65a1b2d3adc40c3e9b73f19593f12b85011ef0b8dec2dee40da2a603c1a6"
+hash = "9d115383fc0299d52cc331b51ce5249255b061e270a35259167542ec8bf94495"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -564,6 +560,10 @@ hash = "cb431cc89efb03fe00941be0e54103b930f2dc1998e0362a89f65f4d4d2e1fc8"
 [[files]]
 file = "config/openprinter.cfg"
 hash = "f4d5ee7fb7aa1f7860009a7778bd861fa4a53dbf369a38073c0c7fe79477ffbc"
+
+[[files]]
+file = "config/opensecurity.cfg"
+hash = "5b9ea78443887216013408888df4c6f623acb9d7282a91880848683012c3de15"
 
 [[files]]
 file = "config/presets/dsurround_emojis.presets"
@@ -760,11 +760,6 @@ file = "marytts/voice-dfki-prudence-hsmm.toml"
 hash = "41c2fef3383dc9ce91ed3d3e8338d552d2dac94413d1f0c6781a65b349d18b3c"
 
 [[files]]
-file = "mods/advanced-chimneys.pw.toml"
-hash = "32c06a4f8be53f56b83231d5949312bc2d0289a9c16860623d6a678e2bf8cfa4"
-metafile = true
-
-[[files]]
 file = "mods/ae2wtlib.toml"
 hash = "7e5374acf211072274dcae8f6084a70089a0677a520bb2c20340aaf296a4692e"
 metafile = true
@@ -935,11 +930,6 @@ hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.toml"
-hash = "859384ef72440ef9e0c206cd91a511f19726f5d47fbd1e0bbfd02c2d21dc6b2b"
-metafile = true
-
-[[files]]
 file = "mods/effortless-building.toml"
 hash = "232bebe223e0ddbca34d8e81415ff7571c0d37457c7f4a7eb6cdc443eeb3db4b"
 metafile = true
@@ -1051,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
+hash = "76e04d69a7e1c5a518c159d0e1a6c88f99070d9084fa9eeb1ce935a31cd48140"
 metafile = true
 
 [[files]]
@@ -1072,11 +1062,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "5200926de2f1e3d3b7d88bbfe7c484b509ab0cab6b815f33ae8fba9f313f4268"
-metafile = true
-
-[[files]]
-file = "mods/in-game-wiki-mod.pw.toml"
-hash = "7eb816b028b13da76e77fb300500d09b0dd5616453142cb36c951148f629cc0d"
 metafile = true
 
 [[files]]
@@ -1121,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "616af241df1709a54883605623569c94978ac9fe610a1a5b59f9d13d08dc3672"
+hash = "c8d68af0d9678bee5fe990a01650c9cab55c73c20a582e90cee54e5499243aa0"
 metafile = true
 
 [[files]]
@@ -1205,6 +1190,11 @@ hash = "01e41b8bf4b9e0f7f3beee9d4d311c231ae744f7d91b898ae0ea492a2f18130e"
 metafile = true
 
 [[files]]
+file = "mods/opensecurity.pw.toml"
+hash = "9d826dc36c6715349392d6c975da22b6b1cbd82493cbb00a0926b3e67077687f"
+metafile = true
+
+[[files]]
 file = "mods/optifine-preview.pw.toml"
 hash = "1a685d3d52360c662fd3bae902ffd2bb0b54daba0af8237e9e699b076b4006ff"
 metafile = true
@@ -1267,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/railcraft.toml"
 hash = "22a4f8ff437c24feb59cfd6112335f328c268fbd713dba65e2ad2a59598fde4b"
+metafile = true
+
+[[files]]
+file = "mods/railcrafttweaker.pw.toml"
+hash = "e504e904a294962e185b8047021f4c6f8fbbd1a09d9b257dfb859f19d25a800a"
 metafile = true
 
 [[files]]
@@ -1468,7 +1463,7 @@ hash = "115970f763150e984ac0969b2523945808d920cfb457a488c16b2fff86950b05"
 
 [[files]]
 file = "scripts/immersivetechnology.zs"
-hash = "11f8c393ead88c0340abbad3e0d92e363dc18553c5733fcc708f07cb91787e2a"
+hash = "48e5b4d236e759c2a79062ced8b02fd260ef9b71975b7c4c3c32829b42ce5b6e"
 
 [[files]]
 file = "scripts/industrialwires.zs"
@@ -1483,12 +1478,16 @@ file = "scripts/openprinter.zs"
 hash = "0a81d58a9e7022150d2d78de6eb5ec8bc3631b82be96147b05f2e8400bbf6edf"
 
 [[files]]
+file = "scripts/opensecurity.zs"
+hash = "e1e91f7c0497d8e31075bf90640597a160f2b3a9938f25f47602a947c96973a9"
+
+[[files]]
 file = "scripts/projectred.zs"
 hash = "5e4ecc56ba7669fba7e8d9307f7fd0463691ffaf1186822182680712905afda2"
 
 [[files]]
 file = "scripts/railcraft.zs"
-hash = "8f7047e05a5c45a2c02a67bf432f2560574586b91c3d5d165980008394439041"
+hash = "4f23d5b6b0949fc7e6d9cacb8925eac35dd61df480c842f269971e7a8954426f"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

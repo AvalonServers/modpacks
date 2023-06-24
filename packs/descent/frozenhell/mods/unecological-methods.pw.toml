@@ -1,0 +1,13 @@
+name = "Unecological Methods"
+filename = "uem-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db95281406ba2c6df39c765a7a76e71e7dfd8b9c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4032561
+project-id = 657640

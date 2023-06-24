@@ -358,7 +358,7 @@ hash = "9492884d6cbb94d3b8573e4fee5c0bb124c9d1d8221ed78c3e983493b99c22a3"
 
 [[files]]
 file = "config/forge.cfg"
-hash = "218673384236215ef62a94c1cb8d530465cae5e55bec249c8371d4eeee813be1"
+hash = "2ce3027f04f2adab88b71e16c66b2323c688b04803aa1f4c03016a60438788ff"
 
 [[files]]
 file = "config/forgeChunkLoading.cfg"
@@ -706,10 +706,6 @@ file = "config/thaumicjei.cfg"
 hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
 [[files]]
-file = "config/thaumicjei_itemstack_aspects.json"
-hash = "e4e1f351dd4d08156adec1d7a2a0da370917a799015da0563e644a21887e79ee"
-
-[[files]]
 file = "config/thaumictinkerer.cfg"
 hash = "027be30faaaa7257e92372188456e5bdb56df3ec18f3196a134177797779c8fb"
 
@@ -806,6 +802,11 @@ metafile = true
 [[files]]
 file = "mods/better-builders-wands.toml"
 hash = "01121b6669638a7350e0296bf1d941999e875bd84b15eada608b43c7db5a29ac"
+metafile = true
+
+[[files]]
+file = "mods/birds-on-a-wire.pw.toml"
+hash = "cd69d799d33a2ad19cb3f23d9c1207a6fc8f48cb1dc672ca871492699510e21b"
 metafile = true
 
 [[files]]
@@ -1034,6 +1035,11 @@ hash = "2652c3aaf8f1fdd87cf2e886c6f498210f8875a238816d93b2f5aa6f9b5ae4b0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-energy.pw.toml"
+hash = "f44329e59d0beaae9b0e5ac39bfc78807e3b550bf84e18610084c2624d1355ab"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "61fbbcdbeec3717c026b35bc5854c5d722b90fd98581bdbc3fbd947381fa2cbd"
 metafile = true
@@ -1046,6 +1052,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
 hash = "833956aab26a0fdde90c4ced2ef929c7c6cf2053cccd56b0a380f36b746a8fab"
+metafile = true
+
+[[files]]
+file = "mods/immersive-magneticraft.pw.toml"
+hash = "cc30e4105eef998619e1d6fec288bd92bfcad335afe81790c0271a18d1aa73b2"
 metafile = true
 
 [[files]]
@@ -1074,8 +1085,8 @@ hash = "eb9053d774202e70a5f14ade55f5d452dee5d809089c6cbba08da37dc438d436"
 metafile = true
 
 [[files]]
-file = "mods/industrial-wires.pw.toml"
-hash = "3574aaa9781a7f95fa2c500190f9b3acd3d1d8a898a5608848786192b99ffca9"
+file = "mods/industrial-wires-plus.pw.toml"
+hash = "2a5e052ec5d69a426af3151839c9c46db2fcde64beff460761d50850f8a8b423"
 metafile = true
 
 [[files]]
@@ -1116,6 +1127,11 @@ metafile = true
 [[files]]
 file = "mods/mixinbootstrap.pw.toml"
 hash = "042225fa484051292c770a8b22003e8b02cb70bb5ece75277fc6db2e7c9f4a83"
+metafile = true
+
+[[files]]
+file = "mods/modelloader.pw.toml"
+hash = "bf46002ff2d9b657ecd80baa538f01a8067958d9155f190cc409d6237da98d22"
 metafile = true
 
 [[files]]
@@ -1241,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/ptrlib.pw.toml"
 hash = "ce16eaae7ae839d57f66596123a21dd33e7148722c67943918dfe021b73f6db2"
+metafile = true
+
+[[files]]
+file = "mods/questionably-immersive.pw.toml"
+hash = "5fee147592a823efbbe94d3602fc9ab22f267bc95e031b095d6e10f4ad2f5178"
 metafile = true
 
 [[files]]
@@ -1389,6 +1410,11 @@ hash = "380174a8c050fb8342d2e09cf769a58af7ca9746091f4daf25797375681df479"
 metafile = true
 
 [[files]]
+file = "mods/unecological-methods.pw.toml"
+hash = "9264072c05cd77907aad7c453215ec0234069fb72e783395c053ad4d863a4e62"
+metafile = true
+
+[[files]]
 file = "mods/universal-mod-core.pw.toml"
 hash = "2c83c967888d9c46edb2e1191bc5c9e7760a4b290bd7c7dd346a923dd7b63735"
 metafile = true
@@ -1441,6 +1467,10 @@ file = "scripts/immersiverailroading.zs"
 hash = "115970f763150e984ac0969b2523945808d920cfb457a488c16b2fff86950b05"
 
 [[files]]
+file = "scripts/immersivetechnology.zs"
+hash = "11f8c393ead88c0340abbad3e0d92e363dc18553c5733fcc708f07cb91787e2a"
+
+[[files]]
 file = "scripts/industrialwires.zs"
 hash = "c685f8d450d96a7aaaab44f631bc7d7852df33af295df2ac67622ad58c72ea42"
 
@@ -1458,7 +1488,7 @@ hash = "5e4ecc56ba7669fba7e8d9307f7fd0463691ffaf1186822182680712905afda2"
 
 [[files]]
 file = "scripts/railcraft.zs"
-hash = "b8d8289a120085cdbe04218a7d519a5b8519e01142df85a59a9ed51676b82e9d"
+hash = "8f7047e05a5c45a2c02a67bf432f2560574586b91c3d5d165980008394439041"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

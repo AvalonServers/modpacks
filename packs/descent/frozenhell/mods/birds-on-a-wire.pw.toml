@@ -1,0 +1,13 @@
+name = "Birds On A Wire"
+filename = "bow-0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea68e59a0954c8fbcacf553a3155d8582908b2b8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3886220
+project-id = 646976

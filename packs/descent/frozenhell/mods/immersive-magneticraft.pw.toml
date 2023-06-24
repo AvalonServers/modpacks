@@ -1,0 +1,13 @@
+name = "Immersive Magneticraft"
+filename = "Magneticraft_1.12-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29fd1691b8cc16879dc69e8e9e617f85c45d17dd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3834368
+project-id = 630790

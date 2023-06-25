@@ -1,4 +1,6 @@
 build
+docs
 icon.png
+ADMIN.md
 policy.md
 .DS_Store

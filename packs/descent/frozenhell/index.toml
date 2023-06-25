@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "ab684ccd2488233e4c2fba316119803ad2d0819c1a3683b023e220f0914b3960"
+hash = "5008d535f0c7497d809a6153c245dbe23199829ec75e396e088b2e6e13fdb729"
 
 [[files]]
 file = "asm/hammercore.xml"
@@ -1428,6 +1428,14 @@ metafile = true
 file = "mods/zetta-industries.toml"
 hash = "6bebaf492b4cd0aa6a164376aec328d95afe77cc780cb700aab9a00ce3940915"
 metafile = true
+
+[[files]]
+file = "proposals/ACP-0002.md"
+hash = "afe229c71b759d2c07de508e39458ab46946cdaf1aefc2ad2a66e460e42acc64"
+
+[[files]]
+file = "proposals/ACP-0003.md"
+hash = "60078c1a889303c37df1d9173f719ab1ecac18f5d3cb81d213aa5809fd9a0674"
 
 [[files]]
 file = "scripts/appeng.zs"

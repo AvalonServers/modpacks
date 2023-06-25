@@ -530,6 +530,14 @@ file = "config/nuclearcraft.cfg"
 hash = "5486ad880f833e57196d1e1e57d8a161725247bca4fafcce03617a88bdb890dc"
 
 [[files]]
+file = "config/nucleus/motd.txt"
+hash = "f4380b40cd2fac838abfb84e75feb63049d09be3e24d4d6d58b591762a1863e2"
+
+[[files]]
+file = "config/nucleus/rules.txt"
+hash = "4a3755e97e4e1c0542a3872499ba3dbbe97f72b9ca5a30c67ae4c82318ebb12c"
+
+[[files]]
 file = "config/opencomputers/default.recipes"
 hash = "7a6905fda2366bfa4c99baa163a89d78ada8336a65e6fd6bcdea8d986b941fb9"
 
@@ -1262,6 +1270,11 @@ metafile = true
 [[files]]
 file = "mods/railcrafttweaker.pw.toml"
 hash = "e504e904a294962e185b8047021f4c6f8fbbd1a09d9b257dfb859f19d25a800a"
+metafile = true
+
+[[files]]
+file = "mods/randompatches-forge.pw.toml"
+hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
 
 [[files]]

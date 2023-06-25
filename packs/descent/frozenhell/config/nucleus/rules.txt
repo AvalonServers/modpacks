@@ -1,0 +1,7 @@
+&a1: Treat others how you want to be treated.
+&a2: No bigotry of any kind! Do not say things at the expense of others. It will not be tolerated. This includes, but is not limited to, homophobia, transphobia, ableism, racism, pluralphobia, LGBT exclusionism, ageism, or sexism.
+&a3: We reserve the right to ban anyone for anything that may cause disruption of server peace and/or anything that makes other users uncomfortable in any way, shape or form.
+&a4: Use of hacked clients or known exploits in mods is prohibited; and attempts at cheating, or bypassing anti-cheat systems, will be met with a permanent ban.
+&a5: This is a private server, and a private modpack. Please be mindful of the privacy of others when sharing content from this server, and do not distribute this modpack in any form without permission from AOC.
+&a6: It is your responsibility to ensure your actions on the server comply with our build and zoning policies, in order to provide a fair experience for all players. Repeated, intentional violations will result in disciplinary action.
+&a7: Refer to the Server Policy Document for more detailed information on server policy. You are expected to comply with this.

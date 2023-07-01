@@ -1,13 +1,8 @@
 name = "Immersive Technology"
-filename = "MCTImmersiveTechnology-1.12.2-1.9.100.jar"
+filename = "MCTImmersiveTechnology-1.12.2-1.9.101.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "67389da29048d6e10819eb445d64e4ae235e9342"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3658279
-project-id = 359407
+url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/MCTImmersiveTechnology-1.12.2-1.9.101.jar"
+hash-format = "sha256"
+hash = "2852dc958a0e5684eaf776d6e49ecb703e56f82560f20c2b3fa97aa08c0ac3e4"

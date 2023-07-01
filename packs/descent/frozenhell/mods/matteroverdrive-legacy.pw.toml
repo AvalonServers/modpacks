@@ -1,0 +1,13 @@
+name = "Matter Overdrive: Legacy Edition"
+filename = "MatterOverdrive-1.12.2-0.7.1.0-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4e1424cccfcfd3d9a1deec1a34a675095b80d469"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2699215
+project-id = 308192

@@ -5,6 +5,10 @@ file = "README.md"
 hash = "3546e8b86ac892782a285e3104cb9b0d236551478fd1bffc472d75af8fdac7ce"
 
 [[files]]
+file = "config/AE2WirelessTerminals.cfg"
+hash = "95eef24be52361263ce2ccc7aff47a27f5c08ef6c9638f868350caa4f892bd3a"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "d7858fb4964b0cc4aaea52142835d2632e320c86449a1afa82ff0285c52eb037"
 
@@ -517,7 +521,7 @@ hash = "7e7f45a42648a30470cb80373e30a41bec1a079a399f7dd8d225f7f8a21eb001"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "9d115383fc0299d52cc331b51ce5249255b061e270a35259167542ec8bf94495"
+hash = "886a639d749f4664d963138bc526340bf69c23fabec23cc8414d50cef40960c9"
 
 [[files]]
 file = "config/microblocks.cfg"

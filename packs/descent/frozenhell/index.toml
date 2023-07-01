@@ -9,6 +9,10 @@ file = "asm/hammercore.xml"
 hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 
 [[files]]
+file = "config/AE2WirelessTerminals.cfg"
+hash = "95eef24be52361263ce2ccc7aff47a27f5c08ef6c9638f868350caa4f892bd3a"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "d7858fb4964b0cc4aaea52142835d2632e320c86449a1afa82ff0285c52eb037"
 
@@ -82,7 +86,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4f1f2fd7176f78084980a60b957f87042d9c3c0ed1cad03fb977b80ab7904f87"
+hash = "cff7d66cc74fe99142539cba7f128baf5b638a3b4e75d3f83f8f2f2caedbce5d"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -527,7 +531,7 @@ hash = "4baf2acf8b8dfbe01215e3715a0ac59b64e396c1e97b9f67172f23bf8d49a3ac"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "9d115383fc0299d52cc331b51ce5249255b061e270a35259167542ec8bf94495"
+hash = "886a639d749f4664d963138bc526340bf69c23fabec23cc8414d50cef40960c9"
 
 [[files]]
 file = "config/microblocks.cfg"

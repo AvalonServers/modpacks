@@ -70,7 +70,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "4be20d4c69765ab35dfb8b4d4b1b6c95edbbc6b4a20162d6fb834b5fc6378d68"
+hash = "5034cd6d4ba9095365f8e4aa7c9df2f185b00dfd3224a609c74460cc84f3b32c"
 
 [[files]]
 file = "config/beenfo.json"
@@ -94,7 +94,7 @@ hash = "94ba8cc87b9ecbb794f1731979f31f35bf04808e3fa26eec6de626375f6af7a2"
 
 [[files]]
 file = "config/builtinservers.json"
-hash = "e5340b90eb76b9a1daa3e9bdb23f740e7b7bb5b652905f05a2e5b8cb3f8ca255"
+hash = "2ca7decc942d750ca3eb98aa410d09954465fa8279e350553381b94b6e8ff8ec"
 
 [[files]]
 file = "config/campanion.json"
@@ -1367,6 +1367,10 @@ hash = "3a0fd33eca8d3fa65214b93f3f0ac4cf4627fe265caa2f8a8034405ca83fcde7"
 [[files]]
 file = "config/quickconnectbutton.json5"
 hash = "c8c40f170898420757f2739dd184aec3f5f7c16dc91c0493ddf13a6aef32c363"
+
+[[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "a216bd126334956b306acf704d47d7d4605cba8500a2b8591c5a35b67c81b435"
 
 [[files]]
 file = "config/quilt-loader.txt"
@@ -2662,6 +2666,11 @@ hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
 metafile = true
 
 [[files]]
+file = "mods/lilylib.pw.toml"
+hash = "db70fd37b880be2f192bb9be2805330e273be20563e5e57f7ec7b6617e0183b8"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "d969b4fa4fbb0b33aecaf62de481dcb707517fbe27c07e8ea2bf468a6d2b0e68"
 metafile = true
@@ -2868,7 +2877,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "3bb891ec05dd7ce0311514b354b8fdf0224156f8fdb8d7823376f559663e1857"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -3039,6 +3048,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "e7c6347455225b077a187f37439ed1abb4dc991e013f323e07e05c2c0fd39dcb"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "b2d6cc83150d815f31c58b26cae9c27a425dff45b05ec94f28937c51bfeefaaf"
 metafile = true
 
 [[files]]

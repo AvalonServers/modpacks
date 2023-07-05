@@ -2,8 +2,8 @@
   "badgeVisible": false,
   "builtinServers": [
     {
-      "name": "Ascent Override Official",
-      "address": "aov.avalonsrv.com",
+      "name": "Stalburg Recreation Project",
+      "address": "srp.avalonsrv.com",
       "forced": true
     }
   ]

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/create-track-map-1.4+mc1.19.2-fabric-create-0.5.1.jar",
+      "depends": [{
+        "replace": {
+          "id": "fabric-language-kotlin",
+          "versions": ">=1.9.1+kotlin.1.8.10"
+        },
+        "with": {
+          "id": "fabric-language-kotlin",
+          "versions": ">=1.9.0+kotlin.1.8.0"
+        }
+      }]
+    }
+  ]
+}

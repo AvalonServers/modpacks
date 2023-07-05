@@ -1,12 +1,12 @@
 name = "Stalburg Recreation Project"
 author = "Avalon Servers"
-version = "1.0.1"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "913d3d2770e1ebeba6628a897a6bb50247ecd28690af091b77ebc00a3beca8e4"
+hash = "957314122fe887c816f2af043e0d524659328454a04050904746cc50165bc1d3"
 
 [versions]
 minecraft = "1.19.2"

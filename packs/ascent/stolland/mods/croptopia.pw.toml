@@ -1,8 +1,0 @@
-name = "Croptopia"
-filename = "Croptopia-1.19.2-FABRIC-2.1.0.jar"
-side = "both"
-
-[download]
-url = "https://f003.backblazeb2.com/file/reflector2/mods/Croptopia-1.19.2-FABRIC-2.1.0.jar"
-hash-format = "sha1"
-hash = "b9abd26f3acba5fb93697a76a9222b5e73c87cfc"

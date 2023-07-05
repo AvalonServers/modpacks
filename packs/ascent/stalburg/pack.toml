@@ -1,0 +1,13 @@
+name = "Ascent: Stalburg"
+author = "Avalon Servers"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ff1ff4ee11fed878b0aede1b7bd8b71a344bdcb07bd92c02b7741b34c9b8c06f"
+
+[versions]
+forge = "43.2.14"
+minecraft = "1.19.2"

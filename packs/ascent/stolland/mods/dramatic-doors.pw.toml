@@ -1,0 +1,13 @@
+name = "Dramatic Doors"
+filename = "DramaticDoors-Fabric-1.19.2-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aQ7h7gal/versions/eKdHPMuc/DramaticDoors-Fabric-1.19.2-2.0.0.jar"
+hash-format = "sha1"
+hash = "dae5c7a83e7a5e5c6667df6a6e1786881eb402f4"
+
+[update]
+[update.modrinth]
+mod-id = "aQ7h7gal"
+version = "eKdHPMuc"

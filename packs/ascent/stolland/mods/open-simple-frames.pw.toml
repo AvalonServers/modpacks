@@ -1,0 +1,13 @@
+name = "Open Simple Frames"
+filename = "OpenSimpleFrames-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nELKzJ5C/versions/dndX5HAV/OpenSimpleFrames-1.0.7.jar"
+hash-format = "sha1"
+hash = "ad2c29318e8c8d4bef726be1582636a902b27466"
+
+[update]
+[update.modrinth]
+mod-id = "nELKzJ5C"
+version = "dndX5HAV"

@@ -1,0 +1,16 @@
+name = "Stalburg SNW"
+author = "Avalon Servers"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5cb1033c31e6578f22b59e888b1df8f6e816f8d05b67f197f731569410ca0dae"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.2"]

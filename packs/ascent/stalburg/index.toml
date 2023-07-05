@@ -5,8 +5,12 @@ file = ".DS_Store"
 hash = "7f8aa216cc1c374bb0437feea25806ea311c1911022f850664e2c05e57ed1410"
 
 [[files]]
+file = "build/mmc.zip"
+hash = "fe85d35e55eae0f900cab9d85c2b5541353518c38fadd5e01989ac18cf01210d"
+
+[[files]]
 file = "config/bcc.json"
-hash = "7e4981c1b37d72725c1225283e34e506771b85a7a6ef4c8309ea103225cdd870"
+hash = "89a2657fed8ae9aaf3fb5df0189a9d2da67fb5cacaa58751c26188b4e6ffd659"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -421,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
+hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
 metafile = true
 
 [[files]]

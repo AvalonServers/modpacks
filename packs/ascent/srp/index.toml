@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5034cd6d4ba9095365f8e4aa7c9df2f185b00dfd3224a609c74460cc84f3b32c"
+hash = "d7966f93a65298f7b1f9327e5223833514a7921d51dcfbf92e2b7aa6cbff82a1"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -443,6 +443,51 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "14b1ac7cf22a813f3ddc62685988c9e817a171ec960d9e0a662d84c095fc4f91"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "91e8881d0effbcded0fe38087242f7ebedd15272a067b0d3cebc7b24d85e3e59"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "89bf482b8a586bd748e9b3c0c12bcacaa08cc698482ab77de75ac63d95008036"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "c794e7e2ee49bc81f976006903ae7bc68b9452ca4e3811ce3d9e2fa52ba3e3c4"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "2d2457ae5c4949c29a2ff048429d61da665fff1262f5a2165715130e2412497a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "bce8efa985cc7b8be23e093e0f6aa96123362c8a6dbe32856855c5ba71f9cb60"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "1fad7040942ef6e2cdcc6b8c7357d28a1178a616445e522fc4d333e95d80c515"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "907402d6346b305f919727fcb4c49a971025af93b7f119768e3c056da7a24f35"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "35554a19f64ba3c4aa01aa14c7b6cd03b986967d27cbbf16a47dce66bb6757cc"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "0a7edf681664e37cbaa592b4f4260d6ba80268f46084b8d99069aa9c264f5b70"
 metafile = true
 
 [[files]]

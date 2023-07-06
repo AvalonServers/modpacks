@@ -1,12 +1,12 @@
 name = "Stalburg Recreation Project"
 author = "Avalon Servers"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "eeecf224d33cf9197c511066954f2b5bc0f57583ff0e66f10d2b8be072d54193"
+hash = "d0033be9bd6d6c9a637f59385613ac0ff66a42024ef3df797c01610c55d02d2c"
 
 [versions]
 forge = "43.2.14"

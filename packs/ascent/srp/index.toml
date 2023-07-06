@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc.json"
-hash = "dc7becaf5c8b72ccecd83ce239a6183ef037a7f14aa6137bb938412ac43657ea"
+hash = "5034cd6d4ba9095365f8e4aa7c9df2f185b00dfd3224a609c74460cc84f3b32c"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/mc2discord.pw.toml"
-hash = "727624a3f0a1dd528bf95a6510b761722ca6839b66e1ed50818d16c7dc99c71b"
+hash = "ae37f8a2e1a7a2073e8e4ed18ac9c2484618d18c94e104ab6f69915402355686"
 metafile = true
 
 [[files]]

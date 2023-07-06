@@ -1,0 +1,16 @@
+name = "Stalburg Recreation Project"
+author = "Avalon Servers"
+version = "1.0.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8c717150d41e1424a127b407b7aad6bc7840bec4bf10a1c078b3c6b1f2cda7f5"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.2"]

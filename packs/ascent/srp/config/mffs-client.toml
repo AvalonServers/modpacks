@@ -1,0 +1,5 @@
+
+[general]
+	#Apply a fancy glitch effect on projector mode renders. Requires game restart.
+	enableProjectorModeGlitch = true
+

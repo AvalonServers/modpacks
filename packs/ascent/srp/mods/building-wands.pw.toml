@@ -1,13 +1,13 @@
 name = "Building Wands"
-filename = "BuildingWands-mc1.19.2-2.6.8-release-fabric.jar"
+filename = "BuildingWands-mc1.19.2-2.6.8-release-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XkisZUfp/versions/G2JALB1f/BuildingWands-mc1.19.2-2.6.8-release-fabric.jar"
 hash-format = "sha1"
-hash = "671cbc98476422f456940051a1793b6e4f7dd4b4"
+hash = "0dbf6774c46b7aebbb635d93a3eb7defa8818c84"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "XkisZUfp"
-version = "G2JALB1f"
+[update.curseforge]
+file-id = 4619230
+project-id = 363392

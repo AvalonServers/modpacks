@@ -1,8 +1,13 @@
 name = "Decorative Blocks"
-filename = "Decorative Blocks-fabric-1.19.2-3.0.0.jar"
+filename = "Decorative Blocks-forge-1.19.2-3.0.0.jar"
 side = "both"
 
 [download]
-url = "https://f003.backblazeb2.com/file/reflector2/mods/Decorative+Blocks-fabric-1.19.2-3.0.0.jar"
 hash-format = "sha1"
-hash = "1759a4f949eccfe6b3eb01b3fc7ccc6a3137816e"
+hash = "a2d473fbe2b026abed6b79effe7ccdf162a59ec0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3941638
+project-id = 362528

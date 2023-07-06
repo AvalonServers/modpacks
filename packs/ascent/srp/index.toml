@@ -70,7 +70,7 @@ hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5034cd6d4ba9095365f8e4aa7c9df2f185b00dfd3224a609c74460cc84f3b32c"
+hash = "2aaf22a1d411b5f18db97e699ff931a60453aebd6ae21907c73a019645b08165"
 
 [[files]]
 file = "config/beenfo.json"
@@ -2061,11 +2061,6 @@ hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray.pw.toml"
-hash = "e84d01f41e4eb7f10b07eb991b7534b20d4d9ca83ececd38dc6b719ea4a5a928"
-metafile = true
-
-[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
@@ -2768,11 +2763,6 @@ metafile = true
 [[files]]
 file = "mods/microdurability.pw.toml"
 hash = "2c44f182a7875bcb8447c004078c79c4f7bad9ec3ccfe63586f2127f1fa74a58"
-metafile = true
-
-[[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "3c65e87193d79b218c0636cdfeca699ad6edcdbea035abfc7ce59005f1b4fb42"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Dramatic Doors"
+filename = "DramaticDoors-Forge-1.19.2-2.3.7_1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aQ7h7gal/versions/El4VYStj/DramaticDoors-Forge-1.19.2-2.3.7_1.jar"
+hash-format = "sha1"
+hash = "d4429a67a816db9364236e1da5b925f34aff8190"
+
+[update]
+[update.modrinth]
+mod-id = "aQ7h7gal"
+version = "El4VYStj"

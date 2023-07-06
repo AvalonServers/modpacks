@@ -1,0 +1,13 @@
+name = "Sound Physics Remastered"
+filename = "soundphysics-forge-1.19.2-1.0.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/L9IFjX01/soundphysics-forge-1.19.2-1.0.18.jar"
+hash-format = "sha1"
+hash = "e88578b7238138c53b66046f6f859d44bc5f2bea"
+
+[update]
+[update.modrinth]
+mod-id = "qyVF9oeo"
+version = "L9IFjX01"

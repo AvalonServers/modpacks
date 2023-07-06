@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Forge"
+filename = "repurposed_structures_forge-6.3.24+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/IjV783aj/repurposed_structures_forge-6.3.24%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "594d0548ea9b0062c29525f727c4456700e78ff8"
+
+[update]
+[update.modrinth]
+mod-id = "QDNS5oAT"
+version = "IjV783aj"

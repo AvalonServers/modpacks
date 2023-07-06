@@ -1,0 +1,13 @@
+name = "Mc2Discord"
+filename = "mc2discord-forge-1.19.x-3.2.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cfbcv7uF/versions/AjuTiGHm/mc2discord-forge-1.19.x-3.2.10.jar"
+hash-format = "sha1"
+hash = "9a4742c63ba402d89367ab74b5ecdc964b320dff"
+
+[update]
+[update.modrinth]
+mod-id = "Cfbcv7uF"
+version = "AjuTiGHm"

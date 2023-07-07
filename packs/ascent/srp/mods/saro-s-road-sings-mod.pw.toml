@@ -1,0 +1,13 @@
+name = "Saro´s Road Signs"
+filename = "saro´s-road-signs+-mod-1.19.2-2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "60448c5483fe040457f762f08fd93756efce9ff1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4396254
+project-id = 676294

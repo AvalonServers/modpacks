@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "3b5c6373125658f1b7ac464f5bc2d6988ceadc7dc10566858687cac95709b34f"
+
+[[files]]
+file = "config/.DS_Store"
+hash = "ac7eb5e2b61706f63b8687c90bf1b123f2af93a38e16a89f80cf24ada8d46810"
+
+[[files]]
 file = "config/bcc.json"
-hash = "d7966f93a65298f7b1f9327e5223833514a7921d51dcfbf92e2b7aa6cbff82a1"
+hash = "00f42cf349c7693c00e698f4c520eb5c913c25885870b84630765e7f0402d525"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -81,6 +89,218 @@ file = "config/more_immersive_wires-common.toml"
 hash = "7b4b09ddf774ac3f52a9fd5952495173c8585f6d12b26b8d7532e96cd9ddafe9"
 
 [[files]]
+file = "config/openloader/.DS_Store"
+hash = "788c7c10f689137e3e7ffc4d9a4efb5ed62717aa1f20ec250a3b4a5674f990df"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/resources/.DS_Store"
+hash = "247b2753b89676a935737609e973661f6a8174a8b144068d17d96a05b929f015"
+
+[[files]]
+file = "config/openloader/resources/srp-base/.DS_Store"
+hash = "7a5d1e3e4b710c1271248c2a2a1617174da028f669cef7df62d2dcd70da7fb54"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/.DS_Store"
+hash = "e2410527c8d0b7609200db290782c74bf12284a62f76a8bceb3261aec3ae53c9"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/.mcassetsroot"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/.DS_Store"
+hash = "79a9e4797f50f1760037f1aae91ce0b3e358f2f5430b1f3870b20c55647736e8"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/entity/.DS_Store"
+hash = "4940a96c70eef7ca0a608b27974d2397ce1864a6db74f3d10c3a3dbb8ba4bffe"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/entity/enderman/enderman.png"
+hash = "7f082687abe07babd212b239f09463f21b912a6fabf3bcf38397a67192b07719"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/entity/enderman/enderman_eyes.png"
+hash = "038fa9ad2e1a31f95f481e795de98b609756c17c0799e492a14bfc5a74d68950"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/.DS_Store"
+hash = "2b208ca7802258dc20c274456612948d7e3c1ea1a90bb2fba78dfd9b957812e2"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/.DS_Store"
+hash = "687859fd6322c542f21ff16f0ab7a13e7085be269fd25fa75514d2c75a036a8c"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_0.png"
+hash = "5f0237f7b6d4f669c4b0f49877124de8ffdcd9012644b141da0316c16a15f01a"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_1.png"
+hash = "4d6df01df4d2b0ed34968b8c1c99a97a9fd094903ef11d156ecbf968e9a888ff"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_2.png"
+hash = "df6a9a8b3cf8db6b0cdb76b83e7eb7face4e0c0c48d0bdd704e44310d8af3aad"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_3.png"
+hash = "44f2e3805472282881939393b14468683c0820c23502f547bf3a117460be633e"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_4.png"
+hash = "7f65d54874791e241a76a4d4185eebd492ae2eb3c06284ec05f2c77d0b6fb741"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/background/panorama_5.png"
+hash = "8e03cbb7f57b2e7137b3baa921a8988adb258bdd5f7a01f5254661f4ce2e7440"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/gui/title/minecraft.png"
+hash = "34e6370e989e76a0ae3746613ac111d9dafdb2a998ed74e43cd6aa8490029373"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/.DS_Store"
+hash = "c7de9e7d1c4f9cc00444f9d9044e98edf9d99ccc8d7e595b5ed94197cfbba572"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/alban.png"
+hash = "55444fdbf4c156d2204823e9758bd5c6223da51208f7df1383f3fbf1cc1d5501"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/aztec.png"
+hash = "ec49852207f83eef0642254474c32405ad9a1d3ce7d58e3f04456eb900857176"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/aztec2.png"
+hash = "1573ddd516c037e1cd98c7b891d118ddc38e3d63855a0a369516dbe630da973e"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/back.png"
+hash = "48795d224e5e613d052e0b89bbfaf8a80831c32a3b2e62f3aa1df881148d1eae"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/bomb.png"
+hash = "0081e6504565b09c16eb9059b5b73f3b79dc19dbf587944ad562bca417d91570"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/burning_skull.png"
+hash = "749e0592b75323fc040f38daf521b51ba9bfe8df9925f5f7007d5e6655aab4d2"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/bust.png"
+hash = "3e666f315b25dcae3361ce051ba275873f3eddb5d5b749eb26a53dfd794471f3"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/courbet.png"
+hash = "e0462530af937de59e249c22f85b91f26549e4f129edcf929f51c1cc5e0cb953"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/creebet.png"
+hash = "df0d0aaa1484aae5baf185070c7719f209584edaab43e59416b0b61bb008d1f0"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/donkey_kong.png"
+hash = "179eb047304f9b5045e290aaec2531c7b0a735c5c68479368a3552ea99f651c8"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/earth.png"
+hash = "379b5753288691008bde27b11b14c3c13172dabbe6dc3033922a85cae6ef697d"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/fighters.png"
+hash = "028ed34fb31373520077128eba80c510585d06236e63132372400da48812c43b"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/fire.png"
+hash = "dc3f28e1b2bfdbf44094967361f3eb3261f13ef988585b3b421414b65982db4b"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/graham.png"
+hash = "0967087f7b80b3a15a442547001270cce3e447c2eb23810951d00721afb2d226"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/kebab.png"
+hash = "0056f181c3be183e347ce2b974f3075543ef5aef9c973da1842b275b84be3c62"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/match.png"
+hash = "43092a3d87dd269f77220c900ee8352c026aafbb87c5fe5dff56c6c78ad3797e"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/pigscene.png"
+hash = "14116c72748c63eb4c449f435610f62c25e102fb5d22025f340053bc2d731aec"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/plant.png"
+hash = "f9fa4a65d78fdc2f0455fb0743ad76904b130bf07a0808a85c818711d6ae9382"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/pointer.png"
+hash = "88b793c7f144e849dc24b38ab090747914de880ca16153e8ec47bd4349a56116"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/pool.png"
+hash = "9fef946faf3a0219353c6a91528a191d8d039713c6552ae7103c513dfa03c147"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/sea.png"
+hash = "7303d957ebd5662af7e40c4f0eb0d9a35245d4a296c940820960a3d256efb9cc"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/skeleton.png"
+hash = "5dd3bd22ac0fb26a067d1c4288b73ed98f6a249877410978a20f2740571d3256"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/skull_and_roses.png"
+hash = "05babf1b67bbb9a4aa7ffa66d462b0c1d1f39709a7c2ded3cb531a3cde671d08"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/stage.png"
+hash = "6ed21ee952def6d23f64185b9c7e4090e55042b03778aac00ea770786b4f34c3"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/sunset.png"
+hash = "7d552baa1973812222e1b5e055b34f83ccfeda2c7dc420cdc31fe5fa8c66ea10"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/void.png"
+hash = "49828eece6a3426f477ec3baa7563aae7816bd30435d46b5ad92a76d54b39a96"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/wanderer.png"
+hash = "a24a1e3d37bf2adae1a00c671e0360a1823d2771854cf1248f03a1881cc95e24"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/wasteland.png"
+hash = "ebd3dcb1a3bbbafe08c3b1cbde9e1bbedfa44d8b896f56c5020cef078475729b"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/water.png"
+hash = "32bf1e93a192d414a92d027664d3bf223643a50725ac1064f976126b7d50e6a5"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/wind.png"
+hash = "9b46942ccee42f9aa8275767bcfb3bdb04ca59a953293afa789125fc1742169c"
+
+[[files]]
+file = "config/openloader/resources/srp-base/assets/minecraft/textures/painting/wither.png"
+hash = "36ad33abe4a86f55cb5adadaa3912163e878136b26c3c9ae3324c6e912cb2dd3"
+
+[[files]]
+file = "config/openloader/resources/srp-base/pack.mcmeta"
+hash = "d30353f0e9cd031675867466419806308ce8c40a3ec8e0127037db1433d56fe0"
+
+[[files]]
+file = "config/openloader/resources/srp-base/pack.png"
+hash = "cc08b4a664bd80b8de39a7cf70622154e96c1f3155da6af07eb77dd243deb07f"
+
+[[files]]
 file = "config/radium.properties"
 hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
 
@@ -142,7 +362,7 @@ hash = "2edc42650c3b9015c29e08e6ac2ca75e6c94131ce1cc5a8a87b453d7ee98ba54"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
-hash = "2eaaaa4036b6d2e2b6eb4ec3b9a6f2840dd910a82dd81c4577dbd86fc88cbc04"
+hash = "67751ae9cc6bd4322654499d1750e52201ffaa469e294568b2c52890b91243aa"
 
 [[files]]
 file = "defaultconfigs/chiselsandbits-server.toml"
@@ -216,6 +436,11 @@ hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
 metafile = true
@@ -228,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "542a647e3896384f3cd04c4ea2006bb927ab355cd85f8205af45f32f9e2aa13c"
+metafile = true
+
+[[files]]
+file = "mods/blockcarpentry.pw.toml"
+hash = "9a0d4af8d4a3978163d19c6ad2be723e97feaa931c93592d817a74270f453619"
 metafile = true
 
 [[files]]
@@ -371,11 +601,6 @@ hash = "df1ef08bcc6ebdf9dcd8a4bf64eb28ebcfaab1f17c1038ef2bbb4e9b6e0eb1ab"
 metafile = true
 
 [[files]]
-file = "mods/ducky-periphs.pw.toml"
-hash = "5d6e71a926ac88002e3e5d155f9d56608eec51919ba9bba36887ed49edfbb266"
-metafile = true
-
-[[files]]
 file = "mods/dustrial-decor.pw.toml"
 hash = "bb9d2f8bb5218c127f6164cac65011286d29577dde7c734521e25704feeb58e1"
 metafile = true
@@ -386,8 +611,18 @@ hash = "a0b24d16f429dad6e11ff6fd0e3d556d9260378bd10768611e161fa64b764e9d"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "b0939921a7ad1af619801ef6ba972b7a6ddf5bc51ffcdba06eccb0b31cfcdd96"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "da5a2dba3ec82b05ec03cb6a812ba002e5e182cb1f85d4f942e67c5b466644f4"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
 
 [[files]]
@@ -466,11 +701,6 @@ hash = "2d2457ae5c4949c29a2ff048429d61da665fff1262f5a2165715130e2412497a"
 metafile = true
 
 [[files]]
-file = "mods/macaws-paintings.pw.toml"
-hash = "bce8efa985cc7b8be23e093e0f6aa96123362c8a6dbe32856855c5ba71f9cb60"
-metafile = true
-
-[[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "1fad7040942ef6e2cdcc6b8c7357d28a1178a616445e522fc4d333e95d80c515"
 metafile = true
@@ -511,13 +741,13 @@ hash = "43767cd91335f20d3249026cb154c9a3d5d6bce7beefe3aa930329ad134366fc"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "f5b64adbd8fb64049f6c151f47a664edc6c5b56a3fc5ddb1781574ea2f24aef8"
+file = "mods/more-immersive-wires.pw.toml"
+hash = "b48fca66f9b46df6111a443641b3c484042708c3a55f643778e3b6b0ea499da1"
 metafile = true
 
 [[files]]
-file = "mods/more-immersive-wires.pw.toml"
-hash = "b48fca66f9b46df6111a443641b3c484042708c3a55f643778e3b6b0ea499da1"
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
 
 [[files]]
@@ -546,6 +776,11 @@ hash = "90e966a902a1f288100aec37917aa4e58d59ad5ec15e0ddcfdd27088dd29fc03"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "3ef9dc22d90a53d4b20b1b26190d58b21a2639b8b20f7d295de4ea3b03e13f30"
+metafile = true
+
+[[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "29e101a8eef507c96d02c54e1f82ea4d544c7edcce50957a3e33bf37955350e1"
 metafile = true
@@ -558,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "89eb45544e887b9122b93308e38a18381975b2278b666bd53b1e1948988edba8"
+metafile = true
+
+[[files]]
+file = "mods/redstone-gauges-and-switches.pw.toml"
+hash = "de566da5a6b9b06872c00cb9ab1212f49324e0966bec77d0ea886cee8c2cfd2f"
 metafile = true
 
 [[files]]
@@ -601,6 +841,21 @@ hash = "c5ad892ccacff7bec1c317ecad14dfb03a4ff230f501e66f18ef472707855894"
 metafile = true
 
 [[files]]
+file = "mods/saro-s-road-blocks-mod.pw.toml"
+hash = "fb72581b20ccb790d3fd97ed5d761df8a2086826dd850f1ba924f59233d890ab"
+metafile = true
+
+[[files]]
+file = "mods/saro-s-road-sings-mod.pw.toml"
+hash = "cea5c8d1a725e75a7a533a5a41d128a2a48e583804fef545fddcffadab0e8fc2"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
 metafile = true
@@ -628,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "1672dd487a25a13e47cfdc585a25da353b86c64b1a846c54993568c04c3bfee9"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "f78066e4854ca09c84d962e028c8b3e1f2f095766db28680dc5ada6472e9a447"
 metafile = true
 
 [[files]]

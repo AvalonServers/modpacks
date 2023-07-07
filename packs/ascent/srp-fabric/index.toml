@@ -1570,7 +1570,7 @@ hash = "9b5353f0e1c388669962a0f12fa7ede3fef17be0e1e43ba442c31cd19a3d0d0a"
 
 [[files]]
 file = "extra.toml"
-hash = "5b1d9aea4fa109a55ecaddf8ab58ad9fe3c7f391207f799d144378ecb7153091"
+hash = "fe68bc5eab5e7f8c890337b85fed05f0ad743d892d15506c341f4e5441dfb352"
 
 [[files]]
 file = "icon.png"

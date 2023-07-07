@@ -1,0 +1,13 @@
+name = "Saro´s Road Blocks"
+filename = "saro´s-road-blocks-mod-1.19.2-1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4003ad4a80c8eb9aefe54eaad77633f2dbc873ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4598708
+project-id = 711583

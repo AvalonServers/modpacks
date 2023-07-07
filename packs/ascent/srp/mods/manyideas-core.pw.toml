@@ -1,0 +1,13 @@
+name = "ManyIdeas Core"
+filename = "ManyIdeasCore-1.19.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "812d65d764adc6672f907705ce3fba6655b3367f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4484204
+project-id = 433642

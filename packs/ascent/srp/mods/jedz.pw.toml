@@ -1,0 +1,13 @@
+name = "Just Enough Drugz (JEDZ)"
+filename = "JustEnoughDrugz1.19.2-1.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9ef2d02e701f7060d7d4e0ff4f0c985d8b1e149"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4436216
+project-id = 529690

@@ -10,7 +10,7 @@ hash = "ac7eb5e2b61706f63b8687c90bf1b123f2af93a38e16a89f80cf24ada8d46810"
 
 [[files]]
 file = "config/bcc.json"
-hash = "58d79bea774398a39e4e7e1ec58982036edeb08a22b635ea64fef0792acdaa28"
+hash = "03eb5df073a32a9bc6ec2d4a00ecfddcc78cb2e4728dc40219a8194b8e519447"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -342,7 +342,7 @@ hash = "de8085fe49c036cc1de0f2ae4634b808d3913f7acb5fdd040811355446e0441d"
 
 [[files]]
 file = "config/rubidium-mixins.properties"
-hash = "66bbef3dd895941e28db52d85ef5e8a1ecda6dc26377a47ff6dc623ece2f73fa"
+hash = "35a8560b95d8753787c1f99cef9f1951eb37453f668ab5063cbce0015c379a35"
 
 [[files]]
 file = "config/rubidium-options.json"

@@ -1,0 +1,13 @@
+name = "Immersive Positional Resources"
+filename = "immersiveposres-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Io0G3BoK/versions/CEPZMJS9/immersiveposres-0.1.jar"
+hash-format = "sha1"
+hash = "d711d6e8c3054ad0e134aaa8557e8774c0459237"
+
+[update]
+[update.modrinth]
+mod-id = "Io0G3BoK"
+version = "CEPZMJS9"

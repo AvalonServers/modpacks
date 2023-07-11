@@ -1,13 +1,13 @@
 name = "MapFrontiers"
-filename = "MapFrontiers-1.19.2-2.5.0.jar"
+filename = "MapFrontiers-1.19.2-2.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hWlsli6y/versions/GZ8Cg7K8/MapFrontiers-1.19.2-2.5.0.jar"
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/r3jc56vl/MapFrontiers-1.19.2-2.5.1.jar"
 hash-format = "sha1"
-hash = "05c3af730290f436daaaacb9a36fbd46cec6e61a"
+hash = "66327642ec7cbe3ed4c6d315e5a715f81f658da7"
 
 [update]
 [update.modrinth]
 mod-id = "hWlsli6y"
-version = "GZ8Cg7K8"
+version = "r3jc56vl"

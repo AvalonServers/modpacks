@@ -29,5 +29,7 @@ jobs:
         run: ./scripts/ci-update-all.sh
       - name: Commit and push
         run: |
+          git config --global user.email "autoupdate@parallax.vertex-x.net"
+          git config --global user.name "Parallax Autoupdate"
           git commit -m "Automated update commit"
           git push

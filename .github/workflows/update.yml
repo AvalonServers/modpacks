@@ -31,5 +31,5 @@ jobs:
         run: |
           git config --global user.email "autoupdate@parallax.vertex-x.net"
           git config --global user.name "Parallax Autoupdate"
-          git commit -m "Automated update commit"
-          git push
+          git commit -m "Automated update commit" || true
+          git push || true

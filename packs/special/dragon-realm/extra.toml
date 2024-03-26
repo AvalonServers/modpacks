@@ -18,6 +18,7 @@ excluded_mods = [
     "mod-voxel-map-for",
     "ic2nuclear-control-exist",
 ]
+excluded_paths = []
 
 [special.reika.updates.state]
 reika_mods_updated = 1693015599

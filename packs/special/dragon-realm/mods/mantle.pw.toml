@@ -1,0 +1,8 @@
+name = "Mantle"
+filename = "Mantle-1.7.10-0.3.2b.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Mantle-1.7.10-0.3.2b.jar"
+hash-format = "sha256"
+hash = "eda03c0c76118094ae54dfcec024e34b53e523acb5c6889f091a4509471afc04"

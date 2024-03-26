@@ -1,0 +1,8 @@
+name = "TConstruct"
+filename = "TConstruct-1.7.10-1.8.8.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/TConstruct-1.7.10-1.8.8.jar"
+hash-format = "sha256"
+hash = "a718bc2c11e58cc92a8ad96d5c56b34c60b6176322b3dee8eff0f6e581877ec5"

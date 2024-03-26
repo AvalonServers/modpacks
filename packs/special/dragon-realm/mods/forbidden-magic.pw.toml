@@ -1,0 +1,8 @@
+name = "Forbidden-Magic"
+filename = "Forbidden Magic-1.7.10-0.575.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Forbidden%20Magic-1.7.10-0.575.jar"
+hash-format = "sha256"
+hash = "45387762175e8498f314c78f21d09dbb0d413079ce9ed2e1913ecc9db864ac38"

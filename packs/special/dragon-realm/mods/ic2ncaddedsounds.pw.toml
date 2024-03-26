@@ -1,0 +1,8 @@
+name = "IC2NCaddedsounds"
+filename = "IC2NCaddedsounds-2.4.2a.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/IC2NCaddedsounds-2.4.2a.jar"
+hash-format = "sha256"
+hash = "4afc2f1911751eaab4d31bfa5b23f76c75eb5adc51fe47b92ddf3ee1355af26e"

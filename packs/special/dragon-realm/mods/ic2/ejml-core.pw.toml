@@ -1,0 +1,8 @@
+name = "EJML-core"
+filename = "EJML-core-0.26.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ic2/EJML-core-0.26.jar"
+hash-format = "sha256"
+hash = "ee7840eb553b850bdb32ed5be6194936f02f2cb2c9b915e4996312ec4a812588"

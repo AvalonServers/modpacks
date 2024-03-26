@@ -1,0 +1,8 @@
+name = "ProjectRed-Integration"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar"
+hash-format = "sha256"
+hash = "534d95523c092d6c5036538328fbe022448546dc77fadaf039308d2a9455d546"

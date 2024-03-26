@@ -1,0 +1,8 @@
+name = "natura"
+filename = "natura-1.7.10-2.2.1a2.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/natura-1.7.10-2.2.1a2.jar"
+hash-format = "sha256"
+hash = "89fb51cf176e5460f8fdd5076655ee620f76b17da1f7f3a15d12e4bd9778817e"

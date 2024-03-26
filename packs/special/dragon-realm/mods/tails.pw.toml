@@ -1,0 +1,8 @@
+name = "Tails"
+filename = "Tails-1.7.10-1.4.1a.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Tails-1.7.10-1.4.1a.jar"
+hash-format = "sha256"
+hash = "e13d3f91d91b1c73a46e47b90562b519e12c77d7275add19bc1cdab5b3a75400"

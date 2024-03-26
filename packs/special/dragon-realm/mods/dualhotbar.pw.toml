@@ -1,0 +1,8 @@
+name = "dualhotbar"
+filename = "dualhotbar-1.7.10-1.6.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/dualhotbar-1.7.10-1.6.jar"
+hash-format = "sha256"
+hash = "276a900466d50434130a27121b1b344c7bc2ded5121fc7f3c8aec5973f802cbf"

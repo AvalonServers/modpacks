@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".DS_Store"
-hash = "3b5c6373125658f1b7ac464f5bc2d6988ceadc7dc10566858687cac95709b34f"
+hash = "cf6b1dd704bd77042bcffc5e2a396ed450f044f9628501fc829c44c172c3a865"
 
 [[files]]
 file = "config/.DS_Store"
@@ -11,6 +11,10 @@ hash = "ac7eb5e2b61706f63b8687c90bf1b123f2af93a38e16a89f80cf24ada8d46810"
 [[files]]
 file = "config/bcc.json"
 hash = "03eb5df073a32a9bc6ec2d4a00ecfddcc78cb2e4728dc40219a8194b8e519447"
+
+[[files]]
+file = "config/chiselsandbits-client.toml"
+hash = "a1d9b106b1d98fc5ca20dd4c5865fc6110457982d0525bafb953e95c1b270ae8"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
@@ -50,7 +54,7 @@ hash = "0a70d58a4a562c2aa2945a3883d35fa3a8e90d80eab9d6b2db3be6103f71b9b2"
 
 [[files]]
 file = "config/fml.toml"
-hash = "1e112d0d4de66147474eb55d6b03397bcd158a6c94535e4e1e9f81c72385113a"
+hash = "44ad6c0bbc74c712a9fd32dae77291bfa6738af9b66e1c4644bd616789ac51e6"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -646,6 +650,11 @@ metafile = true
 [[files]]
 file = "mods/fairy-lights.pw.toml"
 hash = "b0939921a7ad1af619801ef6ba972b7a6ddf5bc51ffcdba06eccb0b31cfcdd96"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "8189165b2426b999ed9621cb79aacab2635f3220fac15716a6f43084a0eb0986"
 metafile = true
 
 [[files]]

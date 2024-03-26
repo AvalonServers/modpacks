@@ -1,0 +1,8 @@
+name = "BeeBetterAtBees"
+filename = "BeeBetterAtBees-0.3.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/BeeBetterAtBees-0.3.jar"
+hash-format = "sha256"
+hash = "a2528c043b6ac35c6bf23c34c8e5413a4d5acb7f612c1a5acae9a3354c626a87"

@@ -1,0 +1,8 @@
+name = "ForgeMultipart-universal"
+filename = "ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar"
+hash-format = "sha256"
+hash = "6ff759efc10f9ea0deabb4aed7c1f61408d9bb9bce278949544c0a613f7ae4c8"

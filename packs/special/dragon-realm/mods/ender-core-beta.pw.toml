@@ -1,0 +1,8 @@
+name = "EnderCore-beta"
+filename = "EnderCore-1.7.10-0.2.0.39_beta.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/EnderCore-1.7.10-0.2.0.39_beta.jar"
+hash-format = "sha256"
+hash = "0fbe5d31f7c3a2b95e9fb94c2f79931259c4c482a1125c8e11ee2f841fc64586"

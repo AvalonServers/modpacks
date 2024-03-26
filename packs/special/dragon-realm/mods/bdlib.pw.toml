@@ -1,0 +1,8 @@
+name = "bdlib"
+filename = "bdlib-1.9.4.109-mc1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/bdlib-1.9.4.109-mc1.7.10.jar"
+hash-format = "sha256"
+hash = "cdd5d71b919c9c433c5b770f0ff2e721903c0bd4bbba773d7d2d64035bb30fab"

@@ -1,0 +1,8 @@
+name = "neiaddons"
+filename = "neiaddons-1.12.14.40-mc1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/neiaddons-1.12.14.40-mc1.7.10.jar"
+hash-format = "sha256"
+hash = "3b8af893c22fc9d0a2c8e66923bceecc7835ca851f1859fedc304568931c3ae5"

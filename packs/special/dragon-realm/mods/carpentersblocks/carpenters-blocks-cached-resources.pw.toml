@@ -1,0 +1,8 @@
+name = "CarpentersBlocksCachedResources"
+filename = "CarpentersBlocksCachedResources.zip"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/carpentersblocks/CarpentersBlocksCachedResources.zip"
+hash-format = "sha256"
+hash = "8ee648125a0068f6abfdfc7b1eff28e521c07c9f5625ea6c32a13f2a649c97b2"

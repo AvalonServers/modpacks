@@ -1,0 +1,8 @@
+name = "NotEnoughItems-universal"
+filename = "NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar"
+hash-format = "sha256"
+hash = "3ebbc2f82b61812aa158375005a47da4d450bec870860fcbf015a64de74cde1c"

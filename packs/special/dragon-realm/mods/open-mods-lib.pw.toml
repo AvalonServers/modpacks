@@ -1,0 +1,8 @@
+name = "OpenModsLib"
+filename = "OpenModsLib-1.7.10-0.9.1.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/OpenModsLib-1.7.10-0.9.1.jar"
+hash-format = "sha256"
+hash = "85e0d8571ffcd155ca5e9d0f4ad8d6a80403a2328f3cd719b92d79cd672c5fd0"

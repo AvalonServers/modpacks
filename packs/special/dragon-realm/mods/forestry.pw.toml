@@ -1,0 +1,8 @@
+name = "forestry"
+filename = "forestry_1.7.10-4.2.12.60.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/forestry_1.7.10-4.2.12.60.jar"
+hash-format = "sha256"
+hash = "6e5d6004269e51d1a9ad864debafe3dcc393cbb3e9a7bdeaecc3db22debbde25"

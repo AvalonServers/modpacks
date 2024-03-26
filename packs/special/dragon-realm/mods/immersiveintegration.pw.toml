@@ -1,0 +1,8 @@
+name = "immersiveintegration"
+filename = "immersiveintegration-0.6.8.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/immersiveintegration-0.6.8.jar"
+hash-format = "sha256"
+hash = "b6ca939d86fd24c28e3552a748939ee18763838b0a02d68f60e281ece2232be0"

@@ -1,0 +1,8 @@
+name = "IguanaTinkerTweaks"
+filename = "IguanaTinkerTweaks-1.7.10-2.1.6.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/IguanaTinkerTweaks-1.7.10-2.1.6.jar"
+hash-format = "sha256"
+hash = "c6dedaaae56dc63d224e1f3ac58e540fb61d2b98da4ad7e53fd98c24d728c7fb"

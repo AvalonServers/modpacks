@@ -1,0 +1,8 @@
+name = "ImmersiveEngineering"
+filename = "ImmersiveEngineering-0.7.7.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ImmersiveEngineering-0.7.7.jar"
+hash-format = "sha256"
+hash = "f2bc83bccc64e0a8be8ebcb7f14704491a701e42958cc3389c704cf8ff411f33"

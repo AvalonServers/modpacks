@@ -1,0 +1,8 @@
+name = "Binnie-Patcher"
+filename = "Binnie Patcher 1.8.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Binnie%20Patcher%201.8.jar"
+hash-format = "sha256"
+hash = "ba135ddde2a34b07b623e4bb5465107ec886b2607590858facb3583c3608c04c"

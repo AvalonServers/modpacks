@@ -1,0 +1,8 @@
+name = "Chisel"
+filename = "Chisel-2.9.5.11.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Chisel-2.9.5.11.jar"
+hash-format = "sha256"
+hash = "68c8a4f4c7785f939d8fa2e7df56c76afa37dfd2574f738a07d3dfd80d6257a6"

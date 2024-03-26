@@ -1,0 +1,8 @@
+name = "StorageDrawers-Forestry"
+filename = "StorageDrawers-Forestry-1.7.10-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/StorageDrawers-Forestry-1.7.10-1.1.2.jar"
+hash-format = "sha256"
+hash = "baff60b4ccd018f854b3b3a063a4a3107b9d5ebc76077274a95587a9ba70fbea"

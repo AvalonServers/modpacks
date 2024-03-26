@@ -1,0 +1,8 @@
+name = "Jabba"
+filename = "Jabba-1.2.2_1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Jabba-1.2.2_1.7.10.jar"
+hash-format = "sha256"
+hash = "3ab1fa00f3d3169d27830db42305eda8aaea0c5705af47ce169c5a50b8b76ee4"

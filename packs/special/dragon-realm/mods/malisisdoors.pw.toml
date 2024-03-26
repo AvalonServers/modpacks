@@ -1,0 +1,8 @@
+name = "malisisdoors"
+filename = "malisisdoors-1.7.10-1.13.2.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/malisisdoors-1.7.10-1.13.2.jar"
+hash-format = "sha256"
+hash = "ac1c37833aa8ec38a38f42111a9b2e196336b14c0891a3e76e284a61d1fb3dac"

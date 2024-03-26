@@ -1,0 +1,8 @@
+name = "TiCTooltips"
+filename = "TiCTooltips-mc1.7.10-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/TiCTooltips-mc1.7.10-1.2.5.jar"
+hash-format = "sha256"
+hash = "29aa164560f646d5171c4fa50b7ffd36d94393bf527eb5479ad47bc972eb7a61"

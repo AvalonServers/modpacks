@@ -1,0 +1,8 @@
+name = "BigDoors"
+filename = "BigDoors-1.7.10-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/BigDoors-1.7.10-1.1.0.jar"
+hash-format = "sha256"
+hash = "8a1f65fc07f7ab24ccbca1961cad6ae1087a5f3a6cb0ce8790078557648f67bf"

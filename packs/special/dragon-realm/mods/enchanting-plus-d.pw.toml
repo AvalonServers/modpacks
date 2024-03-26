@@ -1,0 +1,8 @@
+name = "EnchantingPlus-d"
+filename = "EnchantingPlus-1.7.10-3.0.2-d.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/EnchantingPlus-1.7.10-3.0.2-d.jar"
+hash-format = "sha256"
+hash = "9ea551dd81da9af7ae95c845d246da2a947dfe9cf4071e89b5c53f4967dcea2f"

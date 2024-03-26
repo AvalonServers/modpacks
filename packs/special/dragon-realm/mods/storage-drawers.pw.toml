@@ -1,0 +1,8 @@
+name = "StorageDrawers"
+filename = "StorageDrawers-1.7.10-1.10.8.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/StorageDrawers-1.7.10-1.10.8.jar"
+hash-format = "sha256"
+hash = "a7babc9d0698d8c4b963c328a2a2210cf1291915288d2e5f70b465e2cb053bcd"

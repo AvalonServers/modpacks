@@ -1,0 +1,8 @@
+name = "MineTweakerRecipeMaker"
+filename = "MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/MineTweakerRecipeMaker-1.7.10-1.1.0.11.jar"
+hash-format = "sha256"
+hash = "3a39374ca93c0f1ac7cc738c162c70747987a8a2daa85aa1c9594cf90b107445"

@@ -1,0 +1,8 @@
+name = "jsoup"
+filename = "jsoup-1.12.1.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/jsoup-1.12.1.jar"
+hash-format = "sha256"
+hash = "928e3d5ccf16d0492951d05554af9cbcf70d4e6d34ba3b19709b824ae4593bb1"

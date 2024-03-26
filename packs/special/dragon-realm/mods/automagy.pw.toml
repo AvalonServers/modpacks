@@ -1,0 +1,8 @@
+name = "Automagy"
+filename = "Automagy-1.7.10-0.28.2.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Automagy-1.7.10-0.28.2.jar"
+hash-format = "sha256"
+hash = "4c1d78e0adee1754675d93ffbadc8c9fe205710cb77538b953e57810f9528efc"

@@ -1,0 +1,8 @@
+name = "OpenBlocks"
+filename = "OpenBlocks-1.7.10-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/OpenBlocks-1.7.10-1.5.1.jar"
+hash-format = "sha256"
+hash = "e76d88c2cc3786d8fe8b025c230e8a2557a35d63759972f890555f11325be9e7"

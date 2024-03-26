@@ -1,0 +1,8 @@
+name = "Thistle"
+filename = "Thistle-1.7.10-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Thistle-1.7.10-1.1.0.jar"
+hash-format = "sha256"
+hash = "7112ae0cd3436841c31503cd3c7788b3f4b24a929da0b833bf6a239797c5a90b"

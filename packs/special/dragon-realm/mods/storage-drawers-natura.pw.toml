@@ -1,0 +1,8 @@
+name = "StorageDrawers-Natura"
+filename = "StorageDrawers-Natura-1.7.10-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/StorageDrawers-Natura-1.7.10-1.1.1.jar"
+hash-format = "sha256"
+hash = "97691ed534192e0efd34f27bce0e631a83b483db1462f1d62bf827d34244e380"

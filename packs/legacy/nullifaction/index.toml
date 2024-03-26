@@ -13,234 +13,241 @@ file = "extra.toml"
 hash = "20a014fedb6b3507b54c43f5a8e14c72f3694afd4dafd9dd8e34859de1d93b79"
 
 [[files]]
-file = "mods/applied-energistics-2.toml"
+file = "mods/applied-energistics-2.pw.toml"
 hash = "87717836e5fbbbe979f245e991f9ab9d2056c43f5264e41d8c6d0777c4502aea"
 metafile = true
 
 [[files]]
-file = "mods/asielib.toml"
+file = "mods/asielib.pw.toml"
 hash = "5974d2da1ebeee082e61ef6760102260ca7141f5e64bba9ca0d3ba80a302ad7d"
 metafile = true
 
 [[files]]
-file = "mods/biolock.toml"
+file = "mods/biolock.pw.toml"
 hash = "c06df07ef292c686f4b8c25d8c8cf2057038ecdd815790c2e582902bb4d9dde1"
+metafile = true
 
 [[files]]
-file = "mods/cclights2.toml"
+file = "mods/cclights2.pw.toml"
 hash = "e5ca733c034270c25658275adafa40d1e6ba68341d86e1cf24565c6e4caa830d"
 metafile = true
 
 [[files]]
-file = "mods/chisel.toml"
+file = "mods/chisel.pw.toml"
 hash = "a0faa7feeb2be057ce5059be914c98c33aa7f3f91f2beaaba33e0b67fcb74c31"
 metafile = true
 
 [[files]]
-file = "mods/chromaticraft.toml"
+file = "mods/chromaticraft.pw.toml"
 hash = "bb5f3ddfb7002c4c54ddb21162f84b7d774d0cd72724401870607fa41fd83696"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.toml"
+file = "mods/codechickencore.pw.toml"
 hash = "28280aef0b90beac3028a3f548deef60f30302e10fdc646c85e881b13d8b732a"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.toml"
+file = "mods/cofh-core.pw.toml"
 hash = "e1c57ed7a5b430b3fef83ea0c41a6e092695ab3c9bc7a4d2734a56971847af74"
 metafile = true
 
 [[files]]
-file = "mods/computercraft.toml"
+file = "mods/computercraft.pw.toml"
 hash = "dc30e0ffd602e1ec6314b670499e35919e9711ec2b0b95c821710ac93ecf6eae"
 metafile = true
 
 [[files]]
-file = "mods/computronics.toml"
+file = "mods/computronics.pw.toml"
 hash = "f8494558591ed010bf69760be9c2da97fd014aedad593d19165e6620b92ddb8c"
 metafile = true
 
 [[files]]
-file = "mods/dragonapi.toml"
+file = "mods/dragonapi.pw.toml"
 hash = "9d14f9948fb7de746bfbbe8518e41c8878898a97dd71c76fd0a7cfed17eda0e8"
 metafile = true
 
 [[files]]
-file = "mods/electricraft.toml"
+file = "mods/electricraft.pw.toml"
 hash = "608abbd5aa516d51663f25a08ca830f313d700c4b74a3a98cbbd6b040dc9b48e"
 metafile = true
 
 [[files]]
-file = "mods/expandedredstone.toml"
+file = "mods/expandedredstone.pw.toml"
 hash = "fc4f61d4d1b7d5d65910b5567821da97554ac7539849c202c6e52f218d8520ea"
 metafile = true
 
 [[files]]
-file = "mods/extra-utilities.toml"
+file = "mods/extra-utilities.pw.toml"
 hash = "0faba4c61be8f426f7ce4a08ffa08e33cbb00715b729b7109f41e7a3dd1b144e"
 metafile = true
 
 [[files]]
-file = "mods/extracells.toml"
+file = "mods/extracells.pw.toml"
 hash = "4931fdabfa6f3020c3faa8a18a043bc7e35efccce4726daf8c6cfb7907458ad8"
+metafile = true
 
 [[files]]
-file = "mods/forge-multi-part.pw.toml"
+file = "mods/forge-multi-part.pw.pw.toml"
 hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
 metafile = true
 
 [[files]]
-file = "mods/geostrata.toml"
+file = "mods/geostrata.pw.toml"
 hash = "ce3aa7e3edcc60ae399584a9f541858962e57d9813e6c954593a1dcf21d4da64"
 metafile = true
 
 [[files]]
-file = "mods/ic2ncaddedsounds.toml"
+file = "mods/ic2ncaddedsounds.pw.toml"
 hash = "bd1bede31d4fad5971dd411daba5c5a5e0c2e6c1740f5d0e457b165d585d452f"
+metafile = true
 
 [[files]]
-file = "mods/immibis-core.toml"
+file = "mods/immibis-core.pw.toml"
 hash = "330376d81ab8db81dcb800967ac3d674a86b54c47b1b6d901c2b1526033804e4"
 metafile = true
 
 [[files]]
-file = "mods/immibis-peripherals.toml"
+file = "mods/immibis-peripherals.pw.toml"
 hash = "a29b86f682a4f06096e6564587839c1e45cd0617541232e4ad21c0e58d69b464"
 metafile = true
 
 [[files]]
-file = "mods/in-game-wiki-mod.toml"
+file = "mods/in-game-wiki-mod.pw.toml"
 hash = "0fd7a1fd60c99d29112c457107c4a1710956f0b22c2458128bd8a2bb2ad1b8c7"
 metafile = true
 
 [[files]]
-file = "mods/industrial-craft.pw.toml"
+file = "mods/industrial-craft.pw.pw.toml"
 hash = "4db4762305744be1a6cf1b1c4505ae9b9bf3dc1a4c0fd3749694da21b98c47bf"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks.toml"
+file = "mods/inventory-tweaks.pw.toml"
 hash = "282bc33f31252c05d4e2f692abf2ab5451f90d2c38d529a0d57013397d609deb"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.toml"
+file = "mods/journeymap.pw.toml"
 hash = "31fe6bf322432d7de89c84c5f1840b214b060f58386d3fcf13d86f76ebeee2aa"
 metafile = true
 
 [[files]]
-file = "mods/mantle.toml"
+file = "mods/mantle.pw.toml"
 hash = "fa92c9f8008e9435066f47da05242b70ffdb87a5152ce2b7665aa86927e46a95"
 metafile = true
 
 [[files]]
-file = "mods/mp3spi.toml"
+file = "mods/mp3spi.pw.toml"
 hash = "79caea86d8aa35da95c7aea226fa0152e8188595fe1bffe35723e697cbbda4e4"
+metafile = true
 
 [[files]]
-file = "mods/notenoughitems.toml"
+file = "mods/notenoughitems.pw.toml"
 hash = "0d7a798fb449d1675fac1b5c5c616b1ed53e7822af0b0417cc4ef0640d59d39a"
 metafile = true
 
 [[files]]
-file = "mods/openccsensors.toml"
+file = "mods/openccsensors.pw.toml"
 hash = "c5f296132841bae9f442384f84df42ea2eb9ff7589560275ad1db39044d5123e"
 metafile = true
 
 [[files]]
-file = "mods/openfm.toml"
+file = "mods/openfm.pw.toml"
 hash = "edc46ac39c3a28a0af5cb215230673565cdd2d7b02866eb49845aea4702145a9"
 metafile = true
 
 [[files]]
-file = "mods/openmodslib.toml"
+file = "mods/openmodslib.pw.toml"
 hash = "367de130b928430385f7290326d75be2729bcdc4cd1b812a3d53598f81ec8865"
 metafile = true
 
 [[files]]
-file = "mods/openperipheraladdons.toml"
+file = "mods/openperipheraladdons.pw.toml"
 hash = "57a6924875c439823b861e644ba9790b48640c114c61f865da204a2dfd548b98"
 metafile = true
 
 [[files]]
-file = "mods/openperipheralcore.toml"
+file = "mods/openperipheralcore.pw.toml"
 hash = "c8c12c2c6c1cbe620f29c8d1356008807755cefc43fbf534397d334e863ca440"
 metafile = true
 
 [[files]]
-file = "mods/openperipheralintegration.toml"
+file = "mods/openperipheralintegration.pw.toml"
 hash = "cd7d38c9a8d69a1303d7200d8927667e27c5fef081e85106cdc8c47a8ff0917f"
 metafile = true
 
 [[files]]
-file = "mods/project-red-compat.toml"
+file = "mods/project-red-compat.pw.toml"
 hash = "0eef86f9987dca17fac120d40c9dfc56d61dd209f60525cd218d55bb26774abf"
 metafile = true
 
 [[files]]
-file = "mods/project-red-core.toml"
+file = "mods/project-red-core.pw.toml"
 hash = "2ac0b97e4b9c4c7e4e0415fa7134fb565f18b2ae11a3ff7f82e0d812bd5e4d22"
 metafile = true
 
 [[files]]
-file = "mods/project-red-expansion.toml"
+file = "mods/project-red-expansion.pw.toml"
 hash = "8e87df52260982fa27d80f5d95f5d82b600b8d4e4bef90a41c2f6a11ea25955f"
 metafile = true
 
 [[files]]
-file = "mods/project-red-exploration.toml"
+file = "mods/project-red-exploration.pw.toml"
 hash = "1dbe907de738359c3615a8e6262244357f19bca4b84e80e75fa511314ab7412e"
 metafile = true
 
 [[files]]
-file = "mods/project-red-fabrication.toml"
+file = "mods/project-red-fabrication.pw.toml"
 hash = "83a83abb0b9916e7bfc15118c1513e109c33c33422e52ca2078fab83b7e65f55"
 metafile = true
 
 [[files]]
-file = "mods/project-red-illumination.toml"
+file = "mods/project-red-illumination.pw.toml"
 hash = "29a672cd116ba6c3e5e72aeffdc107579ec76bbc85bfddd47fa148ea442e697a"
 metafile = true
 
 [[files]]
-file = "mods/project-red-integration.toml"
+file = "mods/project-red-integration.pw.toml"
 hash = "7cb5e9604110fe2c4edf74e30a9ea63838f385a4b18e36ba956bafe0fedee329"
 metafile = true
 
 [[files]]
-file = "mods/railcraft.toml"
+file = "mods/railcraft.pw.toml"
 hash = "d244ff00853d6267a23756e70a3505f5bff4d0e09faf12f7ed48dca70ce8bed9"
 metafile = true
 
 [[files]]
-file = "mods/reactorcraft.toml"
+file = "mods/reactorcraft.pw.toml"
 hash = "9812a52b09c1346626d27083314d80fd4c3013e4143381fad1134e98fb247846"
 metafile = true
 
 [[files]]
-file = "mods/rhino.toml"
+file = "mods/rhino.pw.toml"
 hash = "987ea53aa39d354d5a0b0b8544c1fd514c12b8cbb47f7bf9f4f31186f0b62eb8"
+metafile = true
 
 [[files]]
-file = "mods/rotarycraft.toml"
+file = "mods/rotarycraft.pw.toml"
 hash = "adde67342e46f4519874d42df353be4ccc30ecf5415036bf51fe37903a34c9b5"
 metafile = true
 
 [[files]]
-file = "mods/territoryzone.toml"
+file = "mods/territoryzone.pw.toml"
 hash = "0bf6825707ff8318a5f80a11e93c95d06c9f4fd2f7242914a8c2b0437d093376"
 metafile = true
 
 [[files]]
-file = "mods/tickprofiler.toml"
+file = "mods/tickprofiler.pw.toml"
 hash = "c758374a67265d0fb067350898cb058a428db89ad000de7d27d95c740e4779ec"
+metafile = true
 
 [[files]]
-file = "mods/vorbisspi.toml"
+file = "mods/vorbisspi.pw.toml"
 hash = "36fb725578b8035019484b047e58990e97f43125e4e7a2aa07160b244dbf1b77"
+metafile = true
 
 [[files]]
-file = "mods/waila.toml"
+file = "mods/waila.pw.toml"
 hash = "f1bc25d0437b984d2a19cc6a07c2d667f6c9c75c232210175047dd5c0b6fe44a"
 metafile = true

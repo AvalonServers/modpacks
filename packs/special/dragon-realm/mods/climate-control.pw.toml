@@ -1,0 +1,8 @@
+name = "ClimateControl"
+filename = "ClimateControl-0.4.beta38.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ClimateControl-0.4.beta38.jar"
+hash-format = "sha256"
+hash = "4393918efb3d667ff72fe8581a2037c40372f8f52bf1809e3ce638d881a7c6c2"

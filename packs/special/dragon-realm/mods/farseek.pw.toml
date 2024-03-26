@@ -1,0 +1,8 @@
+name = "Farseek"
+filename = "Farseek-1.0.11.jarx"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Farseek-1.0.11.jarx"
+hash-format = "sha256"
+hash = "7682caf6aadbb21997477ed88f9d3f2c767513e30fd93b0809a9df89ce1c2fe2"

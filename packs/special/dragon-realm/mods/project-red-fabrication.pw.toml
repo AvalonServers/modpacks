@@ -1,0 +1,8 @@
+name = "ProjectRed-Fabrication"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ProjectRed-1.7.10-4.7.0pre12.95-Fabrication.jar"
+hash-format = "sha256"
+hash = "3269227562cb875f1ae9067508d1ad3eee284cce6ec5734b2461d946a8d32aff"

@@ -1,0 +1,8 @@
+name = "Morpheus"
+filename = "Morpheus-1.7.10-1.6.21.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Morpheus-1.7.10-1.6.21.jar"
+hash-format = "sha256"
+hash = "37014340a0400277b1202233f75619d53e84c0cf37d2d3561a993241a45cb412"

@@ -1,4 +1,4 @@
-name = "Uncontainable"
+name = "Nullifaction"
 author = "CitadelCore"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a14d65e25fb0a1293c9e14ba4f1a2cd377f118bb5e44cef027054e97870ba662"
+hash = "046d2d0c484306eb1fdd41f173013f4e4686f644a8bd481a4bf1e2016d066de6"
 
 [versions]
 forge = "10.13.4.1614"

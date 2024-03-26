@@ -1,0 +1,8 @@
+name = "growthcraft-complete-apples"
+filename = "growthcraft-1.7.10-2.7.2-complete-apples.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/growthcraft-1.7.10-2.7.2-complete-apples.jar"
+hash-format = "sha256"
+hash = "ea34d4ab74856a09531c6a7fcc3c5ebea66134842885e78d517491250e7fb50e"

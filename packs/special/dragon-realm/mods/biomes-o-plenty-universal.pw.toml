@@ -1,0 +1,8 @@
+name = "BiomesOPlenty-universal"
+filename = "BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/BiomesOPlenty-1.7.10-2.1.0.1889-universal.jar"
+hash-format = "sha256"
+hash = "bce37eec9328b633832a4e2a9cc6c71548faa2bd38bb48f8d0b43b014a4f98a7"

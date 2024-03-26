@@ -1,0 +1,8 @@
+name = "MrTJPCore-universal"
+filename = "MrTJPCore-1.7.10-1.1.0.33-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/1.7.10/MrTJPCore-1.7.10-1.1.0.33-universal.jar"
+hash-format = "sha256"
+hash = "98fc3447c5fccf995e4030aad5de5243d13885477648961fdd761040e0629271"

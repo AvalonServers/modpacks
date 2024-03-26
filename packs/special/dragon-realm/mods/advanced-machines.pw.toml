@@ -1,0 +1,8 @@
+name = "advanced-machines"
+filename = "advanced-machines-59.0.2.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/advanced-machines-59.0.2.jar"
+hash-format = "sha256"
+hash = "9dc3e321976e65b4cb2fe8c476e5547b0c677ec646d0c49ac6d8557a52fb8249"

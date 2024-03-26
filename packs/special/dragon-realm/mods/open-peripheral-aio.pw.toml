@@ -1,0 +1,8 @@
+name = "OpenPeripheral-AIO"
+filename = "OpenPeripheral-1.7.10-AIO-7.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/OpenPeripheral-1.7.10-AIO-7.jar"
+hash-format = "sha256"
+hash = "c392a4aa51cd8e50efab545506f40e9f8929129c0e6b495422b8f916b6cc3b73"

@@ -1,0 +1,8 @@
+name = "StevesAddons"
+filename = "StevesAddons-1.7.10-0.10.16.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/StevesAddons-1.7.10-0.10.16.jar"
+hash-format = "sha256"
+hash = "9815c2aff1b86c92e212a1b8d84ab1e9a557230b5ea58d41f3d1c6e4e440768c"

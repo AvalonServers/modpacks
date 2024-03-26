@@ -1,0 +1,8 @@
+name = "ironchest-universal"
+filename = "ironchest-1.7.10-6.0.62.742-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ironchest-1.7.10-6.0.62.742-universal.jar"
+hash-format = "sha256"
+hash = "a300fcf2c43ab26eb1eb380a13efdcc6c1c46f0a502da219a4b58337df52ef7b"

@@ -1,0 +1,8 @@
+name = "AsieLib"
+filename = "AsieLib-1.7.10-0.4.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/AsieLib-1.7.10-0.4.5.jar"
+hash-format = "sha256"
+hash = "e00abf1f9eb506ea94ecb892062760a10f71e8de8cc9144f936cc5f67de5f160"

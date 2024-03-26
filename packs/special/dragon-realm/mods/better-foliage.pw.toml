@@ -1,0 +1,8 @@
+name = "BetterFoliage"
+filename = "BetterFoliage-MC1.7.10-2.0.17.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/BetterFoliage-MC1.7.10-2.0.17.jar"
+hash-format = "sha256"
+hash = "aafcfdf841a128857de35231d6eaa25eb373f2e1def7c5dbc80edaea0bf25d81"

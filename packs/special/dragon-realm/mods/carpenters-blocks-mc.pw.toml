@@ -1,0 +1,8 @@
+name = "Carpenter's-Blocks-MC"
+filename = "Carpenter's Blocks v3.3.5 - MC 1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Carpenter%27s%20Blocks%20v3.3.5%20-%20MC%201.7.10.jar"
+hash-format = "sha256"
+hash = "24febebd898f5d27181529f88210c57a0fa5c3ffa5f55678345431c623d82d27"

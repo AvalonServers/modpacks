@@ -1,0 +1,8 @@
+name = "jcodec"
+filename = "jcodec-0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/jcodec-0.2.5.jar"
+hash-format = "sha256"
+hash = "890329dad124e8b739c1d6602a59a53c8a474daddff265c2561e21c498496c81"

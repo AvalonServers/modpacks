@@ -1,0 +1,8 @@
+name = "WR-CBE-universal"
+filename = "WR-CBE-1.7.10-1.4.1.9-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/WR-CBE-1.7.10-1.4.1.9-universal.jar"
+hash-format = "sha256"
+hash = "527e39b2b9ff5351cb17635bd1d0bfce0527fe0828b6074b8d680e73d87c6fbd"

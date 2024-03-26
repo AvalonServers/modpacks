@@ -1,0 +1,8 @@
+name = "fastcraft"
+filename = "fastcraft-1.23.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/fastcraft-1.23.jar"
+hash-format = "sha256"
+hash = "a71c6396aa3152773c1db3444eb0667e22c440ee76552306a617cacd11277840"

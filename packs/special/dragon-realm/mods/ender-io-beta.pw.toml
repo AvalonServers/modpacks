@@ -1,0 +1,8 @@
+name = "EnderIO-beta"
+filename = "EnderIO-1.7.10-2.3.0.429_beta.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/EnderIO-1.7.10-2.3.0.429_beta.jar"
+hash-format = "sha256"
+hash = "8e968943cce623f6af5402595bb8731ecf6c32c394f44d602f13396ad10e49c0"

@@ -1,0 +1,8 @@
+name = "CodeChickenCore-universal"
+filename = "CodeChickenCore-1.7.10-1.0.7.47-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar"
+hash-format = "sha256"
+hash = "3d1527c54e84dc8ae2f7d1109e646420e82bd3b09a811641f1f9a810c46c5f93"

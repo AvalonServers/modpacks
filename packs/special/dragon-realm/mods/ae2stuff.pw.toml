@@ -1,0 +1,8 @@
+name = "ae2stuff"
+filename = "ae2stuff-rv3-0.5.1.9-mc1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar"
+hash-format = "sha256"
+hash = "a5510034f1a36ce7eb2c4fc1827742c89c53eb38b282d373612b258d60f80375"

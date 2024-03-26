@@ -1,0 +1,8 @@
+name = "DynamicSurroundings"
+filename = "DynamicSurroundings-1.7.10-1.0.5.11.jar"
+side = "client"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/DynamicSurroundings-1.7.10-1.0.5.11.jar"
+hash-format = "sha256"
+hash = "dddeb354fe347428893a2bc4ca667294da89775e232e501a1ab462b81146d7b7"

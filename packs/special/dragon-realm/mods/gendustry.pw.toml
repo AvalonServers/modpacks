@@ -1,0 +1,8 @@
+name = "gendustry"
+filename = "gendustry-1.6.3.132-mc1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/gendustry-1.6.3.132-mc1.7.10.jar"
+hash-format = "sha256"
+hash = "4b45048f9b4aa24e665e2dde8d674f8bfa1ae8f44a57b4f99d9bd829fb9149ae"

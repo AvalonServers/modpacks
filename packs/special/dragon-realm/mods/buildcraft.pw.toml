@@ -1,0 +1,8 @@
+name = "buildcraft"
+filename = "buildcraft-7.1.19.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/buildcraft-7.1.19.jar"
+hash-format = "sha256"
+hash = "fd960e10df4f9d4737393596361571f54abb7fa6177855bfc825b7babb8f2f26"

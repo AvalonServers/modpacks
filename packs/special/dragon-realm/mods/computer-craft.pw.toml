@@ -1,0 +1,8 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.75.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ComputerCraft1.75.jar"
+hash-format = "sha256"
+hash = "8b69b73e2a7095ada0c11ad1e98c5a75cc377f1bcd5fec83ca6963bc12290d87"

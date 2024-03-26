@@ -1,0 +1,8 @@
+name = "BiomeTweaker"
+filename = "BiomeTweaker-1.7.10-2.0.182.jarx"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/BiomeTweaker-1.7.10-2.0.182.jarx"
+hash-format = "sha256"
+hash = "ca2a50ff44063a7e77d2537805b730397e057a083f0d19fd0439f6f3cfa2f64b"

@@ -1,0 +1,8 @@
+name = "gadomancy-DevReika"
+filename = "gadomancy-1.7.10-1.0.7.2-DevReika.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/gadomancy-1.7.10-1.0.7.2-DevReika.jar"
+hash-format = "sha256"
+hash = "2c3f05df89cf4732870044b81233ccecb18cf4cde3260295851cb6f6aa3a3999"

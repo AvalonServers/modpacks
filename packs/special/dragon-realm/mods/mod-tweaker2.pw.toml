@@ -1,0 +1,8 @@
+name = "ModTweaker2"
+filename = "ModTweaker2-0.9.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ModTweaker2-0.9.5.jar"
+hash-format = "sha256"
+hash = "688091f5c106603558d40f477cef58321596838e0ca8dc9bbc44951271ef780f"

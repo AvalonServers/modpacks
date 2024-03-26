@@ -1,0 +1,8 @@
+name = "mystcraft"
+filename = "mystcraft-1.7.10-0.12.3.03.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/mystcraft-1.7.10-0.12.3.03.jar"
+hash-format = "sha256"
+hash = "e7c5bd5d9b1da3be2bb21bc41ab24647c962d9f225aa7aacb7d0296241d27462"

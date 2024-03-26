@@ -1,0 +1,8 @@
+name = "FlatSigns-universal"
+filename = "FlatSigns-1.7.10-universal-2.1.0.19.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/FlatSigns-1.7.10-universal-2.1.0.19.jar"
+hash-format = "sha256"
+hash = "b73960e3311152477a3b8fc5589631f86e8ae8a45d98a655bd7d4e662f6119f8"

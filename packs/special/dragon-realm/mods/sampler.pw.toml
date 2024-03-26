@@ -1,0 +1,8 @@
+name = "sampler"
+filename = "sampler-1.60.1.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/sampler-1.60.1.jar"
+hash-format = "sha256"
+hash = "cbb9604ef5329843b0a3940e6c08b18980d28430ac039e73344b3445cfd69418"

@@ -1,0 +1,8 @@
+name = "worldedit-forge-beta"
+filename = "worldedit-forge-mc1.7.10-6.0-beta-01.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/worldedit-forge-mc1.7.10-6.0-beta-01.jar"
+hash-format = "sha256"
+hash = "5f1b1cacdff557f9185573b436a88ec19f2126fe667f9e1c3b83124dd90d2ff7"

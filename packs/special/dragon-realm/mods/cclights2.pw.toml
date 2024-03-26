@@ -1,0 +1,8 @@
+name = "CCLights2"
+filename = "CCLights2-1.7.10-0.4.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/gamax92/CCLights2/releases/download/v0.4.3/CCLights2-1.7.10-0.4.3.jar"
+hash-format = "sha256"
+hash = "64ee78847bc1c4707232047cc01d9ed18c1b41926e863839cac7c47ab600ca8d"

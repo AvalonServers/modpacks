@@ -1,0 +1,8 @@
+name = "Thaumcraft"
+filename = "Thaumcraft-1.7.10-4.2.3.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Thaumcraft-1.7.10-4.2.3.5.jar"
+hash-format = "sha256"
+hash = "3dba9786966974701578a658d1bb369bf35bdf5f363079f5ac9c4910a39113be"

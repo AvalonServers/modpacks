@@ -1,0 +1,8 @@
+name = "Botania"
+filename = "Botania r1.8-249.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Botania%20r1.8-249.jar"
+hash-format = "sha256"
+hash = "056aef1c2971c783d7553b1b33ba411467dd2a263476b76c1325038e7ed5d079"

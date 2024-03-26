@@ -1,0 +1,8 @@
+name = "AgriCraft"
+filename = "AgriCraft-1.7.10-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/AgriCraft-1.7.10-1.5.0.jar"
+hash-format = "sha256"
+hash = "b1d847e0b3ef0286dcf40b5793e7a7057af79740d83797f70d45b9906f1af102"

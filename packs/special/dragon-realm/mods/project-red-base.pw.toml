@@ -1,0 +1,8 @@
+name = "ProjectRed-Base"
+filename = "ProjectRed-1.7.10-4.7.0pre12.95-Base.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar"
+hash-format = "sha256"
+hash = "deed2cf71c90829729d764bdaa1a09a64dec97f7e98655f1f4c87ec90f19c465"

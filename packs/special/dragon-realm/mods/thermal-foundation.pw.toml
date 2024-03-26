@@ -1,0 +1,8 @@
+name = "ThermalFoundation"
+filename = "ThermalFoundation-[1.7.10]1.2.6B1-117.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ThermalFoundation-%5B1.7.10%5D1.2.6B1-117.jar"
+hash-format = "sha256"
+hash = "ff8d5b82460939684ca451cc230c606210f0b13c186c426d8f316242b103d8e1"

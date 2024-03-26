@@ -1,0 +1,8 @@
+name = "TMechworks"
+filename = "TMechworks-1.7.10-0.2.15.106.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/TMechworks-1.7.10-0.2.15.106.jar"
+hash-format = "sha256"
+hash = "a91a1848197b29b6e6547ca7200bdd47a9ae1bf96ef06446844d21fdfe172851"

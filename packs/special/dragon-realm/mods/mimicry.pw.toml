@@ -1,0 +1,8 @@
+name = "Mimicry"
+filename = "Mimicry-1.7.10_1492_1.0.10c.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Mimicry-1.7.10_1492_1.0.10c.jar"
+hash-format = "sha256"
+hash = "8c5aaea3a1d633f5ba1df3aa63b2b3219194cd0478b94180b4f56d848850e5bb"

@@ -1,0 +1,8 @@
+name = "StevesFactoryManager"
+filename = "StevesFactoryManagerA93.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/StevesFactoryManagerA93.jar"
+hash-format = "sha256"
+hash = "c0dafe3ac28f31265c02b6975b8f31f6981c42902cd8d7eb32b5414012027dbe"

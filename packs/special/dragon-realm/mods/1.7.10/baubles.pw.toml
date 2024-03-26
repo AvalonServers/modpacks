@@ -1,0 +1,8 @@
+name = "Baubles"
+filename = "Baubles-1.7.10-1.0.1.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/1.7.10/Baubles-1.7.10-1.0.1.10.jar"
+hash-format = "sha256"
+hash = "05ae8f11b8f9012ebebbf179227b010829739c6284e30da5dd3db220ee682f8a"

@@ -1,0 +1,8 @@
+name = "Streams"
+filename = "Streams-0.2.jarx"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Streams-0.2.jarx"
+hash-format = "sha256"
+hash = "a92ecaddd6f47bffdadea3fe17b21c54f6212b0951f15104df61ecf4d0424349"

@@ -1,0 +1,8 @@
+name = "binnie-mods"
+filename = "binnie-mods-2.0-pre14.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/binnie-mods-2.0-pre14.jar"
+hash-format = "sha256"
+hash = "794e33c0af98ecd78bf4c2567c8eb4cbe5c6d1db13ce8b1702df83288cabe606"

@@ -1,0 +1,8 @@
+name = "Translocator-universal"
+filename = "Translocator-1.7.10-1.1.2.15-universal.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Translocator-1.7.10-1.1.2.15-universal.jar"
+hash-format = "sha256"
+hash = "60e7a736d44e1e7700a24fbb830cbdb3c860ca3c2c714c8d8f461c1bb353d38a"

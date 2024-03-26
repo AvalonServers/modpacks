@@ -1,0 +1,8 @@
+name = "runicdungeons"
+filename = "runicdungeons-1.1.6d.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/runicdungeons-1.1.6d.jar"
+hash-format = "sha256"
+hash = "e271e7a6f1117d6159180666e1804c97736fa9d20727c11c97dc335f882ebefb"

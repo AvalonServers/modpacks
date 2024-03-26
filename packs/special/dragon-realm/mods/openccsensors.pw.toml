@@ -1,0 +1,8 @@
+name = "OpenCCSensors"
+filename = "openccsensors-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cloudhunter/OpenCCSensors/releases/download/v1.7.5/openccsensors-1.7.5.jar"
+hash-format = "sha256"
+hash = "d84a9df987b7974999d6b24f46a3ab88ffbe415d46c673d088f930201bff6d74"

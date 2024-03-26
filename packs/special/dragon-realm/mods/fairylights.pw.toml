@@ -1,0 +1,8 @@
+name = "fairylights"
+filename = "fairylights-1.4.0-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/fairylights-1.4.0-1.7.10.jar"
+hash-format = "sha256"
+hash = "334ffe4a237cd878f9e4558f8fa22e9d60f9eea502c57b63e541897e266376fa"

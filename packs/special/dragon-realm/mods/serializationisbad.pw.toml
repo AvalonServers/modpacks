@@ -1,0 +1,8 @@
+name = "serializationisbad"
+filename = "serializationisbad-1.3.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/serializationisbad-1.3.jar"
+hash-format = "sha256"
+hash = "818d7b29303c170998e1ad859a75faf82a3d3d4ff335ca073c17213612fa3735"

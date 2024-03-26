@@ -1,0 +1,8 @@
+name = "growthcraft-complete-core"
+filename = "growthcraft-1.7.10-2.7.2-complete-core.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/growthcraft-1.7.10-2.7.2-complete-core.jar"
+hash-format = "sha256"
+hash = "7f65cfda0edf82af62b1ee2e002a31de62b647bbd61e4306d84a86478a26eabd"

@@ -1,0 +1,8 @@
+name = "Waila"
+filename = "Waila-1.5.10_1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/Waila-1.5.10_1.7.10.jar"
+hash-format = "sha256"
+hash = "44423d7c43bde9274e1dbc1b00d6bd14ec7cb2572326eeefa9c6dd6fab47930b"

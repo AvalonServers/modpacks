@@ -1,0 +1,8 @@
+name = "growthcraft-complete-fishtrap"
+filename = "growthcraft-1.7.10-2.7.2-complete-fishtrap.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/growthcraft-1.7.10-2.7.2-complete-fishtrap.jar"
+hash-format = "sha256"
+hash = "94f189670391e34efd4561a67e013d3674e03bd31054e0b59d2f396e0c6ef619"

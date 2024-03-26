@@ -1,0 +1,8 @@
+name = "craftingtweaks"
+filename = "craftingtweaks-mc1.7.10-1.0.82.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/craftingtweaks-mc1.7.10-1.0.82.jar"
+hash-format = "sha256"
+hash = "acd2c1e4cd9ffe2f6e5d6c31c0b60dcee2afe474c80e232e5293ae2cf741c5fe"

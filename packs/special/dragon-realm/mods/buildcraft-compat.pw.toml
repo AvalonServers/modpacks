@@ -1,0 +1,8 @@
+name = "buildcraft-compat"
+filename = "buildcraft-compat-7.1.5.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/buildcraft-compat-7.1.5.jar"
+hash-format = "sha256"
+hash = "0ace9823b7ea35adbcce57b5d674dff238650f77639eaaaee67851eee775730b"

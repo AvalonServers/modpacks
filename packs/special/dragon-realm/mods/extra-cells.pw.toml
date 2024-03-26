@@ -1,0 +1,8 @@
+name = "ExtraCells"
+filename = "ExtraCells-1.7.10-2.3.14b197.jar"
+side = "both"
+
+[download]
+url = "https://dragonrealm.overminddl1.com/downloads/mods/ExtraCells-1.7.10-2.3.14b197.jar"
+hash-format = "sha256"
+hash = "48735b82e240bcadea62baa3a5ab601d091045579e1ecd1945866393394f4ce1"

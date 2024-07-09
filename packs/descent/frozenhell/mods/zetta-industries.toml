@@ -1,13 +1,8 @@
 name = "Zetta Industries"
-filename = "zettaindustries-1.3-1.12.2-166.jar"
+filename = "zettaindustries-1.3-1.12.2-custom.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2c2702d30e54c4f505a9f144e72a218cdf129f3c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5509409
-project-id = 278475
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/zettaindustries-1.3-1.12.2-custom.jar"
+hash-format = "sha256"
+hash = "35db00281a71ecb75d8aff04d91ef083dccc9b4e15261b024246d8bbc9907983"

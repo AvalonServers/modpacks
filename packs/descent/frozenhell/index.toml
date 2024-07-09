@@ -90,7 +90,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "13da5424cf76a09af9e4e0ace495c26a85baa4a12c8ae4aa5b12beab5e1d8c92"
+hash = "f4e1400b6dbebd768da03e02bc84f3466d79694f7fdff80acfc347e66f8bbf13"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -1477,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "mods/zetta-industries.toml"
-hash = "3e78d23e5001bfc8755303003bca988ccc69c33a4f53c2fae3df2171bc9c945b"
+hash = "4de3585d4616f811a44ed1229ccc7734859c324403bcc149d622813c6c87a852"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Matoi Vanilla Pack (IR)"
-filename = "MVP-IR-1.7-by-FrozeRain.zip"
+filename = "MVP-IR-1.7-bugfix-mc1.12.2-by-FrozeRain.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2982bd9b8c82c48a6ad117c1306a5bc291dadddd"
+hash = "3fe889bca7ad44de94384d9c6324da37eb763d2e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4023677
+file-id = 5117370
 project-id = 349491

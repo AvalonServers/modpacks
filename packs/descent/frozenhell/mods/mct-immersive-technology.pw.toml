@@ -3,6 +3,6 @@ filename = "MCTImmersiveTechnology-1.12.2-1.9.101.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/MCTImmersiveTechnology-1.12.2-1.9.101.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/MCTImmersiveTechnology-1.12.2-1.9.101.jar"
 hash-format = "sha256"
 hash = "2852dc958a0e5684eaf776d6e49ecb703e56f82560f20c2b3fa97aa08c0ac3e4"

@@ -61,7 +61,7 @@ jobs:
         with:
           args: --acl public-read --follow-symlinks --delete
         env:
-          AWS_S3_BUCKET: avalon-assets
+          AWS_S3_BUCKET: parallax-assets
           AWS_S3_ENDPOINT: https://s3.eu-west-1.wasabisys.com
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
@@ -97,6 +97,6 @@ jobs:
           script: |
             BASE_PATH=/var/lib/avalon/mc
             doas systemctl stop avalon-mc-ascent
-            (cd "$BASE_PATH/ascent" && java -Xmx4G -jar $BASE_PATH/tools/packwiz-installer-bootstrap.jar -g -s server https://s3.eu-west-1.wasabisys.com/avalon-assets/data/ascent/frozenhell/pack.toml)
+            (cd "$BASE_PATH/ascent" && java -Xmx4G -jar $BASE_PATH/tools/packwiz-installer-bootstrap.jar -g -s server https://s3.eu-west-1.wasabisys.com/parallax-assets/data/ascent/frozenhell/pack.toml)
             ln -sf $BASE_PATH/ascent/forge-1.12.2-14.23.5.2860.jar "$BASE_PATH/ascent/server.jar"
             doas systemctl start avalon-mc-ascent

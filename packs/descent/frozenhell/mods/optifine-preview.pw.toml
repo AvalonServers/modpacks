@@ -3,7 +3,7 @@ filename = "preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
 side = "client"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/avalon-assets/assets/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/preview_OptiFine_1.12.2_HD_U_G6_pre1.jar"
 hash-format = "sha256"
 hash = "58bd0865025a99d031220bdc855ede653aff865e49bda2064a31f4b1cf11622c"
 

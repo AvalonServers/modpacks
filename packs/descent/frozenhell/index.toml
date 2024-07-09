@@ -90,7 +90,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "221bcc2705445b0697b34cd537590884360362c786a57b0df3fd154a81b1073c"
+hash = "13da5424cf76a09af9e4e0ace495c26a85baa4a12c8ae4aa5b12beab5e1d8c92"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -793,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "marytts/voice-dfki-prudence-hsmm.toml"
-hash = "41c2fef3383dc9ce91ed3d3e8338d552d2dac94413d1f0c6781a65b349d18b3c"
+hash = "5f4bbd7b90c5dc422a39dbf3330576996dd7b07ed269082dd42f4ae68d73ef53"
 
 [[files]]
 file = "mods/ae2wtlib.toml"
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/commons0815.pw.toml"
-hash = "2190e5d5d1669bfd2300e2e16244914de98e807f7b206110f4d4346f891c772f"
+hash = "709f42ca60dcf5f04febe37cff5539017c9c407d9f5f352c6daea13d41caa4ab"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "76e04d69a7e1c5a518c159d0e1a6c88f99070d9084fa9eeb1ce935a31cd48140"
+hash = "fba2683f103987f5060d49582db75690dba5243f6fb745c6a3a0197b288e8608"
 metafile = true
 
 [[files]]
@@ -1152,7 +1152,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "f4d8b133b4a2ac0748f11ac8b081fa1b8cbae5ceda6cddb992452a6cabfaf2c9"
+hash = "04f690d14ba87e8b15f80c142abfa48d914d97258068c7b83c83fe802e869c1e"
 metafile = true
 
 [[files]]
@@ -1242,12 +1242,12 @@ metafile = true
 
 [[files]]
 file = "mods/optifine-preview.pw.toml"
-hash = "1a685d3d52360c662fd3bae902ffd2bb0b54daba0af8237e9e699b076b4006ff"
+hash = "a8069230c27781ab4f78ee3f60f408cbacfd3862865d5f60f34028ba5d0f1ccb"
 metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "fa3a30b4e92be721c963deb5bf9edf0ecbd3e70c72208afc191df7f9d6610c68"
+hash = "bb071cc4c8bc90794b66352213b7109cac9803ea4704ef29db9a4258fa12295a"
 metafile = true
 
 [[files]]
@@ -1292,7 +1292,7 @@ metafile = true
 
 [[files]]
 file = "mods/ptrlib.pw.toml"
-hash = "ce16eaae7ae839d57f66596123a21dd33e7148722c67943918dfe021b73f6db2"
+hash = "519f69f3db9db254dafe2d5b3fc3cb69f47a044c1d5a5b7dd1cf274f125ca5b7"
 metafile = true
 
 [[files]]

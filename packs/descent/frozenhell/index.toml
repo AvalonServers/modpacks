@@ -14,7 +14,7 @@ hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 
 [[files]]
 file = "config/AE2WirelessTerminals.cfg"
-hash = "95eef24be52361263ce2ccc7aff47a27f5c08ef6c9638f868350caa4f892bd3a"
+hash = "e3a487ab98e80c31b9809af7e01f7345ab575dff2ec76571c09917c00a536770"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -90,7 +90,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f4e1400b6dbebd768da03e02bc84f3466d79694f7fdff80acfc347e66f8bbf13"
+hash = "00bb92c5f6b3983afb44945076f2c07f53b965f83738352141a279cdad20531d"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"

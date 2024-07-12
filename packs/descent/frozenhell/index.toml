@@ -58,7 +58,7 @@ hash = "a6e8eec7cf4cd1265eb7f164579a31dc2a098db62d711d6f7595ffd1e991b770"
 
 [[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
-hash = "4f58aa7cd609f5e0227d270180707f2296df28c49aa0c717fe86caccb362aa3e"
+hash = "d9eb2e25324f1b45b819d18248aab52f5058f68d8eeee4988ba868f01bbf5a74"
 
 [[files]]
 file = "config/MatterOverdrive/recipes/inscriber.xml"
@@ -90,7 +90,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "7ecbc0c3bce3af0c688f7c438a0ec2a6f9c0862de3a7270b070065ec16878005"
+hash = "1bc723db8270b9dfeed930f8ad583e9879be8f773b3ab7fdab1fd0200eba436d"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -1477,7 +1477,7 @@ metafile = true
 
 [[files]]
 file = "mods/zetta-industries.toml"
-hash = "1404845d2591b1482b9b92d11652ca5be35171af75b3c1fd2731a105c71f0f50"
+hash = "4daf272a99bdfd5a0f7fe260b266d012e4631f05457fe27d501289fb29bc099e"
 metafile = true
 
 [[files]]

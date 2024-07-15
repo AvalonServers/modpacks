@@ -1,12 +1,12 @@
 name = "Descent: Frozen Hell"
 author = "Avalon Servers"
-version = "1.19.5"
+version = "1.19.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "72cafe760c02c08962c26083bc4d734ccb7e685550a72d23853f8c78536fbb7d"
+hash = "cbca9cdd6f3051fef006941c685d29ca597b556aeb363ac56317aa66b5204bad"
 
 [versions]
 forge = "14.23.5.2860"

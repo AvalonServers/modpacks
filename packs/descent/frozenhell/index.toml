@@ -90,7 +90,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "1bc723db8270b9dfeed930f8ad583e9879be8f773b3ab7fdab1fd0200eba436d"
+hash = "af7dedcce843edafe2d869b80bfaa9c3bb4e2cd2acf2bc754d6aef880d48d287"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -311,6 +311,10 @@ hash = "7400bc3aa9166a86849426090baea9ecca49e9b23ed373bf7a52746c8c834403"
 [[files]]
 file = "config/dynamiclights_theplayer.cfg"
 hash = "7cd4a23d210049e0aae4de734eb0987132cca66fc2ca9b37738d4fd863f83738"
+
+[[files]]
+file = "config/dynview.cfg"
+hash = "6a233fbae9d38f3c0b03685f4d0d78c49f76b3585704b26daa92080419369788"
 
 [[files]]
 file = "config/endercore/cropconfig.json"
@@ -555,7 +559,7 @@ hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "5486ad880f833e57196d1e1e57d8a161725247bca4fafcce03617a88bdb890dc"
+hash = "2a55f0ba9c00d9ce35d1f3909a0f5da7116e9024fcc77eeda9876fca39673d64"
 
 [[files]]
 file = "config/nucleus/motd.txt"
@@ -963,6 +967,11 @@ metafile = true
 [[files]]
 file = "mods/ctm.toml"
 hash = "9cec4593328acd252f4d48044ef41fdff6b60ccf0327cf198dcc6373b822f9a5"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "f1c5bd9428d68488dc1c71472e73955e4fe422663d60ffc043d3d1b7cf8ac91f"
 metafile = true
 
 [[files]]

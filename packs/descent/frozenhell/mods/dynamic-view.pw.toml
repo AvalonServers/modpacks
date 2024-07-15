@@ -1,0 +1,13 @@
+name = "Dynamic View[Forge]"
+filename = "dynviewdist-1.12-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad8bc77d154402926f34065732b6532f1af4a935"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2898681
+project-id = 366140

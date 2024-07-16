@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "fe97f52cec88079ad12197544ed8b86609026d93c87af5f0ebf54218a2b0b81d"
+hash = "e9f4d5919165c963a5cc82c971f299b5db2753aee40ec919f6f1f4716f242e94"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/colored-lights.pw.toml"
-hash = "2d4321d5a7f22a656dc573255c16281642b0fe7a7ebff3487c39afcd1e036669"
+hash = "4537e5c445e95c84f7f734af09a4eb149a6d78be7511d9462bfbd75a8de45770"
 metafile = true
 
 [[files]]
@@ -1539,14 +1539,6 @@ metafile = true
 file = "mods/zetta-industries.toml"
 hash = "4daf272a99bdfd5a0f7fe260b266d012e4631f05457fe27d501289fb29bc099e"
 metafile = true
-
-[[files]]
-file = "proposals/ACP-0002.md"
-hash = "afe229c71b759d2c07de508e39458ab46946cdaf1aefc2ad2a66e460e42acc64"
-
-[[files]]
-file = "proposals/ACP-0003.md"
-hash = "60078c1a889303c37df1d9173f719ab1ecac18f5d3cb81d213aa5809fd9a0674"
 
 [[files]]
 file = "scripts/appeng.zs"

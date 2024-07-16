@@ -1,13 +1,13 @@
 name = "Colored Lights"
-filename = "coloredlights-1.12.2-1.2.2.jar"
+filename = "ColoredLights-1.12.2-v-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "970697c06da5d5e9da9ab4be4f72cf38df8c3e1f"
+hash = "6bae63c014a024d540f302192a77c6390d1bf372"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5007831
+file-id = 2971969
 project-id = 290304

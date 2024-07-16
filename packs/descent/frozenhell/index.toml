@@ -17,6 +17,10 @@ file = "config/AE2WirelessTerminals.cfg"
 hash = "e3a487ab98e80c31b9809af7e01f7345ab575dff2ec76571c09917c00a536770"
 
 [[files]]
+file = "config/Albedo.cfg"
+hash = "15105bedc50ad9990d315081af599072a310b937d2fe82f5e1b978dafce31d90"
+
+[[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
 hash = "d7858fb4964b0cc4aaea52142835d2632e320c86449a1afa82ff0285c52eb037"
 
@@ -31,6 +35,10 @@ hash = "dfc2633f5e4fd2f7ec38c4d078e2d7679b9b82dcee6a945bf71e3ce2d5372e78"
 [[files]]
 file = "config/AppliedEnergistics2/extracells.cfg"
 hash = "ba46e44637786d9b959733a7e6538187f39392237f5b84810348e7749f90b1b2"
+
+[[files]]
+file = "config/ColoredLights.cfg"
+hash = "c7065c98c757ded68c9ab1d49828460db79f80e10b3d2c54e1bebebe16da8ba4"
 
 [[files]]
 file = "config/Galacticraft/MicdoodleCore.cfg"
@@ -70,7 +78,7 @@ hash = "45977744164ca7f656670e4dbaa0a6ca6b8d9d08d52c0464ad52b707bca2d578"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "fb0966b82cf7082f0092473695deb7f396fdf6b09f3815bb11cc29689a9e0d73"
+hash = "725076b221c40d655f5c5d942ecdfb8f97cc7d57b46e820d21354e39989fbf1e"
 
 [[files]]
 file = "config/ProjectRedRelocation.cfg"
@@ -90,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "af7dedcce843edafe2d869b80bfaa9c3bb4e2cd2acf2bc754d6aef880d48d287"
+hash = "fe97f52cec88079ad12197544ed8b86609026d93c87af5f0ebf54218a2b0b81d"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -754,6 +762,10 @@ file = "config/theoneprobe.cfg"
 hash = "9504da2484a59d43fe1ea7c0db822861e31674c3c252d485ed4373ff119008aa"
 
 [[files]]
+file = "config/tickdynamic.cfg"
+hash = "cbf144969d22de7affc499c1506a06af1973a53f51ec50e7db3c318b7ebd63fa"
+
+[[files]]
 file = "config/timberjack.cfg"
 hash = "b3da6893c57c6190a912ea81ee9d2ca2b0e8449a0b6c477b4614de44bbcf3572"
 
@@ -805,6 +817,11 @@ hash = "7e5374acf211072274dcae8f6084a70089a0677a520bb2c20340aaf296a4692e"
 metafile = true
 
 [[files]]
+file = "mods/albedo.pw.toml"
+hash = "d8601c42224ae2c6b11183d779dc5852644741155ce6ca1ea3a3e2b10bcca874"
+metafile = true
+
+[[files]]
 file = "mods/alternating-flux.toml"
 hash = "3b94c8556434975437ca2794ecf1b028f6c792aed166155b1b0eeabc116988c3"
 metafile = true
@@ -847,7 +864,6 @@ metafile = true
 [[files]]
 file = "mods/booster-rockets.toml"
 hash = "7025d4cabd03bcc71ad00e245e293d0300841ad361e1b9525ebe3f9de428ba5d"
-metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
@@ -937,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-world.toml"
 hash = "3c459fed88fd330c18b18c7ca8cef71a0ddc626548602d1feffe8b2ea391bc75"
+metafile = true
+
+[[files]]
+file = "mods/colored-lights.pw.toml"
+hash = "2d4321d5a7f22a656dc573255c16281642b0fe7a7ebff3487c39afcd1e036669"
 metafile = true
 
 [[files]]
@@ -1120,6 +1141,11 @@ hash = "eb9053d774202e70a5f14ade55f5d452dee5d809089c6cbba08da37dc438d436"
 metafile = true
 
 [[files]]
+file = "mods/industrial-renewal.pw.toml"
+hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
+metafile = true
+
+[[files]]
 file = "mods/industrial-wires-plus.pw.toml"
 hash = "2a5e052ec5d69a426af3151839c9c46db2fcde64beff460761d50850f8a8b423"
 metafile = true
@@ -1152,6 +1178,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
+metafile = true
+
+[[files]]
+file = "mods/laggoggles.pw.toml"
+hash = "2aec74c6dd668ddaca814969e6280f58c3b751ba75379d508a32c0b3f29dbf40"
 metafile = true
 
 [[files]]
@@ -1237,6 +1268,11 @@ metafile = true
 [[files]]
 file = "mods/openfm.pw.toml"
 hash = "7ff6d0d9725bcb70fa7b3b6a56e9a25ac68fbb90e20df62f32d1e00876c19737"
+metafile = true
+
+[[files]]
+file = "mods/openlights.pw.toml"
+hash = "2a43c1d46912b6aa3511b3a6087057b6e139702d03bcc29c8526c08d42ab943c"
 metafile = true
 
 [[files]]
@@ -1385,6 +1421,11 @@ hash = "46c2f226602630d2734885ed5e1832a5d20258cc76ff25a5e49ba460aa1f8c37"
 metafile = true
 
 [[files]]
+file = "mods/tellme.pw.toml"
+hash = "4021df31f9c7d3c3af31695df69eb2d8ae18f735cd9b0fd0631662fa9e6d8877"
+metafile = true
+
+[[files]]
 file = "mods/tesla-core-lib.pw.toml"
 hash = "a59ce34f44040f07fdd4cd7df09113ef13790166abe529ab5556322da7bd6363"
 metafile = true
@@ -1447,6 +1488,16 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "bc52b6371adcec9e88bf2c12f941d04229b7b85b6dab02f0a5daca43502b1560"
+metafile = true
+
+[[files]]
+file = "mods/tick-dynamic.pw.toml"
+hash = "22c4c6f891d4e453b09b0412e53c5649ecadf2596fb51e7a35029b6aaa3d7814"
+metafile = true
+
+[[files]]
+file = "mods/tickcentral.pw.toml"
+hash = "19ef45fc00112597f2c1f9eea7b59778d953b3f8bc360fc95bb4937849df1bf1"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Albedo"
+filename = "albedo-1.12.2-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49c52948dd67279722518e8084a14a80efd02e76"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2714505
+project-id = 275300

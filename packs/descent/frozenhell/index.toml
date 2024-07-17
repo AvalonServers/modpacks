@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9eb143c4afb1ee2144a88bd5dab3151ac63801a547c1526c00f7dc736b79020a"
+hash = "2cdb013e6b4b5b4671e741f5bd9cb30cb68ec8fd6e73d600744e8ccf68981edf"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -868,6 +868,11 @@ file = "marytts/voice-dfki-prudence-hsmm.toml"
 hash = "5f4bbd7b90c5dc422a39dbf3330576996dd7b07ed269082dd42f4ae68d73ef53"
 
 [[files]]
+file = "mods/ae2-extended-life.pw.toml"
+hash = "b0db116adb0cfd8b765ca88d24db5adfa562259252a34d5446fb63b11c52ea17"
+metafile = true
+
+[[files]]
 file = "mods/ae2wtlib.toml"
 hash = "7e5374acf211072274dcae8f6084a70089a0677a520bb2c20340aaf296a4692e"
 metafile = true
@@ -875,11 +880,6 @@ metafile = true
 [[files]]
 file = "mods/alternating-flux.toml"
 hash = "3b94c8556434975437ca2794ecf1b028f6c792aed166155b1b0eeabc116988c3"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.toml"
-hash = "956f96ef08df91bcd8c1f254238f19ee3db03c9543ec5e7cd61820aa68df407f"
 metafile = true
 
 [[files]]
@@ -1513,8 +1513,8 @@ hash = "87c843b24eff1f1a57818a3d7a1d70ca8ca3dcbe009fe99ebb641739515e1d0d"
 metafile = true
 
 [[files]]
-file = "mods/thaumic-energistics.toml"
-hash = "0dee46bd3aa12160d861e160413a36ac05037f8105534759a631835e8a206b54"
+file = "mods/thaumic-energistics-extended-life.pw.toml"
+hash = "92520df9c6c18f7c511b887dc8117a0d1dd149618ad0c65a4fdc67f016c67486"
 metafile = true
 
 [[files]]

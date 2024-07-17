@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2cdb013e6b4b5b4671e741f5bd9cb30cb68ec8fd6e73d600744e8ccf68981edf"
+hash = "9e19fb23aa2238584e6b4e8daf6af6bd92e54219695840bd483a7248fbf1ecea"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -462,7 +462,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "d0fd4f05f3c38ffddc06829adcbd84a8ecba7cceb7b57e5393f86e4d90ce7ee3"
+hash = "f2ca35a5d89954918af22c1435aca328e0efe4349b825f3ad897c2e05c15147c"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -575,11 +575,11 @@ hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
 
 [[files]]
 file = "config/mirage.cfg"
-hash = "9ca8b7df42419815f9c429ff8ea6162526d742c2823b54f4a9fdc029ab6c387a"
+hash = "ece2e1805ebd0f9f5dafa6a8cbe1caca78ed6d1d85a5ecb59fb5fc28535c0899"
 
 [[files]]
 file = "config/modularforcefieldsystem.cfg"
-hash = "316c34998fb7279fc2efa931e4021a92e8426a128c731af91a55e04881bbbc41"
+hash = "43b349b4f381d9201cd1b41e459da5aa6d96bcda63459c8e98168d565366f282"
 
 [[files]]
 file = "config/moreplates.cfg"
@@ -595,7 +595,7 @@ hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "2a55f0ba9c00d9ce35d1f3909a0f5da7116e9024fcc77eeda9876fca39673d64"
+hash = "93f6e82bc9b096c27560b772ed880b7c5144998acd5a0a1c1034acea49ad73d1"
 
 [[files]]
 file = "config/nucleus/motd.txt"
@@ -771,7 +771,7 @@ hash = "4bdac7fd565fc0bf0e4e55a78c98e6e18c70cf04395cc8190c59626a94a5edb9"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "fd5a5fe75dc14ae1adf56c83b54ff4e012a57a031e07039fa2aacacccdcfee5b"
+hash = "f75cfb6a87a8a2164ca704c29c5888e6a311e97473db21c059cb467ed29ad7db"
 
 [[files]]
 file = "config/thaumicenergistics.cfg"

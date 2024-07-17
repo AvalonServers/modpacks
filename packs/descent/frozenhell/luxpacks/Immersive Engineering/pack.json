@@ -1,0 +1,7 @@
+{
+	"api": 1,
+	"name": "Immersive Engineering support",
+	"authors": [ "Lilcan" ],
+	"description": "Adds colored light support to Immersive Engineering mod by BluSunrize and team",
+	"dependencies": [ "immersiveengineering" ]
+}

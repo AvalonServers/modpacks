@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4493884
 project-id = 283525
+
+[option]
+optional = true
+description = "Monitor block tick rates, only enable when required. Requires TickCentral"
+default = false

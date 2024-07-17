@@ -1,13 +1,8 @@
 name = "OpenSecurity"
-filename = "OpenSecurity-1.12.2-1.0-93.jar"
+filename = "OpenSecurity-1.12.2-1.0-custom.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8c708372f9fe90dd5f9b3ae6e5cdd9d404601b48"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4328814
-project-id = 231687
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/OpenSecurity-1.12.2-1.0-custom.jar"
+hash-format = "sha256"
+hash = "b6974390662ffea40f6fe355abae163147f45800976787aeb0dc76d3172289df"

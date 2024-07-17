@@ -1,0 +1,7 @@
+{
+	"api": 1,
+	"name": "Chisel support",
+	"authors": [ "Lilcan" ],
+	"description": "Adds colored light support to Chisel mod by tterrag1098 and team.",
+	"dependencies": [ "chisel" ]
+}

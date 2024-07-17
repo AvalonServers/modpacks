@@ -5,6 +5,10 @@ file = "CHANGELOG.md"
 hash = "1453b81fb45f5e454c3af32b89aa007165aabebb13db2947a21a9fbc33950a54"
 
 [[files]]
+file = "INSTALL.md"
+hash = "dcf88f847da9dfc72724ec097f12890e9d58d8c397f723dc751b064d76f0e48d"
+
+[[files]]
 file = "README.md"
 hash = "5008d535f0c7497d809a6153c245dbe23199829ec75e396e088b2e6e13fdb729"
 
@@ -15,10 +19,6 @@ hash = "35a48d513082bc674794f20e6bc39f20624a0c090aa13c75187720af09a38ebb"
 [[files]]
 file = "config/AE2WirelessTerminals.cfg"
 hash = "e3a487ab98e80c31b9809af7e01f7345ab575dff2ec76571c09917c00a536770"
-
-[[files]]
-file = "config/Albedo.cfg"
-hash = "15105bedc50ad9990d315081af599072a310b937d2fe82f5e1b978dafce31d90"
 
 [[files]]
 file = "config/AppliedEnergistics2/AppliedEnergistics2.cfg"
@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e9f4d5919165c963a5cc82c971f299b5db2753aee40ec919f6f1f4716f242e94"
+hash = "9eb143c4afb1ee2144a88bd5dab3151ac63801a547c1526c00f7dc736b79020a"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -170,7 +170,7 @@ hash = "dd8fe360fde1f67e991ac4b8aab4659506280da1da61ab9b86690bfcbb8edc96"
 
 [[files]]
 file = "config/charset/modules.cfg"
-hash = "790927355a752a200fc50b0321e760ddfe0d9cb1a167f79073260ce72afd2737"
+hash = "37b310358a552b6fa4ea44f0ecc807cb9cf93962ebbb11a79c80fbb2f09f8081"
 
 [[files]]
 file = "config/charset/patches.cfg"
@@ -405,6 +405,10 @@ file = "config/gravestone.cfg"
 hash = "812c2654dc2de3b7ab397fc125ea1d77c917819f5c88bd69d790c66c0f1504d7"
 
 [[files]]
+file = "config/hammercore.cfg"
+hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
+
+[[files]]
 file = "config/hardcoredarkness.cfg"
 hash = "c9c1e3a52c34ba9fcbd9c4232439555af7c9bc8ceefa711ba8bdd9fada53faad"
 
@@ -546,12 +550,36 @@ file = "config/lingeringloot.cfg"
 hash = "4baf2acf8b8dfbe01215e3715a0ac59b64e396c1e97b9f67172f23bf8d49a3ac"
 
 [[files]]
+file = "config/lux/lights-block.json"
+hash = "2a64006644b427c79af19be068c158cda2d298a9afd70464984b9d848bb3d38b"
+
+[[files]]
+file = "config/lux/lights-entity.json"
+hash = "ce0a7c6313f900c32f5159ae553a5233de4ca4d230e44fbf86850647c2fc4d65"
+
+[[files]]
+file = "config/lux/luxpacks.json"
+hash = "dae64a652a8cff8fddbbb7e58bf733154397cc269da85d4870557d19d1f0287a"
+
+[[files]]
+file = "config/lux/main.cfg"
+hash = "4536f4145238de38cf2e2d08928bf5a8fccfb4bd57369bdece3ea76f7eb8a49c"
+
+[[files]]
 file = "config/mctimmersivetechnology.cfg"
 hash = "886a639d749f4664d963138bc526340bf69c23fabec23cc8414d50cef40960c9"
 
 [[files]]
 file = "config/microblocks.cfg"
 hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
+
+[[files]]
+file = "config/mirage.cfg"
+hash = "9ca8b7df42419815f9c429ff8ea6162526d742c2823b54f4a9fdc029ab6c387a"
+
+[[files]]
+file = "config/modularforcefieldsystem.cfg"
+hash = "316c34998fb7279fc2efa931e4021a92e8426a128c731af91a55e04881bbbc41"
 
 [[files]]
 file = "config/moreplates.cfg"
@@ -798,6 +826,34 @@ file = "extra.toml"
 hash = "ec4bf419ae9c6775a2be37e5c9d9f23063ba555fecd411bf79686ab760158cb2"
 
 [[files]]
+file = "luxpacks/Chisel/blocks.json"
+hash = "c9211c97639b00756a8704bc802ee3d46f4866eead5643e307de68ac88f3eb35"
+
+[[files]]
+file = "luxpacks/Chisel/pack.json"
+hash = "d2a7011d3eab2237cd640ddd9bb5412aeacb772d3f065b481ba134565d1b91a9"
+
+[[files]]
+file = "luxpacks/Immersive Engineering/blocks.json"
+hash = "bf87ae817d2a075cd71a5ec4bd0c941bfb077379ba37f9f5d21a3d223af2f5c6"
+
+[[files]]
+file = "luxpacks/Immersive Engineering/pack.json"
+hash = "e3966b1b939ae7b5fb629a3ef72269db4da8d7124d0444de561bb320af24a010"
+
+[[files]]
+file = "luxpacks/ProjectRed Lighting/main.js"
+hash = "502824d10000cbc1337970c6342a8f7052d31c9f345321d1415429fd82940bf9"
+
+[[files]]
+file = "luxpacks/ProjectRed Lighting/pack.json"
+hash = "15539318388059156430a2ca79049a000f78c59ff0ce9c9d2cccd249ff2e6602"
+
+[[files]]
+file = "luxpacks/ProjectRed Lighting/scripts/lamp.js"
+hash = "22e19d417b456edfbbd6d507333c5586c354dbab3dcc8a446c4a85ed6c6977b9"
+
+[[files]]
 file = "marytts/marytts-lang-en.toml"
 hash = "74a2012855addd789dbeb54ddd48c4663f0427e2ca29da0155818602e39a0ecc"
 metafile = true
@@ -814,11 +870,6 @@ hash = "5f4bbd7b90c5dc422a39dbf3330576996dd7b07ed269082dd42f4ae68d73ef53"
 [[files]]
 file = "mods/ae2wtlib.toml"
 hash = "7e5374acf211072274dcae8f6084a70089a0677a520bb2c20340aaf296a4692e"
-metafile = true
-
-[[files]]
-file = "mods/albedo.pw.toml"
-hash = "d8601c42224ae2c6b11183d779dc5852644741155ce6ca1ea3a3e2b10bcca874"
 metafile = true
 
 [[files]]
@@ -862,8 +913,9 @@ hash = "8e9ec552cca7686b3b065b2d7e102676d4aeb7aec9ff8899f55c1c270f7d245c"
 metafile = true
 
 [[files]]
-file = "mods/booster-rockets.toml"
+file = "mods/booster-rockets.pw.toml"
 hash = "7025d4cabd03bcc71ad00e245e293d0300841ad361e1b9525ebe3f9de428ba5d"
+metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
@@ -956,8 +1008,8 @@ hash = "3c459fed88fd330c18b18c7ca8cef71a0ddc626548602d1feffe8b2ea391bc75"
 metafile = true
 
 [[files]]
-file = "mods/colored-lights.pw.toml"
-hash = "4537e5c445e95c84f7f734af09a4eb149a6d78be7511d9462bfbd75a8de45770"
+file = "mods/colored-lux.pw.toml"
+hash = "f434cafaa42c952fff62bbcf42ef60fd9bc1807cb2c2dfc278b5d20ec06bda58"
 metafile = true
 
 [[files]]
@@ -1182,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/laggoggles.pw.toml"
-hash = "2aec74c6dd668ddaca814969e6280f58c3b751ba75379d508a32c0b3f29dbf40"
+hash = "44d0b91ccc6f06ec59172f3def9f1b3b360857ff0f8626a7313dbb8153071f6e"
 metafile = true
 
 [[files]]
@@ -1193,6 +1245,11 @@ metafile = true
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
 hash = "04f690d14ba87e8b15f80c142abfa48d914d97258068c7b83c83fe802e869c1e"
+metafile = true
+
+[[files]]
+file = "mods/mirage.pw.toml"
+hash = "4066057c47507d2b360537cb2d455f7bb3ce61054543b2c7bfac2eb2684c18a5"
 metafile = true
 
 [[files]]
@@ -1282,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/opensecurity.pw.toml"
-hash = "9d826dc36c6715349392d6c975da22b6b1cbd82493cbb00a0926b3e67077687f"
+hash = "4d53124b57e4501d1fc2f79ac74b946caabde8ac1db4ffd12a32bdb1136dc402"
 metafile = true
 
 [[files]]
@@ -1497,7 +1554,7 @@ metafile = true
 
 [[files]]
 file = "mods/tickcentral.pw.toml"
-hash = "19ef45fc00112597f2c1f9eea7b59778d953b3f8bc360fc95bb4937849df1bf1"
+hash = "d08187625ff57945adfc1f868fa5fea9e3b6accb4b7c8733b0147cab1847fdc9"
 metafile = true
 
 [[files]]

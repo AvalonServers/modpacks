@@ -1,0 +1,7 @@
+{
+	"api": 2,
+	"name": "ProjectRed: Illumination",
+	"authors": [ "Zeitheron" ],
+	"description": "Lighting pack that allows integration for ProjectRed Illumination. Supports lamps only. Other sources are multiparts and thus are even harder to implement support for.",
+	"dependencies": [ "projectred-illumination" ]
+}

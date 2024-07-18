@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9e19fb23aa2238584e6b4e8daf6af6bd92e54219695840bd483a7248fbf1ecea"
+hash = "d64abb07f21b16df66648e5029e939f05cdb5cb8763dbfb61abf5fe4667aa026"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -791,7 +791,7 @@ hash = "9504da2484a59d43fe1ea7c0db822861e31674c3c252d485ed4373ff119008aa"
 
 [[files]]
 file = "config/tickdynamic.cfg"
-hash = "cbf144969d22de7affc499c1506a06af1973a53f51ec50e7db3c318b7ebd63fa"
+hash = "27509d0ffdb2ff20cbb941fe8d97372d02f4b38ad671dc775b62af12e0036b24"
 
 [[files]]
 file = "config/timberjack.cfg"
@@ -1545,11 +1545,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "bc52b6371adcec9e88bf2c12f941d04229b7b85b6dab02f0a5daca43502b1560"
-metafile = true
-
-[[files]]
-file = "mods/tick-dynamic.pw.toml"
-hash = "22c4c6f891d4e453b09b0412e53c5649ecadf2596fb51e7a35029b6aaa3d7814"
 metafile = true
 
 [[files]]

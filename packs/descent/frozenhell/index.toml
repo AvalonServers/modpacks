@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d64abb07f21b16df66648e5029e939f05cdb5cb8763dbfb61abf5fe4667aa026"
+hash = "d87ac22eb177caf516552bf93991f1b3ab0f2edfd2643b05daac571e22573f3f"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -462,7 +462,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "f2ca35a5d89954918af22c1435aca328e0efe4349b825f3ad897c2e05c15147c"
+hash = "f6119cfb8c36fdf671904138c9f3844861aca36f04a9d56cead81fe79de79097"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -627,7 +627,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "abf4dfe2b0c89e0d14e519e22238661e059bff05ea2054be57a6c1f8c5aac06a"
+hash = "3a37ac152bde5daaac512c06edba8874dc84190b13850ca4704744f824489588"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -983,6 +983,11 @@ hash = "1425e222b6d861a6a7db19190cc037b5080aa8a480e8a1e4654c0ce3774cf63c"
 metafile = true
 
 [[files]]
+file = "mods/chicken-chunks-1-8.pw.toml"
+hash = "8c1cd98cbd76ccba330c24575c02edd0ede38a08330a843f9874efee8a1738dd"
+metafile = true
+
+[[files]]
 file = "mods/chisel.toml"
 hash = "491dd437057c60b2d374a16e4dfad9027b3c80f298d02095e80a7ae457cd81d4"
 metafile = true
@@ -1238,6 +1243,11 @@ hash = "44d0b91ccc6f06ec59172f3def9f1b3b360857ff0f8626a7313dbb8153071f6e"
 metafile = true
 
 [[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "57ec9312f4215500571e119bbf7ce8006382b5d3c70c4aa5c1507a46a844b91e"
+metafile = true
+
+[[files]]
 file = "mods/matteroverdrive-legacy.pw.toml"
 hash = "a29a8dfffc39a328d82910fad5bee015add93bf250930e34e932beab0e59b01d"
 metafile = true
@@ -1319,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
 metafile = true
 
 [[files]]

@@ -98,7 +98,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d87ac22eb177caf516552bf93991f1b3ab0f2edfd2643b05daac571e22573f3f"
+hash = "453aaa952461987957f9b8270e5b34f369d19693d9326d0a263e9769668304e7"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -486,6 +486,11 @@ hash = "376b6ff9b353a94a266e500ecffe981fd759f157a31cdc901d21329dddcef4c7"
 metafile = true
 
 [[files]]
+file = "config/immersiverailroading/gp-narrow-gauge-texel-pack.pw.toml"
+hash = "1bd4177f2cf1926ee453659e79d33b0da52674238fb10bc77799e901bb71917b"
+metafile = true
+
+[[files]]
 file = "config/immersiverailroading/infra-train-pack.pw.toml"
 hash = "aded112dcffcb9d797033bfcb99dbfb450c7e046f0aec1f89597f867e10ba7d8"
 metafile = true
@@ -498,6 +503,11 @@ metafile = true
 [[files]]
 file = "config/immersiverailroading/raefftech-narrow-gauge.pw.toml"
 hash = "d9169e1186658c52f698690d24c0def961f37cc938d960697fc1387490e86704"
+metafile = true
+
+[[files]]
+file = "config/immersiverailroading/raefftech-railway-equipment.pw.toml"
+hash = "0a4a079132355195849402f2dcce3a7be675b1c279ce6f7888902df07e36676c"
 metafile = true
 
 [[files]]
@@ -584,6 +594,10 @@ hash = "43b349b4f381d9201cd1b41e459da5aa6d96bcda63459c8e98168d565366f282"
 [[files]]
 file = "config/moreplates.cfg"
 hash = "efb5d2abe7758505412ae0b70666be07f19b9f90ce1daff38f1032e788ae0135"
+
+[[files]]
+file = "config/mtsconfig.json"
+hash = "bd46347a56f759ae4132b734727c1313e9dff0ddfde8e98ec548c0b2b3b65d0f"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1188,6 +1202,21 @@ hash = "70b855508fde6408d710ebe3a697f614f8c7d201d1b04761046925fe9b9736ff"
 metafile = true
 
 [[files]]
+file = "mods/immersive-vehicles-automobilwerke-schwikau-veb.pw.toml"
+hash = "d6bc1bfd37b59c7dfce628ee69037ae15e0f33a86a265005a04e6326af55ec4e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-iav-parts-pack.pw.toml"
+hash = "2898532ed0147d83ee9d1b53c877da011f15d63bad825a6735531d3addd7bc64"
+metafile = true
+
+[[files]]
+file = "mods/immersive-vehicles-soviet-lada.pw.toml"
+hash = "b05ea704463dfaf60111708ecf96e4d5114ffaed5c377428b3b258aa0b7365ef"
+metafile = true
+
+[[files]]
 file = "mods/immersiveposts.toml"
 hash = "5200926de2f1e3d3b7d88bbfe7c484b509ab0cab6b815f33ae8fba9f313f4268"
 metafile = true
@@ -1255,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
 hash = "04f690d14ba87e8b15f80c142abfa48d914d97258068c7b83c83fe802e869c1e"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transport-simulator.pw.toml"
+hash = "98eedad6f26d803558b3d66d4d73170a49f959b136df7f789ec29e622fcf7172"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "[Immersive Vehicles] IAV Parts pack"
+filename = "IAV_Parts_Pack_1.0.2-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e4dc6d536b3a4221c0a739347d920728d12eb5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4745662
+project-id = 422073

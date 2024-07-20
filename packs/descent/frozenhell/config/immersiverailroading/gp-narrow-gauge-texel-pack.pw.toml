@@ -1,0 +1,8 @@
+name = "G&P Narrow Gauge Texel Pack"
+filename = "G&P_Narrow_Gauge_Texel_Pack_V1.0.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qg1Pq25O/versions/jW6Lqrhr/G%26P_Narrow_Gauge_Texel_Pack_V1.0.0.zip"
+hash-format = "sha256"
+hash = "590bd06baee28366297d4d0a548e4e6b3a5c59677f1fde627028c758318d2d30"

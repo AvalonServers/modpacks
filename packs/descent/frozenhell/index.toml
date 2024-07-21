@@ -37,6 +37,10 @@ file = "config/AppliedEnergistics2/extracells.cfg"
 hash = "ba46e44637786d9b959733a7e6538187f39392237f5b84810348e7749f90b1b2"
 
 [[files]]
+file = "config/ChickenChunks.cfg"
+hash = "acbd6d2342d76183b66dd5e0807a63c6f8a083cd71f8434dd45cc0c24f9359bc"
+
+[[files]]
 file = "config/ColoredLights.cfg"
 hash = "c7065c98c757ded68c9ab1d49828460db79f80e10b3d2c54e1bebebe16da8ba4"
 
@@ -98,7 +102,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "453aaa952461987957f9b8270e5b34f369d19693d9326d0a263e9769668304e7"
+hash = "a5ca6a0b5b0dc6610096ae74129d5d72507a096d7e63e67fb0836f26dff8df87"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -110,7 +114,7 @@ hash = "5a18f60386e911b21c578afcb95cdefdea90b1bb1cef390b99ec89f21fb568fe"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "91f23151b54178b85cfa74ab6efe15c506a4b6d502d265e2295a8fda9d7fddab"
+hash = "9233699f1d4c708bf781e5a0791b16a19d8ca50d9940c425989e7406354af248"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -462,7 +466,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "f6119cfb8c36fdf671904138c9f3844861aca36f04a9d56cead81fe79de79097"
+hash = "dbe835d6edb6a1a21f6dc4fc3867cf8dcef04b8357a8d03709347d4417a1057f"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -517,7 +521,11 @@ metafile = true
 
 [[files]]
 file = "config/industrialforegoing.cfg"
-hash = "daac1d75a68bd1406afe02254b1bbc00ada81ccb379f82fb82df26a9c7bc8a7f"
+hash = "3e58842be3c5183d1c688962430d7fac1ad365f67247e8ac9a4d3a7ca4741e91"
+
+[[files]]
+file = "config/industrialrenewal.cfg"
+hash = "6bfaec549e9ad8134fefdac1a7c8ebfb0fbb586d1c78ccbdc7fe781fb97945ee"
 
 [[files]]
 file = "config/industrialwires.cfg"
@@ -828,6 +836,10 @@ file = "config/waila/waila.cfg"
 hash = "1b2555b1f00f89c7c068ab7db045a58ccbf2461db384cf0a6bf6ccbd59460029"
 
 [[files]]
+file = "config/watercontrolextreme.cfg"
+hash = "2950eac74837f4e8bb918407f10b379f5d182f46ea84fdf2bb8468930d7e6012"
+
+[[files]]
 file = "config/wearablebackpacks.cfg"
 hash = "420734f60849f3cc5b23bdc4326ecf8fc9eb9e47cb4db92a8b8c7e5860e159ed"
 
@@ -919,11 +931,6 @@ metafile = true
 [[files]]
 file = "mods/better-builders-wands.toml"
 hash = "01121b6669638a7350e0296bf1d941999e875bd84b15eada608b43c7db5a29ac"
-metafile = true
-
-[[files]]
-file = "mods/birds-on-a-wire.pw.toml"
-hash = "8e9ec552cca7686b3b065b2d7e102676d4aeb7aec9ff8899f55c1c270f7d245c"
 metafile = true
 
 [[files]]
@@ -1622,6 +1629,11 @@ hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
 metafile = true
 
 [[files]]
+file = "mods/water-control-extreme.pw.toml"
+hash = "8f25394bbe889d370870638dcc5396d8be97b58488ac2b2df2a6cc3783c36258"
+metafile = true
+
+[[files]]
 file = "mods/wearable-backpacks.toml"
 hash = "6284aa70fd24e191bd3374c52c0e0a6df10e5609f88c6d4b82a9d6b01217705e"
 metafile = true
@@ -1633,12 +1645,16 @@ metafile = true
 
 [[files]]
 file = "mods/zetta-industries.toml"
-hash = "4daf272a99bdfd5a0f7fe260b266d012e4631f05457fe27d501289fb29bc099e"
+hash = "b3b35d192e22083f7957a62263cf67b994a929a5506fd51d37de92086a7e3e00"
 metafile = true
 
 [[files]]
 file = "scripts/appeng.zs"
 hash = "006dca111538a128ac8745f605f3a0c5021cb48c1cea3da7a78ead8e41881794"
+
+[[files]]
+file = "scripts/chickenchunks.zs"
+hash = "18f3d64fec3709e72422d84ba7d339691e6a27613af35fcd15e02a4e981fb76a"
 
 [[files]]
 file = "scripts/chisel.zs"
@@ -1651,6 +1667,10 @@ hash = "e9906b17c6608c939b0bcb51aa69d905507e1d86bd9ccdfdd7504c1827cd25ff"
 [[files]]
 file = "scripts/enderio.zs"
 hash = "cf34367e83d395c289e013fbfb4791fe68631835b4f7f55e87c4e880c1c9fdda"
+
+[[files]]
+file = "scripts/events.zs"
+hash = "9db3018b4ced09427d53ec1b5df28c3e541d1a8ed540266cd46342a67637e20b"
 
 [[files]]
 file = "scripts/extrautilities.zs"
@@ -1671,6 +1691,10 @@ hash = "115970f763150e984ac0969b2523945808d920cfb457a488c16b2fff86950b05"
 [[files]]
 file = "scripts/immersivetechnology.zs"
 hash = "48e5b4d236e759c2a79062ced8b02fd260ef9b71975b7c4c3c32829b42ce5b6e"
+
+[[files]]
+file = "scripts/industrialrenewal.zs"
+hash = "45e5a0d25cfaf88609109d46fdd4c5ab551bba8320fa85988aa7621ed3dc1f6f"
 
 [[files]]
 file = "scripts/industrialwires.zs"
@@ -1694,7 +1718,7 @@ hash = "5e4ecc56ba7669fba7e8d9307f7fd0463691ffaf1186822182680712905afda2"
 
 [[files]]
 file = "scripts/railcraft.zs"
-hash = "4f23d5b6b0949fc7e6d9cacb8925eac35dd61df480c842f269971e7a8954426f"
+hash = "2b5c776eef44baf88383b49e19836e17b2e5d76fd5180d1eec528832a60a2b1d"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

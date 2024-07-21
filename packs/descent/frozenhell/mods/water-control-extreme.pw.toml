@@ -1,0 +1,13 @@
+name = "Water Control Extreme"
+filename = "WaterControlExtreme-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8664047fd14bf39cc075abe88638e78676f0814"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2555574
+project-id = 277890

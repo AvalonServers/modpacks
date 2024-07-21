@@ -1,0 +1,2 @@
+<chickenchunks:chunk_loader:0>.addTooltip(format.yellow("Make sure to apply common sense to your use of chunk loaders! After a week without logging on, these will stop working. Spot Loaders are highly preferable to full Chunk Loaders - help keep the server lag-free."));
+<chickenchunks:chunk_loader:1>.addTooltip(format.green("Highly preferable to full Chunk Loaders, these will load just one chunk."));

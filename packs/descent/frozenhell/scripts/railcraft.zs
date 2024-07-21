@@ -30,3 +30,17 @@ recipes.addShapeless(<railcraft:rail> * 2, [irVanillaScale]);
 
 // allow IT Flue Gas to be used in Railcraft Boilers
 // FluidFuel.addFuel(<liquid:fluegas>, 4800);
+
+// Add tooltips to worldspikes
+val adminTooltip = format.red("This is a utility block only obtainable by server operators in Creative Mode. It is against server rules to use this block unless authorised.");
+val standardTooltip = format.red("It is against server rules to use Worldspikes for anything except Worldspike Carts. Please use ChickenChunks Chunk Loaders instead!");
+<railcraft:worldspike:0>.addTooltip(adminTooltip);
+<railcraft:worldspike:1>.addTooltip(standardTooltip);
+<railcraft:worldspike:2>.addTooltip(standardTooltip);
+<railcraft:worldspike:3>.addTooltip(standardTooltip);
+<railcraft:worldspike_point>.addTooltip(standardTooltip);
+
+val cartTooltip = format.yellow("It is against server rules to use Worldspike Carts for anything but loading Railcraft trains that are in active use.");
+<railcraft:cart_worldspike_standard>.addTooltip(cartTooltip);
+<railcraft:cart_worldspike_personal>.addTooltip(cartTooltip);
+<railcraft:cart_worldspike_admin>.addTooltip(adminTooltip);

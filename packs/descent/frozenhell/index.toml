@@ -102,7 +102,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a5ca6a0b5b0dc6610096ae74129d5d72507a096d7e63e67fb0836f26dff8df87"
+hash = "d64b3de8d4f67e85fa511c75b4c69f294da36251b7b947e8e75528f826804e15"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -422,7 +422,7 @@ hash = "a9b37a9e7b704757c015e52740f3d8b2bcf76c31718a9a16c912950bf6f04d05"
 
 [[files]]
 file = "config/icbmclassic/blast.cfg"
-hash = "6e9e332bc2031c8e2ec39f4c9f8c7aaab2a4e9c217c3aea00ea716b970420a58"
+hash = "f9223a2c9aaaa465ac1874ddf80a79cac6ec47aaf8995531291f15c75449fea9"
 
 [[files]]
 file = "config/icbmclassic/debug.cfg"
@@ -1121,6 +1121,11 @@ metafile = true
 [[files]]
 file = "mods/extracells2.toml"
 hash = "323075dd056b8d19b8e3efc7e82d2143f3f9a73899cf3b1d938e524632663c41"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "7e9650c0341e97438ea10e786dfa9fe90dc0c207920d5e116fb42a5ce00e2138"
 metafile = true
 
 [[files]]

@@ -1,0 +1,18 @@
+name = "Farsight [Forge/Neo]"
+filename = "farsight-1.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "87187014fda84b3b1e74cc79c3bf9f81e96d3546"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4716907
+project-id = 495693
+
+[option]
+optional = true
+description = "Allows render distances higher than the server's. Disable if you get render or performance issues."
+default = false

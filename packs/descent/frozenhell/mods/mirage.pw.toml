@@ -10,4 +10,4 @@ hash = "ed4888dae0d1decdf9a3b8e268261a7a99dca71e6f5d776845cc6dfe9beb15f0"
 [option]
 optional = true
 description = "Enables coloured lighting."
-default = true
+default = false

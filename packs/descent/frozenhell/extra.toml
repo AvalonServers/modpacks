@@ -1,2 +1,11 @@
 series = "descent"
 name = "frozenhell"
+
+[servers.descent]
+name = "Descent: Frozen Hell SMP"
+
+[servers.ascent]
+name = "Ascent: Frozen Hell SMP"
+
+[servers.creative]
+name = "Community Creative Server"

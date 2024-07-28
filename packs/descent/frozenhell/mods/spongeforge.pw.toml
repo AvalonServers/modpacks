@@ -1,8 +1,8 @@
 name = "SpongeForge"
-filename = "_aspongeforge-1.12.2-2838-7.4.7.jar"
+filename = "_aspongeforge-1.12.2-2838-7.4.8-RC4142.jar"
 side = "server"
 
 [download]
-url = "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.7/spongeforge-1.12.2-2838-7.4.7.jar"
+url = "https://repo.spongepowered.org/repository/maven-releases/org/spongepowered/spongeforge/1.12.2-2838-7.4.8-RC4142/spongeforge-1.12.2-2838-7.4.8-RC4142.jar"
 hash-format = "sha256"
-hash = "b4af52eabfd9603c3578b16a4a8316533dfc9f3447419aecf82bd3e7f97e26c9"
+hash = "a51e1c6aaa44e7c9048ba073167e889ae6b09bb38433f345181048828b6b5d2c"

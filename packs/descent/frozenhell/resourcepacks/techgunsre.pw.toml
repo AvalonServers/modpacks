@@ -1,0 +1,13 @@
+name = "Techguns Re: "
+filename = "Techguns Re.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "064e88abdbe05bc9eec6a97123ce138e222484f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4489163
+project-id = 688709

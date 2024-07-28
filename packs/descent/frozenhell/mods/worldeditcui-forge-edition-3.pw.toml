@@ -1,0 +1,13 @@
+name = "WorldEditCUI Forge Edition 3"
+filename = "WorldEdit-CUI-FE3-1.12.2-3.0.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "8baccc05f51f757588575dc1d6fa160bd79f6a82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3191629
+project-id = 380401

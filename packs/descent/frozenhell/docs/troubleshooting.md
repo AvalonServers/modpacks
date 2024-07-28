@@ -1,3 +1,5 @@
+## Common Issues
+
 ## Administration
 
 ### Server side TPS lag

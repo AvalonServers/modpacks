@@ -97,12 +97,28 @@ file = "config/ProjectRedRelocation.cfg"
 hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
+file = "config/Universal Tweaks - Bugfixes.cfg"
+hash = "bc19d106b6e52951778829fe0c546c780ad184f9bb1e2ded5f1c651ee1fb749a"
+
+[[files]]
+file = "config/Universal Tweaks - General.cfg"
+hash = "82f84d34bbcecd8b950e45f9ebd2fa3df44d602d02b80c989ec10833b380bec6"
+
+[[files]]
+file = "config/Universal Tweaks - Mod Integration.cfg"
+hash = "5128e6d6843b7105db980d7916ac716bbaed5d493d3a0f289e8f2734c365a4f5"
+
+[[files]]
+file = "config/Universal Tweaks - Tweaks.cfg"
+hash = "c229b0c56ba971e115ef5785374674b89f6dabe3e851f4152ac2566c83a99a37"
+
+[[files]]
 file = "config/Weather2/Foliage.cfg"
 hash = "e38119abd6092316b8302d8996eda29921041adc65e1125d423b4d70bf571d85"
 
 [[files]]
 file = "config/Weather2/Misc.cfg"
-hash = "2639abc16d9c740bbcb8de887e56b532f647342b87831328988e17e27b90f5c2"
+hash = "a6dc2c8b67fe735ed7723c9131b58d4d1941625b8fb049bce23519da49561572"
 
 [[files]]
 file = "config/Weather2/Particle.cfg"
@@ -118,7 +134,7 @@ hash = "901dfe59bf27bb45ba3067699ed7d1dbc849b5546d96d157f321df3f1d37fd34"
 
 [[files]]
 file = "config/Weather2/Storm.cfg"
-hash = "64b702524141bf68e2b6c860e8ae99ef35c6e15adb5dcbd3962d5d2943657f89"
+hash = "2ad4b9dcd9c091d9ccbf10bdbe9e3b8783fe26166d65467fca40ade1e58c4a6c"
 
 [[files]]
 file = "config/Weather2/Tornado.cfg"
@@ -142,7 +158,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e58a02c445dc0aabf6eac6a2cdc1f1d7c4a7812ef75962e1978327c36d112e65"
+hash = "d5d3c5547662c84ad7c27a382d33c6dfee258ddef62ec3f5ee148846c722e95c"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -1013,7 +1029,7 @@ hash = "3e58842be3c5183d1c688962430d7fac1ad365f67247e8ac9a4d3a7ca4741e91"
 
 [[files]]
 file = "config/industrialrenewal.cfg"
-hash = "6bfaec549e9ad8134fefdac1a7c8ebfb0fbb586d1c78ccbdc7fe781fb97945ee"
+hash = "6ff12996c1e1d401b1015bf58b78f923462565f59bc2999396c4bcb1cb0fc1ce"
 
 [[files]]
 file = "config/industrialwires.cfg"
@@ -1053,7 +1069,7 @@ hash = "ebcf5a75da4357b4bac477906baca1cf50e285a5c5c001596196ffa91a0f6ecf"
 
 [[files]]
 file = "config/laser_drill_ores/other_ores.json"
-hash = "d661b56498ed812111774cb8be833f6389a65d4914da408053e017f9cb3a35bb"
+hash = "690e60f84b4fd6086e89449becb6be43bf149ddddf60d12baa297154b7214038"
 
 [[files]]
 file = "config/lingeringloot.cfg"
@@ -1281,7 +1297,7 @@ hash = "f5d4df9b0e154d06680e897231034042204844fcda2dbdcf72b371d467b8fce5"
 
 [[files]]
 file = "config/techguns.cfg"
-hash = "05cb817e2119ce0ee2d4c6a2d971f7b27b914c8cbf5b72eebfcc2ef4fb319680"
+hash = "20ab6677bfee0401a480d0a8f198e5c2f031338ce2c22b776a06383ae9ec5400"
 
 [[files]]
 file = "config/teslacorelib.cfg"
@@ -1362,6 +1378,14 @@ hash = "2950eac74837f4e8bb918407f10b379f5d182f46ea84fdf2bb8468930d7e6012"
 [[files]]
 file = "config/wearablebackpacks.cfg"
 hash = "420734f60849f3cc5b23bdc4326ecf8fc9eb9e47cb4db92a8b8c7e5860e159ed"
+
+[[files]]
+file = "config/wecui3.yml"
+hash = "b6b6b1377bcce4e5b8af2da4a44d9c62afb69fb76bacac125a6531a273aff2ae"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "c519c0f106894a585e4dfdc63d8436a2ec630378ea463e485de2a5fc67ae31a6"
 
 [[files]]
 file = "config/zettaindustries.cfg"
@@ -1589,6 +1613,11 @@ hash = "b27ae6cf39982a8a5822ff88e61c0a94fcf92d4cc75101be2e3da1bc5e2e4824"
 metafile = true
 
 [[files]]
+file = "mods/configanytime.pw.toml"
+hash = "defd8d7b171bb90e9ae3cc60f8c5e863346f74f7c43d90fd2a1519cc9b0e7f5f"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
@@ -1616,11 +1645,6 @@ metafile = true
 [[files]]
 file = "mods/dtbop.pw.toml"
 hash = "51265430222174825ba7ff9f3b94a03b0fef7367d10ee4da3bd649cc559c03dc"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "f1c5bd9428d68488dc1c71472e73955e4fe422663d60ffc043d3d1b7cf8ac91f"
 metafile = true
 
 [[files]]
@@ -1844,13 +1868,13 @@ hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
 metafile = true
 
 [[files]]
-file = "mods/laggoggles.pw.toml"
-hash = "44d0b91ccc6f06ec59172f3def9f1b3b360857ff0f8626a7313dbb8153071f6e"
+file = "mods/littletiles.pw.toml"
+hash = "488191958b962e9312c02f425b75218656499d1dfcb39918284f3df466531e43"
 metafile = true
 
 [[files]]
-file = "mods/littletiles.pw.toml"
-hash = "488191958b962e9312c02f425b75218656499d1dfcb39918284f3df466531e43"
+file = "mods/lunatriuscore.pw.toml"
+hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
@@ -1881,6 +1905,11 @@ metafile = true
 [[files]]
 file = "mods/mirage.pw.toml"
 hash = "5ecfc7906c7eaf34d7e81b9dd532ea890a66b3ebdde85b497d7e39eb23f22e45"
+metafile = true
+
+[[files]]
+file = "mods/mixin-booter.pw.toml"
+hash = "5c00ea1552543b1506869d7e70c7e10d9e913ef97e93427ca2cbe4c8f035fb24"
 metafile = true
 
 [[files]]
@@ -2089,8 +2118,8 @@ hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
 metafile = true
 
 [[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
+file = "mods/schematica.pw.toml"
+hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
 
 [[files]]
@@ -2110,7 +2139,7 @@ metafile = true
 
 [[files]]
 file = "mods/spongeforge.pw.toml"
-hash = "b7e78baafe8650869d7b02a73ae54540f548ae204684eee5f355330e4a84760d"
+hash = "f2057b1c947120a5681b57ff113b8ab32d6fe79ce66843f245c2b80ae5b20a5f"
 metafile = true
 
 [[files]]
@@ -2121,11 +2150,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.toml"
 hash = "b9d564847fd7fabd6f9d65f001d1da9c2d1c03e5df5d9d258db713b4f145d1d0"
-metafile = true
-
-[[files]]
-file = "mods/swingthroughgrass.toml"
-hash = "219a07552b2cd57f9f1d0e68ea808bd80fae554dda54a56f37c04ca50d8336a8"
 metafile = true
 
 [[files]]
@@ -2214,6 +2238,11 @@ hash = "d08187625ff57945adfc1f868fa5fea9e3b6accb4b7c8733b0147cab1847fdc9"
 metafile = true
 
 [[files]]
+file = "mods/tiquality.pw.toml"
+hash = "622f2de75f758e38b744356ed773cd9d489022aaa010601d681bba6903f36f54"
+metafile = true
+
+[[files]]
 file = "mods/top-addons.toml"
 hash = "a4b4c98438ef8aba2c3d949ecf2ea2e9e633e698dc77fc6c0f41be62ad53fb27"
 metafile = true
@@ -2249,6 +2278,11 @@ hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
 metafile = true
 
 [[files]]
+file = "mods/universal-tweaks.pw.toml"
+hash = "7db541563e5f3da249cad0778e6982d1555c3b0347aa26793832fa0ca61e8929"
+metafile = true
+
+[[files]]
 file = "mods/water-control-extreme.pw.toml"
 hash = "8f25394bbe889d370870638dcc5396d8be97b58488ac2b2df2a6cc3783c36258"
 metafile = true
@@ -2259,18 +2293,23 @@ hash = "6284aa70fd24e191bd3374c52c0e0a6df10e5609f88c6d4b82a9d6b01217705e"
 metafile = true
 
 [[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "faece63c31002b0929cfc4b14d8c7f998cc9ae13518a4d5eef46fc11be041349"
-metafile = true
-
-[[files]]
 file = "mods/wireless-crafting-terminal.toml"
 hash = "a756e65afbe8308ef642fc39565df754b965619cec346140168fd431b5152d57"
 metafile = true
 
 [[files]]
+file = "mods/worldeditcui-forge-edition-3.pw.toml"
+hash = "faee0708b9b12de08ca64fbc92432ec445f8c1f78d6029d5c31d96e2e1c0e540"
+metafile = true
+
+[[files]]
 file = "mods/zetta-industries.toml"
 hash = "b3b35d192e22083f7957a62263cf67b994a929a5506fd51d37de92086a7e3e00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/techgunsre.pw.toml"
+hash = "94304d58038a96360362b24dd8cfc731ea07d4ec9dd7e00b9e1bf4f7a475f04a"
 metafile = true
 
 [[files]]
@@ -2304,6 +2343,10 @@ hash = "918f0d7f47a6247b38c81ff2f17676bc9519bb50b26393b8c6b34d3afa8957bd"
 [[files]]
 file = "scripts/icbm.zs"
 hash = "d72777a3d0d389dd4cd3eced202cc15cef1af34b40d78f7d2993b4178bd8bc4e"
+
+[[files]]
+file = "scripts/idkcraptitaniumfix.zs"
+hash = "efb357cbb6e6f8f435eab7411f73353bb707237e8675ce6cfd125f7a6f2bd3ee"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
@@ -2355,7 +2398,7 @@ hash = "42d522b2d6613604cfce2e02470b72aef7aecd8c51105ec282a6e04ab5a65994"
 
 [[files]]
 file = "scripts/thermaldynamics.zs"
-hash = "b3e59c0442d852f6ce74d2baecd638cf36d9377c861b4bea48a095b907b25157"
+hash = "d5e89f0460a86fa8b8d1868adb789c6570622a64879f90466f5a99a855b5f5c5"
 
 [[files]]
 file = "scripts/vanilla.zs"

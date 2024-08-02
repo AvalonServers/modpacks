@@ -66,7 +66,7 @@ hash = "18e1f933e84ab5c926931fe0fdeb7daa03d109a4decd58b75878cf84548c5971"
 
 [[files]]
 file = "config/Galacticraft/energy.cfg"
-hash = "1b50b60a82a3ad801d98daaab16ae7dcc63560701609dc265abd85f44e428266"
+hash = "2f70121364d1c08e872a68d9f461339eabe7a3deaa3120179008782d521f14d0"
 
 [[files]]
 file = "config/Galacticraft/planets.cfg"
@@ -75,6 +75,10 @@ hash = "796e24b9dede6518d7bbc44c354a970503af37c3f30ec15a6520d5f30453750d"
 [[files]]
 file = "config/IntegrationForegoing.cfg"
 hash = "a6e8eec7cf4cd1265eb7f164579a31dc2a098db62d711d6f7595ffd1e991b770"
+
+[[files]]
+file = "config/LogisticsPipes.cfg"
+hash = "9b18936ef89ac3d45f0c1cc16a4aa57d68358f22a7c9767a9e5f1aa5eecb413c"
 
 [[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
@@ -98,7 +102,7 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "6a3625ed9d918d2d84f91b1377be21d4b5a0738a37c2538f59e9518dcc5d6f35"
+hash = "46d2f4414dd867d9bc157e82d400bcfe0ee08ab5eff73ce56651a357d965f3ef"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -114,7 +118,7 @@ hash = "5128e6d6843b7105db980d7916ac716bbaed5d493d3a0f289e8f2734c365a4f5"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "31ad15efd3405fb4aa190f69cb3155dd8f280a1ac53bdf6f7bd460abefe6f60f"
+hash = "9587a7f1908209786a1e458875f00cb5db31e433b6b1ca098d46c58b6a1a0230"
 
 [[files]]
 file = "config/Weather2/Foliage.cfg"
@@ -166,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "d5d3c5547662c84ad7c27a382d33c6dfee258ddef62ec3f5ee148846c722e95c"
+hash = "59df15b58015f18fbed3a61d7a27e986fc673f4a1675020374fad38818d9dcc1"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -614,7 +618,7 @@ hash = "9233699f1d4c708bf781e5a0791b16a19d8ca50d9940c425989e7406354af248"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
-hash = "ce68180ebf8ed49e9168d3eef62829c6b61475fdbaecdf41be8abe6199f971a9"
+hash = "c2160a08c810338141ead64ebbd0b974e7b39c6cbb4f86e257b026c648efe350"
 
 [[files]]
 file = "config/catwalks.cfg"
@@ -886,7 +890,7 @@ hash = "5e8ca1c4fbda4fe8ade0c4f180fa2f98feeb45a09729f8ba43f15e62bd331a85"
 
 [[files]]
 file = "config/engineersdecor.cfg"
-hash = "9d2f3802af27023fcd91ba3f68264b814ea37243509113c0f757354648b4729b"
+hash = "c7fee5e465630d88474d673f279b1c61ceecedf2c20cb5d8924612dddd774138"
 
 [[files]]
 file = "config/engineersdoors.cfg"
@@ -966,7 +970,7 @@ hash = "aca75a51d9ee42d7fad8a446661af921fd7a09ad7072e697d1398d89739959f4"
 
 [[files]]
 file = "config/icbmclassic/mods/ic2.cfg"
-hash = "3c6aaafe6d491fa4bc7fa380200127ee9781915f24a120da3ea8fae6a74fc16c"
+hash = "2e99ee5f6e5b9710b2a1e5a64afdfd489572800c7caf95ce9a1a512a58ac8bb0"
 
 [[files]]
 file = "config/igwmod.cfg"
@@ -1049,7 +1053,7 @@ hash = "6ae3ad8b754eb2cedfd795ba8e9f9053f837e7a064ac0d1987966dc480cdb9b3"
 
 [[files]]
 file = "config/jei/itemBlacklist.cfg"
-hash = "4a7a1c89ce4052ec79412cfa5c7d89061117e44b65fc28d58799722402846ab2"
+hash = "27ef4314fae9ac5a5da929cc1fe4a7c0415bbc1d1fdf03e7b14892bc227e3e9d"
 
 [[files]]
 file = "config/jei/jei.cfg"
@@ -1112,12 +1116,16 @@ file = "config/lux/main.cfg"
 hash = "4536f4145238de38cf2e2d08928bf5a8fccfb4bd57369bdece3ea76f7eb8a49c"
 
 [[files]]
+file = "config/magneticraft.cfg"
+hash = "3d710c16b5603e176a0935cdc0d46565b0dd0ae51baf808651342dbac9d2f39c"
+
+[[files]]
 file = "config/mapfrontiers.cfg"
 hash = "3d281ea92837bda8f042edba7173a1a1410614b013d2fe9ef650a1be89ae85b3"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "886a639d749f4664d963138bc526340bf69c23fabec23cc8414d50cef40960c9"
+hash = "b6851f0dd1bdb7238c532902052f681bebbf82511c181db4b3a460472a740dc8"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -1236,6 +1244,10 @@ file = "config/preston.cfg"
 hash = "612dc4452811e8c6a8bbb4127731ee597b19f42509e36378cc0e42e90080e93a"
 
 [[files]]
+file = "config/questionablyimmersive.cfg"
+hash = "801429c1f49d6764f6bb5f309b6176b1852ad14e096447aad493c168eff2039d"
+
+[[files]]
 file = "config/railcraft/blocks.cfg"
 hash = "8e7a3122aa158f44031686bd05c4a04ba36e578ac69b075e62b4f051ef53bff3"
 
@@ -1337,7 +1349,7 @@ hash = "4bdac7fd565fc0bf0e4e55a78c98e6e18c70cf04395cc8190c59626a94a5edb9"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "91c3b4d91f24ef2f6ce28d4df3c04676f5862fdf8f19d800588c4a75de01f3c8"
+hash = "65bd201c3d16ac80452260f3460545bda9fb7e76ca0d1f24b4189dc5b258f300"
 
 [[files]]
 file = "config/thaumicenergistics.cfg"
@@ -1402,6 +1414,10 @@ hash = "b6b6b1377bcce4e5b8af2da4a44d9c62afb69fb76bacac125a6531a273aff2ae"
 [[files]]
 file = "config/worldedit/worldedit.properties"
 hash = "c519c0f106894a585e4dfdc63d8436a2ec630378ea463e485de2a5fc67ae31a6"
+
+[[files]]
+file = "config/xnet/xnet.cfg"
+hash = "7a0ddfe360a6e43edb7535b1d1d9e5dc1268e82e8357674ab6ebde970236c336"
 
 [[files]]
 file = "config/zettaindustries.cfg"
@@ -1650,7 +1666,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5784a2412f5bdf7e729e98d74cec6d7cfaa44bcf608a525555a8115c099ad4bb"
+hash = "84876b137cd5e938652b3f79c62a29d037a04435a8ef51084dfd4b7b317d3275"
 metafile = true
 
 [[files]]
@@ -1666,11 +1682,6 @@ metafile = true
 [[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
-metafile = true
-
-[[files]]
-file = "mods/effortless-building.toml"
-hash = "232bebe223e0ddbca34d8e81415ff7571c0d37457c7f4a7eb6cdc443eeb3db4b"
 metafile = true
 
 [[files]]
@@ -1779,6 +1790,11 @@ hash = "2652c3aaf8f1fdd87cf2e886c6f498210f8875a238816d93b2f5aa6f9b5ae4b0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-cowardice.pw.toml"
+hash = "07bf2ea6ace8b26cf64379cf2f82aab3ddb936b3bce928e720f8a7d6301bbf67"
+metafile = true
+
+[[files]]
 file = "mods/immersive-energy.pw.toml"
 hash = "f44329e59d0beaae9b0e5ac39bfc78807e3b550bf84e18610084c2624d1355ab"
 metafile = true
@@ -1820,7 +1836,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-vehicles-soviet-lada.pw.toml"
-hash = "b05ea704463dfaf60111708ecf96e4d5114ffaed5c377428b3b258aa0b7365ef"
+hash = "e79423cd01bc528c5277d0bbdf463c53700c059230d7efea3a165bea485b5d8b"
 metafile = true
 
 [[files]]
@@ -1840,7 +1856,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-wires-plus.pw.toml"
-hash = "2a5e052ec5d69a426af3151839c9c46db2fcde64beff460761d50850f8a8b423"
+hash = "3f2875b86b257f0f2cde84813110a05365f4bcdd6f806c89d5932f8b58a29b04"
 metafile = true
 
 [[files]]
@@ -1885,7 +1901,12 @@ metafile = true
 
 [[files]]
 file = "mods/littletiles.pw.toml"
-hash = "488191958b962e9312c02f425b75218656499d1dfcb39918284f3df466531e43"
+hash = "ce196c6b8ae8d819d405ac0632aae6336b4cd9e0ea24484062e0ca451aee2055"
+metafile = true
+
+[[files]]
+file = "mods/logistics-pipes.pw.toml"
+hash = "84ee5d1a56be5c98da27902ee0f8ac869c6e114098f8141e12d8607f0fae3153"
 metafile = true
 
 [[files]]
@@ -1894,8 +1915,8 @@ hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
-file = "mods/magnetic-engineering.pw.toml"
-hash = "f3c13666b69e6d4fbd120c9324004c7a93047a044e61f0ce8a00cbfc2847bca4"
+file = "mods/magneticraft.pw.toml"
+hash = "b1437a01f09854d599a2e09bebbd5a9630453dd5f32b261dd90c2f7b3ce6b544"
 metafile = true
 
 [[files]]
@@ -1904,8 +1925,8 @@ hash = "57ec9312f4215500571e119bbf7ce8006382b5d3c70c4aa5c1507a46a844b91e"
 metafile = true
 
 [[files]]
-file = "mods/matteroverdrive-legacy.pw.toml"
-hash = "a29a8dfffc39a328d82910fad5bee015add93bf250930e34e932beab0e59b01d"
+file = "mods/mcjtylib.pw.toml"
+hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
@@ -2000,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
+hash = "ac158ee9ed601898fc04acff837dee84123a2bd92eddc398dd0bec385039a88e"
 metafile = true
 
 [[files]]
@@ -2090,12 +2111,12 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.toml"
-hash = "22a4f8ff437c24feb59cfd6112335f328c268fbd713dba65e2ad2a59598fde4b"
+hash = "d072e837c1e8a8d55ae4127384d34c26ca4cf4ff4eeddf3dea4461d79e4939cd"
 metafile = true
 
 [[files]]
 file = "mods/railcrafttweaker.pw.toml"
-hash = "e504e904a294962e185b8047021f4c6f8fbbd1a09d9b257dfb859f19d25a800a"
+hash = "a5d8fb278b3d5a56025883f7bbf33834529083fe94491ce0efaccb93ec6ae996"
 metafile = true
 
 [[files]]
@@ -2255,7 +2276,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiquality.pw.toml"
-hash = "622f2de75f758e38b744356ed773cd9d489022aaa010601d681bba6903f36f54"
+hash = "9f76b1b1fd20435e8f9804c4798eb1d49ed9bd49023301492b0066136f257ed0"
 metafile = true
 
 [[files]]
@@ -2319,8 +2340,13 @@ hash = "faee0708b9b12de08ca64fbc92432ec445f8c1f78d6029d5c31d96e2e1c0e540"
 metafile = true
 
 [[files]]
+file = "mods/xnet.pw.toml"
+hash = "50cf44513f7e4819aec2a6e5cc350d6665904a37ac10db0547dfbc9457b669c6"
+metafile = true
+
+[[files]]
 file = "mods/zetta-industries.toml"
-hash = "b3b35d192e22083f7957a62263cf67b994a929a5506fd51d37de92086a7e3e00"
+hash = "675a1012331d8b2cee64841a410e3647e7c7f3fb446e2cede488086c34d46887"
 metafile = true
 
 [[files]]
@@ -2382,7 +2408,7 @@ hash = "45e5a0d25cfaf88609109d46fdd4c5ab551bba8320fa85988aa7621ed3dc1f6f"
 
 [[files]]
 file = "scripts/industrialwires.zs"
-hash = "c685f8d450d96a7aaaab44f631bc7d7852df33af295df2ac67622ad58c72ea42"
+hash = "2c2238c3af1b022e4f9991727ede70d480305a3a7a8c373142cc9a37c60ba311"
 
 [[files]]
 file = "scripts/mffs.zs"
@@ -2405,6 +2431,10 @@ file = "scripts/railcraft.zs"
 hash = "2b5c776eef44baf88383b49e19836e17b2e5d76fd5180d1eec528832a60a2b1d"
 
 [[files]]
+file = "scripts/shared.zs"
+hash = "1a3a200bea372bf3f19364d226b26e56820ed6fcfbee5302c390570148a9e035"
+
+[[files]]
 file = "scripts/teslacorelib.zs"
 hash = "f38bad5771077d5e7ec9e4b407a2d24d542ed4db31c24243494614d12e38bd74"
 
@@ -2419,3 +2449,7 @@ hash = "d5e89f0460a86fa8b8d1868adb789c6570622a64879f90466f5a99a855b5f5c5"
 [[files]]
 file = "scripts/vanilla.zs"
 hash = "ab5894e137cdba4c8b7fc6108f9c2def11d156f04caf450a635b7b37c7c531cd"
+
+[[files]]
+file = "scripts/xnet.zs"
+hash = "aef9f4b51257a312b4c8d345ad361363076a77e80370bd3e94004607db0df801"

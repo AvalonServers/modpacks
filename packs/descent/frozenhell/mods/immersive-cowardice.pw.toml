@@ -1,0 +1,8 @@
+name = "Immersive Cowardice"
+filename = "immersive_cowardice-1.0.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersive_cowardice-1.0.jar"
+hash-format = "sha256"
+hash = "983361f56ccda10b8ec95c19d07923be7810c73d181e4c29945a46c982afd7f2"

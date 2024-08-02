@@ -4,5 +4,8 @@
 - RailcraftTweaker (pinned to Railcraft version)
 - OpenComputers (1.8.4 introduces an exception handler regression)
 
+## Mods that are incompatible
+- Effortless Building (causes server-side packet handler exceptions)
+
 ## Known issues
 - SpongeForge's jarfile must be prefixed with `_a` due to another mod that applies an old mixin, causing a conflict.

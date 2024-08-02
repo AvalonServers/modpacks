@@ -1,13 +1,14 @@
 name = "Industrial Wires Plus"
-filename = "IndustrialWires-2.0-02.jar"
+filename = "IndustrialWires-2.1-01.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bdb4cd5065158ce91cce09ea88a5790021579f08"
-mode = "metadata:curseforge"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/IndustrialWires-2.1-01.jar"
+hash-format = "sha256"
+hash = "ae686a42fc9b0d626ed860e06595b2b741117f6d6e6531ae5faae47f46be44e8"
 
-[update]
-[update.curseforge]
-file-id = 4329964
-project-id = 619614
+# Mod is currently built from source
+# [update]
+# [update.curseforge]
+# file-id = 4329964
+# project-id = 619614

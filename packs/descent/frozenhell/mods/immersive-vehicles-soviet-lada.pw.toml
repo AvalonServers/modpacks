@@ -1,13 +1,13 @@
 name = "[Immersive Vehicles] Soviet Lada"
-filename = "Nuckem_Cars_IV_1.3.5.jar"
+filename = "Nuckem_Cars_IV_1.4.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "416fab1a2ab530c78b07f61c29b68d7e8df0ae99"
+hash = "10559f23c67e2bfc8aadcee2e8347ab7174bfbc5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4747373
+file-id = 5567314
 project-id = 534603

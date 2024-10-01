@@ -170,11 +170,11 @@
       "comment": "Whether or not vehicles can break blocks when they run into them.  If false, vehicles will simply stop when they hit blocks."
     },
     "vehicleDestruction": {
-      "value": true,
+      "value": false,
       "comment": "Whether or not vehicles can be destroyed by ramming into blocks at high speeds.  Set this to false if you don't like loosing vehicles to badly-placed walls."
     },
     "vehicleExplosions": {
-      "value": true,
+      "value": false,
       "comment": "Whether or not vehicles explode when crashed or shot down.  If this is false, vehicles will simply poof when they crash."
     },
     "creativePlayerDamage": {
@@ -190,7 +190,7 @@
       "comment": "Whether or not velocity is ignored when calculating wheel damage."
     },
     "allowExternalDamage": {
-      "value": false,
+      "value": true,
       "comment": "Whether or not non-IV things can damage vehicles.  This is normally false, as external damage is a hassle for most people, but can be true if you want other mod's guns to be able to attack vehicles in addition to IV's."
     },
     "propellerDamageFactor": {

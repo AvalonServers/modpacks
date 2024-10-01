@@ -1,6 +1,6 @@
 name = "ReAuth"
 filename = "reauth-3.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2560/638/reauth-3.6.0.jar"

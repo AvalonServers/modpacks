@@ -1,0 +1,13 @@
+name = "Biauk's Lowpoly Voxel Tracks [Immersive Railroading]"
+filename = "biauk-voxel-track.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1ce14811745db21e34b7fe7c840cd4bce2725d1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4127843
+project-id = 653697

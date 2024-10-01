@@ -1,0 +1,13 @@
+name = "Hbm's Nuclear Tech Mod Reloaded"
+filename = "hbm-1.8.4a-G.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bf515a690d84625bf9dabf2a6e0991ba2de0e00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4892080
+project-id = 435883

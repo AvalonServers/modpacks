@@ -118,7 +118,7 @@ hash = "5128e6d6843b7105db980d7916ac716bbaed5d493d3a0f289e8f2734c365a4f5"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
-hash = "9587a7f1908209786a1e458875f00cb5db31e433b6b1ca098d46c58b6a1a0230"
+hash = "ef19456464197e58fb7415a63a74ed5e42295e6a873c5bc3c8dd7003c6fa9103"
 
 [[files]]
 file = "config/Weather2/Foliage.cfg"
@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "59df15b58015f18fbed3a61d7a27e986fc673f4a1675020374fad38818d9dcc1"
+hash = "23947d5eb8a1dd93e056d9458a87c24cfa140b73287362573d16d473fed93651"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -762,7 +762,7 @@ hash = "e175bd403da638a6230e4727c88a448e9d7d40934b914548392625d5f53ba5aa"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
-hash = "feeb6ff345c655034368841cdb6dc2709a1d9e7f06f4475db7b90f34fa51acf9"
+hash = "549652d67c872d209ec1879c36c2b5e8fbdc1106688582a1491b6c750ab55fde"
 
 [[files]]
 file = "config/cofh/world/00_minecraft.json"
@@ -998,11 +998,16 @@ hash = "7169b7228c7f83b7315690ccd8383e8c91b7b27e66c59fcbf3ba24078eb33317"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
-hash = "a8aa60e53488c61bbcab8ed800281e4711a3b616e9ed2dd92f3b1bddd4baf960"
+hash = "5b9ff4efe7023206ffe6dbc35e7b2a94670ff35cfdce8f161ffe3a030cd525f5"
 
 [[files]]
 file = "config/immersiverailroading.cfg"
 hash = "b6282f88e497078d4ee3db8a7046ef4ed05e0ddf1bd02bc5656d02a1d2cc3130"
+
+[[files]]
+file = "config/immersiverailroading/biauks-lowpoly-voxel-tracks-immersive-railroading.pw.toml"
+hash = "6fdebce54308af0d82489a78ade82709f86b430a7eecdd342e9d076fe0434e0f"
+metafile = true
 
 [[files]]
 file = "config/immersiverailroading/fixed-tfl-trains.pw.toml"
@@ -1145,7 +1150,7 @@ hash = "efb5d2abe7758505412ae0b70666be07f19b9f90ce1daff38f1032e788ae0135"
 
 [[files]]
 file = "config/mtsconfig.json"
-hash = "0132aa8b39acfb768082f303d22bceafd2390b37c4e66298ebae5891dda426e1"
+hash = "3eab1d019317826d0e764e37d60344b289c80efd21737cc27c03f6d76b78025f"
 
 [[files]]
 file = "config/multipart.cfg"
@@ -1421,7 +1426,7 @@ hash = "7a0ddfe360a6e43edb7535b1d1d9e5dc1268e82e8357674ab6ebde970236c336"
 
 [[files]]
 file = "config/zettaindustries.cfg"
-hash = "51ff7f1215d80fd1a07ec6aa14685f0590a7e81a608702b42b89995560e6239a"
+hash = "44c7368d4509e4ca7f7cec426aad14fadf64d58620cd813794c6fbc3d189e940"
 
 [[files]]
 file = "extra.toml"
@@ -1527,6 +1532,11 @@ metafile = true
 [[files]]
 file = "mods/buildcraft.pw.toml"
 hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
 metafile = true
 
 [[files]]
@@ -1780,6 +1790,11 @@ hash = "8f3d504806f0414b9e38921e1a7b8f6fbdcda3c4ba3ece4eb1c53ecb57ea5fdd"
 metafile = true
 
 [[files]]
+file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
+hash = "2fe8ad52efce14086c7a0db113555da20fdcd91f13499fc3bac01da80cf58534"
+metafile = true
+
+[[files]]
 file = "mods/icbm-classic.pw.toml"
 hash = "f11a4d506da2fd2ddc1fc22b6c7ceb3d39d63dbfe4de401d802749ff95e301a5"
 metafile = true
@@ -1877,6 +1892,11 @@ metafile = true
 [[files]]
 file = "mods/jei.toml"
 hash = "7d15bd3065dfd074bdd3beffe17fe3c64e1a48c65402b243c2846b895766273c"
+metafile = true
+
+[[files]]
+file = "mods/jeid.pw.toml"
+hash = "03caa2eb930e892f0fe87adc97b2c36bd203afa3be7a38ffaefcc94d1fee887f"
 metafile = true
 
 [[files]]
@@ -2125,6 +2145,11 @@ hash = "93d16979ce8714c02e8e13cfb36d7f604e75ca334ec3349bf6d4e8e42f1c5563"
 metafile = true
 
 [[files]]
+file = "mods/reauth.pw.toml"
+hash = "53105a0a24ba4be58571b056a85e09d7f3840777c7a6c6f6520c55620388e77a"
+metafile = true
+
+[[files]]
 file = "mods/recurrent-complex.pw.toml"
 hash = "e57ec26a99b78330ea19d3febd1185ea6de547d7ed11d624c482dbe1e3814f3f"
 metafile = true
@@ -2364,7 +2389,7 @@ hash = "18f3d64fec3709e72422d84ba7d339691e6a27613af35fcd15e02a4e981fb76a"
 
 [[files]]
 file = "scripts/chisel.zs"
-hash = "cd4f9a8032e177f8c44351e56c3b6b8d37f222470cfdfded62229765a268dccd"
+hash = "18db034800a3d3c3168a76ef98ef6b28141550d77214263254af8ae4c6f61036"
 
 [[files]]
 file = "scripts/computronics.zs"
@@ -2380,7 +2405,7 @@ hash = "9db3018b4ced09427d53ec1b5df28c3e541d1a8ed540266cd46342a67637e20b"
 
 [[files]]
 file = "scripts/extrautilities.zs"
-hash = "918f0d7f47a6247b38c81ff2f17676bc9519bb50b26393b8c6b34d3afa8957bd"
+hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 
 [[files]]
 file = "scripts/icbm.zs"
@@ -2433,6 +2458,10 @@ hash = "2b5c776eef44baf88383b49e19836e17b2e5d76fd5180d1eec528832a60a2b1d"
 [[files]]
 file = "scripts/shared.zs"
 hash = "1a3a200bea372bf3f19364d226b26e56820ed6fcfbee5302c390570148a9e035"
+
+[[files]]
+file = "scripts/techguns.zs"
+hash = "bff3b75378e29c5073bcbd055592816cae03ef69ac2e1ca8e7eb8404db613c5b"
 
 [[files]]
 file = "scripts/teslacorelib.zs"

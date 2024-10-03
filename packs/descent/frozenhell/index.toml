@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "23947d5eb8a1dd93e056d9458a87c24cfa140b73287362573d16d473fed93651"
+hash = "feac358f8745b9ab3cdd1851ef1ef185eef8dc6472755c52810c16d4bd7e2b3b"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -935,6 +935,18 @@ hash = "f7e42c229c1301c6e1830b14de07a84175f582f749289102473eec307dee1200"
 [[files]]
 file = "config/hardcoredarkness.cfg"
 hash = "c9c1e3a52c34ba9fcbd9c4232439555af7c9bc8ceefa711ba8bdd9fada53faad"
+
+[[files]]
+file = "config/hbm/assemblerConfig.cfg"
+hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
+
+[[files]]
+file = "config/hbm/hbm.cfg"
+hash = "def99590472ae5dd2f2be7f4c8eb8137d2d28826341b7bf6a4a6f7d920bb3231"
+
+[[files]]
+file = "config/hbm/solinium.cfg"
+hash = "14cdc5fde9bcbc2bcda02e0ce03952ea7d65cd34d5b206291694ce5a9c42309b"
 
 [[files]]
 file = "config/icbmclassic/battery.cfg"

@@ -1,6 +1,5 @@
-Welcome back to Hell!
+Welcome back to Hell.
 
-News:
-- After a long hiatus - the server's back up again! See the changelogs for a full list of changes.
-- Various mods updated and performance improved! Some disused mods have been removed.
-~Vertex and Server Administration
+Patch 1.27.4 Updates:
+- Revised HBM configuration
+- Rebalanced IF Infinity Drill

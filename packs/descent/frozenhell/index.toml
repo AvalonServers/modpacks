@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "feac358f8745b9ab3cdd1851ef1ef185eef8dc6472755c52810c16d4bd7e2b3b"
+hash = "5f3e170f376056060660c09eddc804f9f4b812a8bff60b4e134d4b8517f756af"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -942,7 +942,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "def99590472ae5dd2f2be7f4c8eb8137d2d28826341b7bf6a4a6f7d920bb3231"
+hash = "d96f1bd2bc679c133654c4e8cac0bdbeeb0f2e38060adfadda181f9341b6e9f2"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
@@ -1058,7 +1058,7 @@ metafile = true
 
 [[files]]
 file = "config/industrialforegoing.cfg"
-hash = "3e58842be3c5183d1c688962430d7fac1ad365f67247e8ac9a4d3a7ca4741e91"
+hash = "3526654aad906244ee1b9b857eb7dd65c0e58406df4667d857360a64e1d5b5e0"
 
 [[files]]
 file = "config/industrialrenewal.cfg"
@@ -1178,7 +1178,7 @@ hash = "93f6e82bc9b096c27560b772ed880b7c5144998acd5a0a1c1034acea49ad73d1"
 
 [[files]]
 file = "config/nucleus/motd.txt"
-hash = "f4380b40cd2fac838abfb84e75feb63049d09be3e24d4d6d58b591762a1863e2"
+hash = "2bc4a00ae1e8e800061ef9837e989a670bb2ff995087e03133d9fd67078c96e1"
 
 [[files]]
 file = "config/nucleus/rules.txt"

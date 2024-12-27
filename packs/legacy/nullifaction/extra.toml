@@ -1,2 +1,5 @@
 series = "legacy"
 name = "nullifaction"
+
+[servers.nullifaction]
+name = "Legacy: Nullifaction"

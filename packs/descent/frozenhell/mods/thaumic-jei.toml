@@ -1,13 +1,13 @@
 name = "Thaumic JEI"
-filename = "ThaumicJEI-1.12.2-1.6.0-27.jar"
+filename = "ThaumicJEI-1.12.2-1.7.0.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/2705/304/ThaumicJEI-1.12.2-1.6.0-27.jar"
 hash-format = "sha1"
-hash = "727a6135b172bc8b0f048fe0c2977f54a9d316f0"
+hash = "859b30c956a1cc6e5985b22cfdd7af138c747562"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2705304
+file-id = 5646810
 project-id = 285492

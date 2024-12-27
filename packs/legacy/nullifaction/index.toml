@@ -10,7 +10,7 @@ hash = "6cd9cad2f6068fc36229b5cf215df7c905e12132124869cef4fdfc937778e8f8"
 
 [[files]]
 file = "extra.toml"
-hash = "20a014fedb6b3507b54c43f5a8e14c72f3694afd4dafd9dd8e34859de1d93b79"
+hash = "d733701ad70b5cbd36b70d6d20fc1a0930d1f15a9f77ba16b7c0f294e1ab776c"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"

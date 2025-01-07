@@ -1,4 +1,6 @@
 Welcome back to Hell.
 
-Patch 1.27.5 Updates:
-- Ensure IF is loaded before NTM to prevent biofuel clobbering
+Patch 1.28.0 Updates:
+- Add the first working version of Brutalism
+- Add RenderPlayerAPI to fix some render conflicts with Galacticraft
+- Disable some update checkers

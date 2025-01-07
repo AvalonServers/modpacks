@@ -1,0 +1,13 @@
+name = "RenderPlayerAPI"
+filename = "RenderPlayerAPI-1.12.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "724ee9b41a4177acfde1bbc92885116efe7394ba"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3214251
+project-id = 449533

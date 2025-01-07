@@ -62,7 +62,7 @@ hash = "9894b60938224ca6831c4fccefc3424f67efe237fc1f90056d9ed14f82be5c62"
 
 [[files]]
 file = "config/Galacticraft/core.cfg"
-hash = "18e1f933e84ab5c926931fe0fdeb7daa03d109a4decd58b75878cf84548c5971"
+hash = "b04883f2465b401b30c3d5fd13203d26965f2e405a2329b9722741a8c1c6b69f"
 
 [[files]]
 file = "config/Galacticraft/energy.cfg"
@@ -78,7 +78,7 @@ hash = "a6e8eec7cf4cd1265eb7f164579a31dc2a098db62d711d6f7595ffd1e991b770"
 
 [[files]]
 file = "config/LogisticsPipes.cfg"
-hash = "9b18936ef89ac3d45f0c1cc16a4aa57d68358f22a7c9767a9e5f1aa5eecb413c"
+hash = "3607ddeb394d6d8f0d1a581f2e4d81a39aeedb9aa0d7dc9b1dda6cd37121708f"
 
 [[files]]
 file = "config/MatterOverdrive/MatterOverdrive.cfg"
@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8805f31ae371647fefdd2666b491eda1a0a459bb1c567edd9c9e2b69f36eb9c6"
+hash = "980fed1285fba0e068521a2d3fffa538958122f4c7662eb9924868087025bed6"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -614,7 +614,7 @@ hash = "5a18f60386e911b21c578afcb95cdefdea90b1bb1cef390b99ec89f21fb568fe"
 
 [[files]]
 file = "config/buildcraft/main.cfg"
-hash = "f52d53d0aafd639ebb350f1ac12e63c3768c25f23e43d35ac77a82f957882fe1"
+hash = "0a269e7e53065381ffcc1d279534a7f03a13efeb02f1caeb59468efe977e6a04"
 
 [[files]]
 file = "config/buildcraft/objects.cfg"
@@ -1178,7 +1178,7 @@ hash = "93f6e82bc9b096c27560b772ed880b7c5144998acd5a0a1c1034acea49ad73d1"
 
 [[files]]
 file = "config/nucleus/motd.txt"
-hash = "5a8e4b5bd950bd089d73a0cf31ab2545fc2fb95efd83cb3d154a5c17383acfa1"
+hash = "be1d7531a246ea9c4bdceb22a3872ffeaa201ede02888949c3afa9040a826e42"
 
 [[files]]
 file = "config/nucleus/rules.txt"
@@ -1539,6 +1539,11 @@ metafile = true
 [[files]]
 file = "mods/booster-rockets.pw.toml"
 hash = "7025d4cabd03bcc71ad00e245e293d0300841ad361e1b9525ebe3f9de428ba5d"
+metafile = true
+
+[[files]]
+file = "mods/brutalism.pw.toml"
+hash = "1daa1f2acd21908f3eba89a7cbafce4091b57bd73181ac429634f3455270af81"
 metafile = true
 
 [[files]]
@@ -2192,6 +2197,11 @@ hash = "c7ddef34666ce7837957d261422a0e8252fcdc3dd8fbd6ab3ed470c43541a01b"
 metafile = true
 
 [[files]]
+file = "mods/renderplayerapi.pw.toml"
+hash = "b3325f9b5140eb4cd29f9104bdfc256176932af17bcfbc6d4b034b7194d1ef2c"
+metafile = true
+
+[[files]]
 file = "mods/schematica.pw.toml"
 hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
@@ -2304,11 +2314,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "bc52b6371adcec9e88bf2c12f941d04229b7b85b6dab02f0a5daca43502b1560"
-metafile = true
-
-[[files]]
-file = "mods/tickcentral.pw.toml"
-hash = "d08187625ff57945adfc1f868fa5fea9e3b6accb4b7c8733b0147cab1847fdc9"
 metafile = true
 
 [[files]]

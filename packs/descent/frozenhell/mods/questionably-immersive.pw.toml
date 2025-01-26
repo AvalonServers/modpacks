@@ -3,11 +3,6 @@ filename = "questionablyimmersive-1.12.2-0.1.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d03d3f174e710405842c57552efb2d47cfd14a7"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 2558162
-project-id = 293192
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/questionablyimmersive-1.12.2-0.1.0.jar"
+hash-format = "sha256"
+hash = "692c2c22df41c721cb7961c2a661b9869b4a3ae62012d1460d7a055048cbb24b"

@@ -7,8 +7,7 @@ hash-format = "sha1"
 hash = "f19412a88dc63b1383e45b0378e75c0fdfaefc5e"
 mode = "metadata:curseforge"
 
-# Do not update. See documentation.
-# [update]
-# [update.curseforge]
-# file-id = 3097009
-# project-id = 257818
+[update]
+[update.curseforge]
+file-id = 3097009
+project-id = 257818

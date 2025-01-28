@@ -1,6 +1,8 @@
 Welcome back to Hell.
 
-Patch 1.28.0 Updates:
-- Add the first working version of Brutalism
-- Add RenderPlayerAPI to fix some render conflicts with Galacticraft
-- Disable some update checkers
+Patch 1.29.0 Updates:
+- Update Railcraft and RailcraftTweaker
+- Update Computronics
+- Update OpenComputers
+- Remove Catwalks
+- Add ZI, Computronics and IE connectors to tiquality exclusion list

@@ -1,13 +1,8 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.12.2-1.8.7+2502094.jar"
+filename = "OpenComputers-MC1.12.2-1.8.7-snapshot-20250127+3457e11a6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dc01ab1703ca2a2bb3bb2163287de96a1418457a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6057571
-project-id = 223008
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/OpenComputers-MC1.12.2-1.8.7-snapshot-20250127+3457e11a6.jar"
+hash-format = "sha256"
+hash = "f86bfb5894d268fe30e1439605cc3c8c16d21eeeac51755d5320a7bd7a95ec4e"

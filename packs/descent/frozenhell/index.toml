@@ -102,11 +102,11 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "e8945b8652a95971d954442f29d6c0f9f8323ff6e52351599c86ad1d9449c8bd"
+hash = "49951ec8d543dc88bab11c26ddbaf00341519c26d3bf764dd2d61db9402e54e5"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "028ecff80371a84c607434ff64c1f8e96a5bb5f08f79702b8e173ac66981bbd4"
+hash = "3c949e0a1ddb1fabc44cd8fc4aa4cafe5bd9d3535b2c15a027194cd8533cb575"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -682,7 +682,7 @@ hash = "dd8fe360fde1f67e991ac4b8aab4659506280da1da61ab9b86690bfcbb8edc96"
 
 [[files]]
 file = "config/charset/modules.cfg"
-hash = "37b310358a552b6fa4ea44f0ecc807cb9cf93962ebbb11a79c80fbb2f09f8081"
+hash = "d9521a1ddb6a5d04bee3fd8e4f14d37de9756c91cd76743efb07c0e6af60a0c4"
 
 [[files]]
 file = "config/charset/patches.cfg"
@@ -942,7 +942,15 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "d96f1bd2bc679c133654c4e8cac0bdbeeb0f2e38060adfadda181f9341b6e9f2"
+hash = "ba1a5310aff5fcf188fb77cac5170df6607c6a72052282ab06298a8c902f4161"
+
+[[files]]
+file = "config/hbm/hbm_bedrock_ores.json"
+hash = "99d37f9eb6c879d9cf4363fb26ec923a6b1ac3059755dd506bd905f9e75eb546"
+
+[[files]]
+file = "config/hbm/hbm_dimensions.cfg"
+hash = "6f345bd82e9346e4d426a6ba09ec7a2763d81327a84904bbe2f5ce10ca8a9d33"
 
 [[files]]
 file = "config/hbm/solinium.cfg"
@@ -1006,7 +1014,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/immersiveintelligence.cfg"
-hash = "7169b7228c7f83b7315690ccd8383e8c91b7b27e66c59fcbf3ba24078eb33317"
+hash = "17c1f0df7709fe5f83a994875612defaba656c6b1621c232c2bd58f368612c0e"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
@@ -1154,7 +1162,7 @@ hash = "ece2e1805ebd0f9f5dafa6a8cbe1caca78ed6d1d85a5ecb59fb5fc28535c0899"
 
 [[files]]
 file = "config/modularforcefieldsystem.cfg"
-hash = "43b349b4f381d9201cd1b41e459da5aa6d96bcda63459c8e98168d565366f282"
+hash = "6f6ea874875a9a065a8d4dc2be2b6f0283ffae4936fed2243b0c05b2329361d7"
 
 [[files]]
 file = "config/moreplates.cfg"
@@ -1174,7 +1182,7 @@ hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "93f6e82bc9b096c27560b772ed880b7c5144998acd5a0a1c1034acea49ad73d1"
+hash = "197298cdc998cb71bbebc254364844416a27e7b89d201663e0d3e442424f5ca0"
 
 [[files]]
 file = "config/nucleus/motd.txt"
@@ -1278,7 +1286,7 @@ hash = "73467899b5a66d010aa6b267c1a689615c325e1c589ce4ca7cf8f968a7e7c613"
 
 [[files]]
 file = "config/railcraft/modules.cfg"
-hash = "673eac28eed01c73de5dcca966481b42eef7d1f280efa708bcd64b696d1bb979"
+hash = "dd4e5ea5a6f453fcfecab19d52bfda73ebf12006ab64d5b61c928986b2824a93"
 
 [[files]]
 file = "config/railcraft/ores/mine_copper.cfg"
@@ -1314,7 +1322,7 @@ hash = "97ff8e9b468d73b229af164bd6c9e4a22d67955586b2ed7ef3887d8351642987"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "307f47be655a10560a3dd776a81ea159cc4994736efccf602d3a41d6e6fd7f10"
+hash = "d11e45c9ab4b0efe516cb3faf8399418e82ddbdaa03d7781a6a261c46db5f201"
 
 [[files]]
 file = "config/randompatches.cfg"
@@ -1366,7 +1374,7 @@ hash = "4bdac7fd565fc0bf0e4e55a78c98e6e18c70cf04395cc8190c59626a94a5edb9"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "65bd201c3d16ac80452260f3460545bda9fb7e76ca0d1f24b4189dc5b258f300"
+hash = "e4ef9caae911811a961a08b5b7ad0508bfda65e69e61d35e993447da661116a2"
 
 [[files]]
 file = "config/thaumicenergistics.cfg"
@@ -1378,7 +1386,7 @@ hash = "b63925149157ffec2546b4eedb34fa11dd9f0a02d4344c904c1f0a3236bcae27"
 
 [[files]]
 file = "config/thaumictinkerer.cfg"
-hash = "027be30faaaa7257e92372188456e5bdb56df3ec18f3196a134177797779c8fb"
+hash = "564a30e715628c45663111c53f0563474c445a3b19fdb21549eb6c99f2bbc1e4"
 
 [[files]]
 file = "config/theoneprobe.cfg"
@@ -1538,12 +1546,12 @@ metafile = true
 
 [[files]]
 file = "mods/booster-rockets.pw.toml"
-hash = "7025d4cabd03bcc71ad00e245e293d0300841ad361e1b9525ebe3f9de428ba5d"
+hash = "337bba6cc58f1e856e629b7374f26a9350c59c4d4742980bd3c338fbe1701e17"
 metafile = true
 
 [[files]]
 file = "mods/brutalism.pw.toml"
-hash = "747594abe682b0b8fd6a7b4629ffe90c517eb658574bf2c46ad1a81395be02ce"
+hash = "f617fc530fc3dd4b2d7fc640d3f0d7d7522974d450ac875c7d8422c30186c4f4"
 metafile = true
 
 [[files]]
@@ -1777,11 +1785,6 @@ hash = "8d664576f9dc87d90d544e890c49492aed978728cf171c0ecc541c7495a3cba2"
 metafile = true
 
 [[files]]
-file = "mods/galacticraft-legacy.pw.toml"
-hash = "520e59a5eb106b7f58227e00b5c605ad2f24a20ebaf870dbe91ecb7086b4e42c"
-metafile = true
-
-[[files]]
 file = "mods/gravestone-mod.toml"
 hash = "335eaa8906fd24e1bcdeee3f82319e088246a30c4f2700ae5a282f7ec0486370"
 metafile = true
@@ -1802,8 +1805,8 @@ hash = "d5663fe8e7f3578ba37ba4ef43d37cba66617c30f838e1c815e731eb58b9ab6c"
 metafile = true
 
 [[files]]
-file = "mods/hbms-nuclear-tech-mod-reloaded.pw.toml"
-hash = "2fe8ad52efce14086c7a0db113555da20fdcd91f13499fc3bac01da80cf58534"
+file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
+hash = "42903814468c70ada580d9b496d896743ac9b245981d43a2aebc913771491e35"
 metafile = true
 
 [[files]]
@@ -1828,7 +1831,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "52aff2ac33f10c93c3ebae3f39df0be951343059595e18c103e870e43c738ac6"
+hash = "4aedf3d154060e47be7292babc1738bd4d1738a673b07630d96a1c3eac7d3095"
 metafile = true
 
 [[files]]
@@ -1838,12 +1841,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "fba2683f103987f5060d49582db75690dba5243f6fb745c6a3a0197b288e8608"
+hash = "27f6111639a8a7e5ba1d992db30ea8dce0585f36771fab5e39a58ebcf689ccee"
 metafile = true
 
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
-hash = "d8088049695195e90a4a4b9d3a12ee8addf6d3df5635afca4ca3403ef93e56ae"
+hash = "ea889d415cc5f987ba06ceeb770c347f206352163181bf474c3c3d84078a9499"
 metafile = true
 
 [[files]]
@@ -2022,11 +2025,6 @@ hash = "89814f8f8f56b7cb826bb9606298f0985bbfb6ae4059964b801ccecfc3ede1ef"
 metafile = true
 
 [[files]]
-file = "mods/no-worldgen-5-you.pw.toml"
-hash = "c592d8593cd1519173c7c9d024fa0f8ecb73c451b6c5d8f5edf50bf396d60d63"
-metafile = true
-
-[[files]]
 file = "mods/nuclearcraft-mod.pw.toml"
 hash = "de9beab9ba1f4f2a60c2d92fa5e63f951a46cc3dd18e2e0244044b03a0711b56"
 metafile = true
@@ -2138,7 +2136,7 @@ metafile = true
 
 [[files]]
 file = "mods/questionably-immersive.pw.toml"
-hash = "a5fa651c5e1cd76230129d25f3fedd516993a0c716b56250b08b3c7290b86d7c"
+hash = "f59169a19c1c895db4eec0d8d2e5fe2e6017aab9625d2bbb97bfcdfbc85f88b9"
 metafile = true
 
 [[files]]
@@ -2208,7 +2206,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "30baf3b03af0c64606bd16fdbeda89666d8f4d925fbf4dc0bef21db36cc417f4"
+hash = "038e5f0c24e75f160cd32c4d29f871b98850d2170e577996bb93ebf459b0f5df"
 metafile = true
 
 [[files]]
@@ -2333,7 +2331,7 @@ metafile = true
 
 [[files]]
 file = "mods/traffic-control.pw.toml"
-hash = "cfa0fd9cdead556549e3b41c1cd8b3db045d7b2324132db741c4b88acd788310"
+hash = "7405cf02e21b5aa8cedffe5615c3ef90e5e649ed8e4b07328b83c3933b667f27"
 metafile = true
 
 [[files]]
@@ -2422,10 +2420,6 @@ hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 [[files]]
 file = "scripts/icbm.zs"
 hash = "d72777a3d0d389dd4cd3eced202cc15cef1af34b40d78f7d2993b4178bd8bc4e"
-
-[[files]]
-file = "scripts/idkcraptitaniumfix.zs"
-hash = "efb357cbb6e6f8f435eab7411f73353bb707237e8675ce6cfd125f7a6f2bd3ee"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"

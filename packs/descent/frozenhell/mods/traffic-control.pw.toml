@@ -3,11 +3,7 @@ filename = "trafficcontrol-1.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "34d3edaeac9c6ed0c81c312543be26b1797a07ba"
-mode = "metadata:curseforge"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/trafficcontrol-1.1.1.jar"
+hash-format = "sha256"
+hash = "e12e262172042f45c41bde8e70d409b904bb871b792aa7631a90fa39608a2b53"
 
-[update]
-[update.curseforge]
-file-id = 5185185
-project-id = 310701

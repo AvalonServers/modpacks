@@ -3,11 +3,6 @@ filename = "immersivepetroleum-1.12.2-1.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dd0ec378fef19acc7cf649be13ced76aa72e42ac"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3382321
-project-id = 268250
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersivepetroleum-1.12.2-1.1.10.jar"
+hash-format = "sha256"
+hash = "83c0377c46e0935a35f7d6f0f8454a67608dc92e79d2bf19621a0284224f6dd7"

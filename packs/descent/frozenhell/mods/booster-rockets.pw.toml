@@ -3,11 +3,6 @@ filename = "BoosterRockets-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2501/831/BoosterRockets-1.1.1.jar"
-hash-format = "sha1"
-hash = "56ea4a85343f5ece5b4ee7cf326c0a698fa4ba00"
-
-[update]
-[update.curseforge]
-file-id = 2501831
-project-id = 255639
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/BoosterRockets-1.1.1.jar"
+hash-format = "sha256"
+hash = "d5a96901cdc78fa7d6e4fa9d857065714297f70cc820be1f92d75835ca36f381"

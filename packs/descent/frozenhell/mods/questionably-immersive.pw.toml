@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/questionablyimmersive-1.12.2-0.1.0.jar"
 hash-format = "sha256"
-hash = "692c2c22df41c721cb7961c2a661b9869b4a3ae62012d1460d7a055048cbb24b"
+hash = "dd8ee981bfa822c9994440e7d0bab1824c174ae3765dcd9138213df506a88415"

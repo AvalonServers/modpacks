@@ -3,11 +3,6 @@ filename = "spark-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1b0f0591b5eb4e688ebb3f0ecf41858688b033fb"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3542217
-project-id = 361579
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/spark-forge.jar"
+hash-format = "sha256"
+hash = "00050dca2af50947bd4c3b6c9acee7b70d2f33829bde965404ee4a59dc7ecc89"

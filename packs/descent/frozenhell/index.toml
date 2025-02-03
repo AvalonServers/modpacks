@@ -102,7 +102,7 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "49951ec8d543dc88bab11c26ddbaf00341519c26d3bf764dd2d61db9402e54e5"
+hash = "688159ff2a9f48215a25735b753b6ab4ce7b1970d1fabc28644d40789fbbcdf7"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -942,7 +942,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "ba1a5310aff5fcf188fb77cac5170df6607c6a72052282ab06298a8c902f4161"
+hash = "34759bb3fc1b47bc67c454e4db0fb99c635fce1b4553248df2464de8e85101e2"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1006,7 +1006,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "546f3b5e18099af31080f6d772d817de018f572e749c0d06ece2ed9b704e5905"
+hash = "7a0822f9214a104aa1a223a7f0b49e9001773d5d1849f9031cc53d591e1115c2"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -1014,7 +1014,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/immersiveintelligence.cfg"
-hash = "17c1f0df7709fe5f83a994875612defaba656c6b1621c232c2bd58f368612c0e"
+hash = "7cdd66f505ab1b8e5360142db6f55e0854286387e5d287d3b2e600c2831f5f6f"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
@@ -1182,7 +1182,7 @@ hash = "a244ca97d15ad37abae706d6a0dd23bb407cce608c457b23e57ac9a44fe30746"
 
 [[files]]
 file = "config/nuclearcraft.cfg"
-hash = "197298cdc998cb71bbebc254364844416a27e7b89d201663e0d3e442424f5ca0"
+hash = "f7154fd2790ae602a43fbbd4d50495547d403b34875411263942c4b7235fecbd"
 
 [[files]]
 file = "config/nucleus/motd.txt"
@@ -1950,11 +1950,6 @@ hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
-file = "mods/magneticraft.pw.toml"
-hash = "b1437a01f09854d599a2e09bebbd5a9630453dd5f32b261dd90c2f7b3ce6b544"
-metafile = true
-
-[[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "57ec9312f4215500571e119bbf7ce8006382b5d3c70c4aa5c1507a46a844b91e"
 metafile = true
@@ -2026,7 +2021,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclearcraft-mod.pw.toml"
-hash = "de9beab9ba1f4f2a60c2d92fa5e63f951a46cc3dd18e2e0244044b03a0711b56"
+hash = "8fb67627ab30327ff984716363c01cb564fef61d200e3c8f7841991f7e062c3e"
 metafile = true
 
 [[files]]

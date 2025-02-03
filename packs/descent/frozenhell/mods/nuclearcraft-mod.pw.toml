@@ -1,13 +1,8 @@
 name = "NuclearCraft"
-filename = "nuclearcraft-1.12.2-2.19.jar"
+filename = "nuclearcraft-1.12.2-2.19a.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "49f7951be1ede869c5dc7c14f88be4261885340b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5340979
-project-id = 226254
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/nuclearcraft-1.12.2-2.19a.jar"
+hash-format = "sha256"
+hash = "686366bc3db9bf7835ee5bcfc560ae8a46a35178ba0666ac24002ccb2e91e905"

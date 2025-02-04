@@ -1,0 +1,8 @@
+name = "Charset"
+filename = "Charset-0.5.6.6.jar"
+side = "both"
+
+[download]
+url = "https://asie.pl/files/mods/Charset/Charset-0.5.6.6.jar"
+hash-format = "sha256"
+hash = "adeeebeb8a37e2fcb27651fec0c8d2153ac568a10b429bddf9d3ac509e0a5cbd"

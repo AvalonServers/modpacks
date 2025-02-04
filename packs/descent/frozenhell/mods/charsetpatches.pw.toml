@@ -1,0 +1,8 @@
+name = "CharsetPatches"
+filename = "CharsetPatches-0.1.8.jar"
+side = "both"
+
+[download]
+url = "https://asie.pl/files/mods/Charset/CharsetPatches-0.1.8.jar"
+hash-format = "sha256"
+hash = "3e07f03fe168d674f96a69fadca88676dcff8205fa7b6f904edd964358fce034"

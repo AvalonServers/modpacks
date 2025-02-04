@@ -158,7 +158,7 @@ hash = "cd122a58a6b782a234099c554ac503a298438d078ce8469bc5f49983ef77c3e0"
 
 [[files]]
 file = "config/alternatingflux.cfg"
-hash = "4c0cbc515787230f258c3f30077851b26e3e7455cebea755bf7d2e0bef87228d"
+hash = "86764e61ab5cd9d9a50c1d22a837593f05f3f717cd34bc08c87b25d867464a37"
 
 [[files]]
 file = "config/asielib.cfg"
@@ -942,7 +942,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "34759bb3fc1b47bc67c454e4db0fb99c635fce1b4553248df2464de8e85101e2"
+hash = "bd125199053147907ab12310bfdfe9d949e8b71850b4d247cd7385024c14b3e6"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1580,48 +1580,13 @@ hash = "50c7c2a60e5cc29b662d0b46e1e6f36c1ad342dfd03e76639ba723becdb2b353"
 metafile = true
 
 [[files]]
-file = "mods/charset-audio.toml"
-hash = "5e4a4a8d3c233a6462beab997ba3f55584103d8f9757c9d1c2eea7e6ef5f0a7c"
+file = "mods/charset.pw.toml"
+hash = "a511cecff67d9f8b3f2499be665773c23894fb1307f35557843655a05d359671"
 metafile = true
 
 [[files]]
-file = "mods/charset-block-carrying.toml"
-hash = "50ee09c57edb43b44090b03061d8c5ab0ba7495436dbcea5af827c32cd033976"
-metafile = true
-
-[[files]]
-file = "mods/charset-immersion.toml"
-hash = "da62e9a4b484371d7d07bbfb28a4b43c4b8fe779ee8c68d7dd0818fd97d5e790"
-metafile = true
-
-[[files]]
-file = "mods/charset-lib.pw.toml"
-hash = "80c5b46a51c4c09b1971ab37b4e269eaa843f6e6a3d4949ba52ca34de1304b06"
-metafile = true
-
-[[files]]
-file = "mods/charset-storage-locks.toml"
-hash = "a5b2c9ac3eafea5403568f955648082ab83e076e0ab59adecd6e0fc439d68345"
-metafile = true
-
-[[files]]
-file = "mods/charset-tablet.toml"
-hash = "a7fe69f12fe068da5038e0b33efc9901919058270d3dc09f30b4eb08d7dbde10"
-metafile = true
-
-[[files]]
-file = "mods/charset-tools.toml"
-hash = "7ced3f2031c4d01da575752de0ff4fcfc17be0877f79434fe5bcedbf506a2b0e"
-metafile = true
-
-[[files]]
-file = "mods/charset-tweaks.toml"
-hash = "b8c44e19462b1aabf8a7742236dbc422bcf2e6314ed51964ee921e95367d7206"
-metafile = true
-
-[[files]]
-file = "mods/charsetpatches.toml"
-hash = "1425e222b6d861a6a7db19190cc037b5080aa8a480e8a1e4654c0ce3774cf63c"
+file = "mods/charsetpatches.pw.toml"
+hash = "8b41becd0ee03fa2e330648a4c18266b117a0e87c7e6766c355297a3a7fc221b"
 metafile = true
 
 [[files]]

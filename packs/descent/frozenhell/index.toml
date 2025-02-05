@@ -102,7 +102,7 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "688159ff2a9f48215a25735b753b6ab4ce7b1970d1fabc28644d40789fbbcdf7"
+hash = "1ec1974427235b37395c03f834d28ccc9820adb497be25dadab2a112a7e9009c"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -1006,7 +1006,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "7a0822f9214a104aa1a223a7f0b49e9001773d5d1849f9031cc53d591e1115c2"
+hash = "ad7ec092bbcfd87fd6a594a6003a7451deec55514b1f63305c39d8f0355636f7"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "6525b639ad7c37523a0f945b9f810b6908cfbbe1e3e5e6ac91ad9ec370e2d204"
+hash = "843b447259fae4ddbf33e53a074af7a74dc399011aad252b02ea537677398abd"
 metafile = true
 
 [[files]]

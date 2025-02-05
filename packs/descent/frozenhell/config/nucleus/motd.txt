@@ -1,8 +1,14 @@
 Welcome back to Hell.
 
-Patch 1.29.0 Updates:
-- Update Railcraft and RailcraftTweaker
-- Update Computronics
-- Update OpenComputers
-- Remove Catwalks
-- Add ZI, Computronics and IE connectors to tiquality exclusion list
+Patch 1.30.0 Updates:
+- Modify IE Connector tickrate to twice per second
+- Adjust connector and wire throughput to compensate for this as well as machine reservoirs
+- Update Brutalism to introduce Tiquality hover overlay in TOP and patch some exceptions
+- Update Charset to fix tile entity bugs
+- Patch a ClassCastException in Industrial Renewal
+- Add HBM dusts to the Factorizer and the Arc Furnace
+- Replace NuclearCraft with a stripped down version to prevent conflicts with HBM
+- Replace HBM Reloaded with Extended
+- Disable shaders for various mods to prevent issues
+- Replace shaders in the various IE mods to ensure OpenGL shader version 120 compatibility
+- Replace Railcraft with an experimental updated version to fix high speed track issues

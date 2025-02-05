@@ -1,8 +1,8 @@
 name = "Immersive Technology"
-filename = "MCTImmersiveTechnology-1.12.2-1.9.101.jar"
+filename = "MCTImmersiveTechnology-1.12.2-1.9.102.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/MCTImmersiveTechnology-1.12.2-1.9.101.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/MCTImmersiveTechnology-1.12.2-1.9.102.jar"
 hash-format = "sha256"
-hash = "2852dc958a0e5684eaf776d6e49ecb703e56f82560f20c2b3fa97aa08c0ac3e4"
+hash = "b312c36cba77990cfb74037689d581b5541d23141450c2ee8d49513263eb8c30"

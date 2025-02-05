@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/brutalism-1.0.0.jar"
 hash-format = "sha256"
-hash = "c3bfa75179dc44413de1fddd1be4e0c9d47cfa844ecf78efbc0620acad8bf012"
+hash = "6f4c9530bd9bc24c93389d58e1762f878dc0ac78ac5a1c070255b19d5fc66df9"

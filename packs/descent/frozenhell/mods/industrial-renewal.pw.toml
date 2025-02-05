@@ -3,11 +3,6 @@ filename = "IndustrialRenewal_1.12.2-0.21.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3d3d77cc3eb341200c81e0c3ef2dec69ffc69521"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3340876
-project-id = 299849
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/IndustrialRenewal_1.12.2-0.21.8.jar"
+hash-format = "sha256"
+hash = "70150eca67ccbee04233ba093f78db09bd99855847252ce7f567d4d3c1953fde"

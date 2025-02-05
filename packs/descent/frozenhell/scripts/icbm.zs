@@ -2,6 +2,9 @@ recipes.removeByRecipeName("icbmclassic:explosives/nuclear");
 recipes.removeByRecipeName("icbmclassic:explosives/antimatter");
 recipes.removeByRecipeName("icbmclassic:explosives/redmatter");
 
+// remove recipe for steel plates
+recipes.removeByRecipeName("icbmclassic:parts/plate.steel");
+
 // var plutonium = <ore:fuelHEP239>;
 
 // # nuclear (force u235)

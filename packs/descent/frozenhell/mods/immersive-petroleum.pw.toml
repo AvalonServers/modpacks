@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersivepetroleum-1.12.2-1.1.10.jar"
 hash-format = "sha256"
-hash = "83c0377c46e0935a35f7d6f0f8454a67608dc92e79d2bf19621a0284224f6dd7"
+hash = "19eabd3a220fcdc06a28b399beb333dae017120fcd128625bf271e06b4aeb0c2"

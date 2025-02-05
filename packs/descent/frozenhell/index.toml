@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "3449075d6137388ee99b2d8e70a124527c306f3b61e9186e8fbb203c2654846f"
+hash = "e7fc525510c8e223feeb0d59841389ed6940dca6acb49bf614f69b67ffb534ef"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -1014,7 +1014,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/immersiveintelligence.cfg"
-hash = "7cdd66f505ab1b8e5360142db6f55e0854286387e5d287d3b2e600c2831f5f6f"
+hash = "6d583df60a1e357a61160555898641bab2b560c0fa3619bedfa1ba21d87ba0e7"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
@@ -1150,7 +1150,7 @@ hash = "3d281ea92837bda8f042edba7173a1a1410614b013d2fe9ef650a1be89ae85b3"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "b6851f0dd1bdb7238c532902052f681bebbf82511c181db4b3a460472a740dc8"
+hash = "41e1d9aefbe84e1c88274632edbd08c45bcd48f81ce5a6f786f2f0c1722a2730"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -1186,7 +1186,7 @@ hash = "f7154fd2790ae602a43fbbd4d50495547d403b34875411263942c4b7235fecbd"
 
 [[files]]
 file = "config/nucleus/motd.txt"
-hash = "0cb67047da272a6b80042e6c8138e4bde6fff86eadd3899c1636ab6ea9b74b70"
+hash = "1e9f81beac39abd6597d3ed5194aa394ed9a8c1378a7bb44ae20f08c62ed43ac"
 
 [[files]]
 file = "config/nucleus/rules.txt"
@@ -1551,7 +1551,7 @@ metafile = true
 
 [[files]]
 file = "mods/brutalism.pw.toml"
-hash = "f617fc530fc3dd4b2d7fc640d3f0d7d7522974d450ac875c7d8422c30186c4f4"
+hash = "65b63df46e6e1070b905bd9ab9384627a3a068078adb540e80364edd38975728"
 metafile = true
 
 [[files]]
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "4aedf3d154060e47be7292babc1738bd4d1738a673b07630d96a1c3eac7d3095"
+hash = "6525b639ad7c37523a0f945b9f810b6908cfbbe1e3e5e6ac91ad9ec370e2d204"
 metafile = true
 
 [[files]]
@@ -1811,7 +1811,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-petroleum.pw.toml"
-hash = "ea889d415cc5f987ba06ceeb770c347f206352163181bf474c3c3d84078a9499"
+hash = "040f6577ce4e2684e85d4e2881ca84ea07968f86b525d27aabddb7b7b1ceeafe"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-renewal.pw.toml"
-hash = "41bc6b21cfe69d583ee595d9691ac082bf5a8a950777199df2df537e268b33de"
+hash = "f9fb520ac865221d3111e495859e1575aabcf6be3c03332a1a1903a1b98086e0"
 metafile = true
 
 [[files]]
@@ -1926,7 +1926,7 @@ metafile = true
 
 [[files]]
 file = "mods/mct-immersive-technology.pw.toml"
-hash = "04f690d14ba87e8b15f80c142abfa48d914d97258068c7b83c83fe802e869c1e"
+hash = "d2ab54277ee473dcf10b7eafb0dee5272411c35c3e1b0726fe3abc9aca47949c"
 metafile = true
 
 [[files]]
@@ -2378,8 +2378,12 @@ file = "scripts/extrautilities.zs"
 hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 
 [[files]]
+file = "scripts/hbm.zs"
+hash = "83214925c3898a5556d92e47828bdb981e3af2dbe8175cd4c45ff359ab3aaca1"
+
+[[files]]
 file = "scripts/icbm.zs"
-hash = "d72777a3d0d389dd4cd3eced202cc15cef1af34b40d78f7d2993b4178bd8bc4e"
+hash = "3a6be7d0c595b73cb050ecc6e19ebc4ef9dae2001dde6d3a44b544e746ec4627"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"
@@ -2435,7 +2439,7 @@ hash = "f38bad5771077d5e7ec9e4b407a2d24d542ed4db31c24243494614d12e38bd74"
 
 [[files]]
 file = "scripts/thaumcraft.zs"
-hash = "42d522b2d6613604cfce2e02470b72aef7aecd8c51105ec282a6e04ab5a65994"
+hash = "2f25c09f1f23c4b80e504ca8fcc8d93ebb301e04aea816c829a70aa34a9320ba"
 
 [[files]]
 file = "scripts/thermaldynamics.zs"

@@ -2,6 +2,11 @@ import mods.thaumcraft.Infusion;
 import mods.thaumcraft.Crucible;
 import mods.thaumcraft.ArcaneWorkbench;
 
+// remove regular crafting plate recipes
+recipes.removeByRecipeName("thaumcraft:brassplate");
+recipes.removeByRecipeName("thaumcraft:ironplate");
+recipes.removeByRecipeName("thaumcraft:thaumiumplate");
+
 # primordial and crimson portal
 Infusion.registerRecipe("dfhPrimordial", "", <thaumcraft:primordial_pearl>, 20, [<aspect:aer>*100, <aspect:terra>*100, <aspect:ignis>*100, <aspect:aqua>*100, <aspect:ordo>*100, <aspect:perditio>*100], <ore:netherStar>, [
     <thaumcraft:causality_collapser>,

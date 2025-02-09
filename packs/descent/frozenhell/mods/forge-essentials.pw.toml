@@ -1,0 +1,8 @@
+name = "ForgeEssentials"
+filename = "forgeessentials-1.12.2-12.5.0-server.jar"
+side = "server"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/forgeessentials-1.12.2-12.5.0-server.jar"
+hash-format = "sha256"
+hash = "18cbf7bd9719db91a9006b46ca42de15547a3bedafd963919f80c86518478f3f"

@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/NTM-Extended-1.12.2-2.0.2.jar"
 hash-format = "sha256"
-hash = "d9f13263f44eefd3bd3a14bfcf6be0ed07c49bee63a4d12045bd969cc3bb518a"
+hash = "d8136768a6e17fd7d8fd5f9fed34742712c63aef9f0808882e7d4fdbba22a01c"

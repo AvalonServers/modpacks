@@ -3,11 +3,6 @@ filename = "NTM-Extended-1.12.2-2.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "634c73edff4010f26d6239b3b3b7bae68ec87280"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5254559
-project-id = 708939
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/NTM-Extended-1.12.2-2.0.2.jar"
+hash-format = "sha256"
+hash = "d9f13263f44eefd3bd3a14bfcf6be0ed07c49bee63a4d12045bd969cc3bb518a"

@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/MCTImmersiveTechnology-1.12.2-1.9.102.jar"
 hash-format = "sha256"
-hash = "b312c36cba77990cfb74037689d581b5541d23141450c2ee8d49513263eb8c30"
+hash = "e16bbf34026978ce8427706902b593ef0f600bdbdb56bb6d179f0049eeb6e5a4"

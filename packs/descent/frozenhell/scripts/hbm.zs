@@ -17,3 +17,18 @@ ArcFurnace.addRecipe(<hbm:ingot_neodymium>, <hbm:powder_neodymium>, null, 100, 5
 ArcFurnace.addRecipe(<hbm:ingot_cobalt>, <hbm:powder_cobalt>, null, 100, 512);
 ArcFurnace.addRecipe(<hbm:ingot_niobium>, <hbm:powder_niobium>, null, 100, 512);
 ArcFurnace.addRecipe(<hbm:ingot_cerium>, <hbm:powder_cerium>, null, 100, 512);
+ArcFurnace.addRecipe(<hbm:ingot_titanium>, <hbm:powder_titanium>, null, 100, 512);
+
+// Replace geiger counter recipe
+recipes.removeByRecipeName("hbm:geiger_counter");
+recipes.addShaped(<hbm:geiger_counter>, [[<ore:ingotGold>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:wireGold>, <ore:circuitBasic>, <ore:plateSteel>], [<ore:wireGold>, <ore:ingotBeryllium>, <ore:ingotBeryllium>]]);
+
+// Add recipes to oredict
+<ore:wireGold>.add(<hbm:wire_gold>);
+<ore:wireTungsten>.add(<hbm:wire_tungsten>);
+<ore:wireAluminium>.add(<hbm:wire_aluminium>);
+<ore:wireCopper>.add(<hbm:wire_copper>);
+
+<ore:circuitBasic>.add(<hbm:circuit_aluminium>);
+<ore:circuitAdvanced>.add(<hbm:circuit_copper>);
+<ore:circuitElite>.add(<hbm:circuit_red_copper>);

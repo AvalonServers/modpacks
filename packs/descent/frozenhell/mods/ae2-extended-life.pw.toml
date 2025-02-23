@@ -1,13 +1,8 @@
 name = "AE2 Unofficial Extended Life"
-filename = "ae2-uel-v0.56.6.jar"
+filename = "ae2-uel-v0.56.6-11-g7f2318f.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5cdc64def700aa1554bca3584dc3d278ba608d22"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5411078
-project-id = 570458
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/ae2-uel-v0.56.6-11-g7f2318f.jar"
+hash-format = "sha256"
+hash = "89b32299c074556c5d9add4f6235be59962b5edcf25426e8d0e66011c97df512"

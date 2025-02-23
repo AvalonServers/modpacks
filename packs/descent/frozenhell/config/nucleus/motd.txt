@@ -1,5 +1,15 @@
 Welcome back to Hell.
 
+Patch 1.31.0 Updates:
+- Revert IE connector tickrate changes
+- Increase AF cable transfer rates to integer max value
+- Double pumpjack power consumption and speed to allow for more compact oilfields
+- Remove unnecessary blocks (OC screens, ZI connectors) from Tiquality exclusion list
+- Tick limit Railcraft track switches, IR multiblocks, and HBM wires/ducts
+- Move HBM models to VBOs to significantly increase render performance (~10FPS -> 70FPS)
+- Optimise some code in Universal Mod Core
+- Add Wireless Redstone CBE for long-distance redstone automation setups
+
 Patch 1.30.0 Updates:
 - Modify IE Connector tickrate to twice per second
 - Adjust connector and wire throughput to compensate for this as well as machine reservoirs

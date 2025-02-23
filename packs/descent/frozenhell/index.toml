@@ -102,11 +102,11 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "b51dd47a8fac50a0bf55a35c832be42e0c9f3925c162dbccc7e46b80a2da5dce"
+hash = "2f2b896bc4e07929eae6be1cfdb5219113856af4fd38d6dd406476d4e5ff2646"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "d30711406fa99da8fde1fdda8f77028b143c554998015d8c26a4af35c97950e3"
+hash = "a6660c954991a8645f85513f7883f8c5549eff7c3bc587bdf28795159d16bd41"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -114,7 +114,7 @@ hash = "82f84d34bbcecd8b950e45f9ebd2fa3df44d602d02b80c989ec10833b380bec6"
 
 [[files]]
 file = "config/Universal Tweaks - Mod Integration.cfg"
-hash = "5128e6d6843b7105db980d7916ac716bbaed5d493d3a0f289e8f2734c365a4f5"
+hash = "7dda3ec7000a5d7007dee8fa0c49448eeb88ce8899e2adf64a3ac0b0e6b865bc"
 
 [[files]]
 file = "config/Universal Tweaks - Tweaks.cfg"
@@ -158,7 +158,7 @@ hash = "cd122a58a6b782a234099c554ac503a298438d078ce8469bc5f49983ef77c3e0"
 
 [[files]]
 file = "config/alternatingflux.cfg"
-hash = "e901c00d0b51753c7500790b03ea0ef40be37d1a6f1b60e926c8a3386b186e75"
+hash = "3d1959b466d64f5415c99551c05f2d770022f3bfea7c195841bfe1fa5fb46a39"
 
 [[files]]
 file = "config/asielib.cfg"
@@ -170,7 +170,7 @@ hash = "a9315b90c46fb0877e462a74e7f3b8c7acabcd7a67bae095aa5908ea6877ec5e"
 
 [[files]]
 file = "config/bcc.json"
-hash = "e7fc525510c8e223feeb0d59841389ed6940dca6acb49bf614f69b67ffb534ef"
+hash = "6db72978673c7bdd32b7d26475a0057cd6246030b52b3bfb7f670e6ccee9ce3c"
 
 [[files]]
 file = "config/betterbuilderswands.cfg"
@@ -682,7 +682,7 @@ hash = "dd8fe360fde1f67e991ac4b8aab4659506280da1da61ab9b86690bfcbb8edc96"
 
 [[files]]
 file = "config/charset/modules.cfg"
-hash = "d9521a1ddb6a5d04bee3fd8e4f14d37de9756c91cd76743efb07c0e6af60a0c4"
+hash = "3285e1d0e4e580f7d708b791c099f6202af8083617ccf72d53d49adf50dc7fa1"
 
 [[files]]
 file = "config/charset/patches.cfg"
@@ -762,7 +762,7 @@ hash = "e175bd403da638a6230e4727c88a448e9d7d40934b914548392625d5f53ba5aa"
 
 [[files]]
 file = "config/cofh/thermalfoundation/lexicon-whitelist.cfg"
-hash = "549652d67c872d209ec1879c36c2b5e8fbdc1106688582a1491b6c750ab55fde"
+hash = "d665c11cb25b6ef8f96ad98a27a44741621fe860248b29f58e8170bc45440dbc"
 
 [[files]]
 file = "config/cofh/world/00_minecraft.json"
@@ -866,7 +866,7 @@ hash = "be1a1c219ea12dcaed98567c9a54aba3c54c801a9971b1c9a77e413b7f1fbd73"
 
 [[files]]
 file = "config/enderio/enderiomachines.cfg"
-hash = "6f1b4d0c73b133119e985301c19e79a54f7f50824eb75a67f5dba20c65e3d508"
+hash = "8d6d3f85d474cfadf50589e40a2feb08b5177238ef585c4f5f41ead9580946b3"
 
 [[files]]
 file = "config/enderio/enderiopowertools.cfg"
@@ -942,7 +942,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "043b3cf307ffaa9c127270584e376468e5d6c6f7a8318ade0df09b98db63dd02"
+hash = "d6e24facf561d190e935122b46830ea74cffdd6e9e8bbfcc4382e4a5b08ce373"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1006,7 +1006,7 @@ hash = "71ec5962556cf223f4620c9fa344bc9351baffd14416f87e6bf9b988100ef81f"
 
 [[files]]
 file = "config/immersiveengineering.cfg"
-hash = "d4a9c8010e31d7d9fe1984a89aa89c2114db65cbe8f0192bbfdf93f8a80c310e"
+hash = "c934e702c7c1a72a3d0ca88987b35927c3519eb4f8a0cfcfeba9ac5a6390e696"
 
 [[files]]
 file = "config/immersivefloofs.cfg"
@@ -1018,7 +1018,7 @@ hash = "7cdd66f505ab1b8e5360142db6f55e0854286387e5d287d3b2e600c2831f5f6f"
 
 [[files]]
 file = "config/immersivepetroleum.cfg"
-hash = "5b9ff4efe7023206ffe6dbc35e7b2a94670ff35cfdce8f161ffe3a030cd525f5"
+hash = "26001d416dd3feb25a22fadb1647bd1194e296d499ee753e779e8b7e5155aa0d"
 
 [[files]]
 file = "config/immersiverailroading.cfg"
@@ -1186,7 +1186,7 @@ hash = "f7154fd2790ae602a43fbbd4d50495547d403b34875411263942c4b7235fecbd"
 
 [[files]]
 file = "config/nucleus/motd.txt"
-hash = "1e9f81beac39abd6597d3ed5194aa394ed9a8c1378a7bb44ae20f08c62ed43ac"
+hash = "8f2b22ab889f5e4921c7fad260c6b4c7cd6485a33559ce23e5dd893c08532ea8"
 
 [[files]]
 file = "config/nucleus/rules.txt"
@@ -1214,7 +1214,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "3a37ac152bde5daaac512c06edba8874dc84190b13850ca4704744f824489588"
+hash = "f166a42acf97db3c0fd9696582a60402e14a80abb400325cfe3eb0d45de1cd52"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -1322,7 +1322,7 @@ hash = "97ff8e9b468d73b229af164bd6c9e4a22d67955586b2ed7ef3887d8351642987"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "d11e45c9ab4b0efe516cb3faf8399418e82ddbdaa03d7781a6a261c46db5f201"
+hash = "033afce626c4c87d02d6dc679355bc57f57229e549c42c5ff242e4ee5b0632b0"
 
 [[files]]
 file = "config/randompatches.cfg"
@@ -1374,7 +1374,7 @@ hash = "4bdac7fd565fc0bf0e4e55a78c98e6e18c70cf04395cc8190c59626a94a5edb9"
 
 [[files]]
 file = "config/thaumicaugmentation.cfg"
-hash = "e4ef9caae911811a961a08b5b7ad0508bfda65e69e61d35e993447da661116a2"
+hash = "776aef7d4327cc1dbe337ad3cdb852404a5519bcb8bb6f5124261ff1494fdf08"
 
 [[files]]
 file = "config/thaumicenergistics.cfg"
@@ -1495,13 +1495,8 @@ file = "marytts/voice-dfki-prudence-hsmm.toml"
 hash = "5f4bbd7b90c5dc422a39dbf3330576996dd7b07ed269082dd42f4ae68d73ef53"
 
 [[files]]
-file = "mods/advanced-chimneys.pw.toml"
-hash = "32c06a4f8be53f56b83231d5949312bc2d0289a9c16860623d6a678e2bf8cfa4"
-metafile = true
-
-[[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "b0db116adb0cfd8b765ca88d24db5adfa562259252a34d5446fb63b11c52ea17"
+hash = "9ec1e3f04fc319264eebed3b6ac760543f220aadb0335d9ef8114c3ead8fe33e"
 metafile = true
 
 [[files]]
@@ -1551,22 +1546,12 @@ metafile = true
 
 [[files]]
 file = "mods/brutalism.pw.toml"
-hash = "65b63df46e6e1070b905bd9ab9384627a3a068078adb540e80364edd38975728"
-metafile = true
-
-[[files]]
-file = "mods/buildcraft.pw.toml"
-hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
+hash = "832761f4f43097e8350a6a3e251bb733078c8022ea06422183322e0ce93b59b9"
 metafile = true
 
 [[files]]
 file = "mods/building-gadgets.pw.toml"
 hash = "c8ee6b8c56dc5011af73660d1063d881376b6d66b7b3686c6ab73edb6f598c14"
-metafile = true
-
-[[files]]
-file = "mods/bungeeforge.pw.toml"
-hash = "c8aba36bd641b9f31a66c788a8509423d8ecd82318d4c483388d6bb2ba58a7ad"
 metafile = true
 
 [[files]]
@@ -1695,6 +1680,11 @@ hash = "90b8f96283a98af81b8a4826e9544ec4326cdcadc72930a76e1c19bc46fdb443"
 metafile = true
 
 [[files]]
+file = "mods/ender-utilities.pw.toml"
+hash = "a3ecad183e72502c28fbb52aa55c7edcade0ae686e7610e55c4922be149bf973"
+metafile = true
+
+[[files]]
 file = "mods/endercore.toml"
 hash = "f41bf1c7154b656b303822ea5fe596d4afc97c5712facf03c244d08ae9c129d3"
 metafile = true
@@ -1745,11 +1735,6 @@ hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials.pw.toml"
-hash = "f1df47a5a998b74ba068ebca57efcf40b8cef840340898606219a4f859c3564c"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "028330e6332f5a10426a59fbfaa83c698f41ed0018b84763a796f0dc4efec59e"
 metafile = true
@@ -1781,7 +1766,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "b1b02137f48f331687a479895eea55431577090bb4312b4914d3c5f3f418324e"
+hash = "fad6e51e0baee5ffd3c5125ac7c55ce1915ee4c88ad1445e7651c5d0b2e4ab82"
 metafile = true
 
 [[files]]
@@ -2111,7 +2096,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.toml"
-hash = "0a4052fc1d091e44af922d079264988f4edbdc1a2aec3302681167f4614d452f"
+hash = "c647b55750490d55a1d5e415dd93644752f5aae601a6dd2a504be399241a0dc5"
 metafile = true
 
 [[files]]
@@ -2182,6 +2167,11 @@ metafile = true
 [[files]]
 file = "mods/spawner-imbuer.toml"
 hash = "cea85bb3fb9d97e478035a5731cc7ad955500ca84a9403deb3e81d3246d8a4c1"
+metafile = true
+
+[[files]]
+file = "mods/spongeforge.pw.toml"
+hash = "f2057b1c947120a5681b57ff113b8ab32d6fe79ce66843f245c2b80ae5b20a5f"
 metafile = true
 
 [[files]]
@@ -2276,7 +2266,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiquality.pw.toml"
-hash = "9f76b1b1fd20435e8f9804c4798eb1d49ed9bd49023301492b0066136f257ed0"
+hash = "c0422b28966d470c29ff2365cc3ebcd3b94dd5b0e0391d2bd6002733059a925a"
 metafile = true
 
 [[files]]
@@ -2311,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-mod-core.pw.toml"
-hash = "aee505dc349c50028928fc4883621696a493222588da6a54092e45df24aa7921"
+hash = "a97fb90dba3fb799e1372c3f2e55dac8a33236a96c20f313c8c4f0ad7e525016"
 metafile = true
 
 [[files]]
@@ -2332,6 +2322,11 @@ metafile = true
 [[files]]
 file = "mods/wireless-crafting-terminal.toml"
 hash = "a756e65afbe8308ef642fc39565df754b965619cec346140168fd431b5152d57"
+metafile = true
+
+[[files]]
+file = "mods/wireless-redstone-cbe.pw.toml"
+hash = "c55632d9eb7ea0247cf236a49bb2d7063e8d25a546f83745560d398831e86108"
 metafile = true
 
 [[files]]
@@ -2384,7 +2379,7 @@ hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 
 [[files]]
 file = "scripts/hbm.zs"
-hash = "9214813d1b0a8bacbfcc1ab1aeeb52d9cf22216562e9ddb42aa98409204bb49f"
+hash = "8d661812b0c5c2ea42903cb8902280637256154314f5a951c1fad7563d0d71f1"
 
 [[files]]
 file = "scripts/icbm.zs"

@@ -1,8 +1,8 @@
 name = "Tiquality"
-filename = "Tiquality-THIN-1.12.2-GAMMA-1.8.1-128.jar"
+filename = "Tiquality-THIN-1.12.2-GAMMA-1.8.1-130.jar"
 side = "server"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Tiquality-THIN-1.12.2-GAMMA-1.8.1-128.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Tiquality-THIN-1.12.2-GAMMA-1.8.1-130.jar"
 hash-format = "sha256"
-hash = "7ac3e0eb8c282599b35c61ecb92e87433434e14171abc86ef3fb10957820b89c"
+hash = "9e421e1372f6194cddef2aee3ab14f77f973857e66309050a25f988bcad6fa12"

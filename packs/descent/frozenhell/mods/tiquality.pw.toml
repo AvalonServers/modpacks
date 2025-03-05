@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Tiquality-THIN-1.12.2-GAMMA-1.8.1-130.jar"
 hash-format = "sha256"
-hash = "9e421e1372f6194cddef2aee3ab14f77f973857e66309050a25f988bcad6fa12"
+hash = "1d9edd602bb8d459512375d824b9df666ebfc782452850088c9714b19b938699"

@@ -102,11 +102,11 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "2f2b896bc4e07929eae6be1cfdb5219113856af4fd38d6dd406476d4e5ff2646"
+hash = "b77c777e08753317f58147592431688a70408cf26fe1d38ff0abec1b4f80c787"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
-hash = "a6660c954991a8645f85513f7883f8c5549eff7c3bc587bdf28795159d16bd41"
+hash = "0f736604beb9c2a6c6f5b26c56251a46afd4944184aa84c685eed0e2849deaa8"
 
 [[files]]
 file = "config/Universal Tweaks - General.cfg"
@@ -733,6 +733,10 @@ file = "config/cofh/thermalcultivation/common.cfg"
 hash = "83588b3bc8e1751623307aa60f6eb0d8262f28b1478668d92ee978f18637356e"
 
 [[files]]
+file = "config/cofh/thermaldynamics/common.cfg"
+hash = "c297275b538da1e0c1033e3c5d85e03f3da4d57d6a58790653569e59a2ff3218"
+
+[[files]]
 file = "config/cofh/thermaldynamics/cover_blacklist.json"
 hash = "9671cdb2d2f6ac1666bf63f56e568c674a1bd933280768ee0e78fbed4cf8c8f2"
 
@@ -942,7 +946,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "d6e24facf561d190e935122b46830ea74cffdd6e9e8bbfcc4382e4a5b08ce373"
+hash = "8d61145cb08e5f900478a73114d041e6d43c5e50cd9bea18891cd15a331b0e94"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1022,7 +1026,7 @@ hash = "26001d416dd3feb25a22fadb1647bd1194e296d499ee753e779e8b7e5155aa0d"
 
 [[files]]
 file = "config/immersiverailroading.cfg"
-hash = "b6282f88e497078d4ee3db8a7046ef4ed05e0ddf1bd02bc5656d02a1d2cc3130"
+hash = "37d90323d59d3bb997fb70b52be4e3ffbff0fe829a5387ad04a2b63256e2a941"
 
 [[files]]
 file = "config/immersiverailroading/biauks-lowpoly-voxel-tracks-immersive-railroading.pw.toml"
@@ -1546,7 +1550,7 @@ metafile = true
 
 [[files]]
 file = "mods/brutalism.pw.toml"
-hash = "832761f4f43097e8350a6a3e251bb733078c8022ea06422183322e0ce93b59b9"
+hash = "f47cb3c87cca5a0caef951269484b28510563837b1c1465ae2b0450d99af9536"
 metafile = true
 
 [[files]]
@@ -1665,6 +1669,11 @@ hash = "51265430222174825ba7ff9f3b94a03b0fef7367d10ee4da3bd649cc559c03dc"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-surroundings.pw.toml"
+hash = "9b067a72e1a4d8eacb3e914e102fa62961faed1cd5fe721cbc255a4bad4b9854"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "f0f27347c95042dd12beb3ae98f6834922d05796e2108cf3d2e937612ee2aa50"
 metafile = true
@@ -1721,7 +1730,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "7e9650c0341e97438ea10e786dfa9fe90dc0c207920d5e116fb42a5ce00e2138"
+hash = "af599041c93c3fee7a1dfab6b9af65b977921761c258963182464b50b8bfe510"
 metafile = true
 
 [[files]]
@@ -1766,7 +1775,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "fad6e51e0baee5ffd3c5125ac7c55ce1915ee4c88ad1445e7651c5d0b2e4ab82"
+hash = "056085af81bef73e45302523012cc262435b1b11cf1c96fd8c5d83e10cfed8a8"
 metafile = true
 
 [[files]]
@@ -1791,7 +1800,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "610d4c9600ac79629a3639b7b00bc7a0b94fb3df416e1b4c130191ec6bd831ea"
+hash = "379157086789a0dfac9799594d84adb12fbd96cd14f1febab2bb2c8932e8461c"
 metafile = true
 
 [[files]]
@@ -2040,6 +2049,11 @@ hash = "bb071cc4c8bc90794b66352213b7109cac9803ea4704ef29db9a4258fa12295a"
 metafile = true
 
 [[files]]
+file = "mods/orelib.pw.toml"
+hash = "e83488bb8c787c89ea377f4a4629ad3353ef713cd0546cf50c2b0f17588cb19f"
+metafile = true
+
+[[files]]
 file = "mods/p455w0rds-library.toml"
 hash = "6672532326cd97c7f06dee9dc66cb6e5b7b87c645cde4b73f5fa1bd6b52c482f"
 metafile = true
@@ -2096,7 +2110,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.toml"
-hash = "c647b55750490d55a1d5e415dd93644752f5aae601a6dd2a504be399241a0dc5"
+hash = "d5cbedf6c27ae5051fad8ae03b1fa56d7f721b9b8fd339108cabb08d7ad30c46"
 metafile = true
 
 [[files]]
@@ -2266,7 +2280,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiquality.pw.toml"
-hash = "c0422b28966d470c29ff2365cc3ebcd3b94dd5b0e0391d2bd6002733059a925a"
+hash = "27629e3ebd8fe0800020bd467c03c89265100d6dcb49d35e7430e595ef609515"
 metafile = true
 
 [[files]]
@@ -2301,7 +2315,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-mod-core.pw.toml"
-hash = "a97fb90dba3fb799e1372c3f2e55dac8a33236a96c20f313c8c4f0ad7e525016"
+hash = "5c0ae9e2e15dadfe013a3b61c7ef85266225f3110429d4b655e67ceb8b4bc878"
 metafile = true
 
 [[files]]
@@ -2379,7 +2393,7 @@ hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 
 [[files]]
 file = "scripts/hbm.zs"
-hash = "8d661812b0c5c2ea42903cb8902280637256154314f5a951c1fad7563d0d71f1"
+hash = "36e8da9c1005326c06ea309f5c46bd62e012859aecd15d96e78c49a4842b6440"
 
 [[files]]
 file = "scripts/icbm.zs"

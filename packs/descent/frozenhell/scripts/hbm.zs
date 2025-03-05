@@ -55,7 +55,7 @@ ArcFurnace.addRecipe(<hbm:ingot_australium>, <hbm:powder_australium>, null, 100,
 ArcFurnace.addRecipe(<hbm:ingot_verticium>, <hbm:powder_verticium>, null, 100, 512);
 ArcFurnace.addRecipe(<hbm:ingot_unobtainium>, <hbm:powder_unobtainium>, null, 100, 512);
 ArcFurnace.addRecipe(<hbm:ingot_daffergon>, <hbm:powder_daffergon>, null, 100, 512);
-
+ArcFurnace.addRecipe(<hbm:ingot_asbestos>, <hbm:powder_asbestos>, null, 100, 512);
 
 // Replace geiger counter recipe
 recipes.removeByRecipeName("hbm:geiger_counter");

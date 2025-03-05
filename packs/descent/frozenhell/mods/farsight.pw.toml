@@ -14,5 +14,5 @@ project-id = 495693
 
 [option]
 optional = true
-description = "Allows render distances higher than the server's. Disable if you get render or performance issues."
+description = "Allows render distances higher than the server's. Disable if you get render or performance issues. DO NOT USE WITH DYNAMIC SURROUNDINGS."
 default = false

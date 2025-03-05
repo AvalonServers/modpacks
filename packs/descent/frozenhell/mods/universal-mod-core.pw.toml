@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/UniversalModCore-1.12.2-forge-1.2.1-d384fb2.jar"
 hash-format = "sha256"
-hash = "76749d2eb291092e7d80bbc4d8f8b17e973e1bc4d67ac388e4d449830c9cf7b3"
+hash = "f8f7c2e916d79b63cd4a1a3fac0fb7618860f6619b047cac2305807542f5587e"

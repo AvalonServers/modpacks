@@ -1,0 +1,18 @@
+name = "Dynamic Surroundings"
+filename = "DynamicSurroundings-1.12.2-3.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3497269
+project-id = 238891
+
+[option]
+optional = true
+description = "Caution: Resource heavy. Quite nice, has a lot of configurable features that add immersive sound/visual effects. Includes light-level overlay. (Defaults set to remove some sounds and generally be better.)"
+default = true

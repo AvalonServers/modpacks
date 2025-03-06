@@ -102,7 +102,7 @@ hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "b77c777e08753317f58147592431688a70408cf26fe1d38ff0abec1b4f80c787"
+hash = "87aedfdab431ab5179977d2195226be2945f335eb1573fa9a235c766d01214b6"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -175,6 +175,10 @@ hash = "6db72978673c7bdd32b7d26475a0057cd6246030b52b3bfb7f670e6ccee9ce3c"
 [[files]]
 file = "config/betterbuilderswands.cfg"
 hash = "46ed04338f405a327ebce8bec17d63f51311e4d65871bd8f3101d328f10cc659"
+
+[[files]]
+file = "config/betterfoliage.cfg"
+hash = "06ea9f672f5a6c7b7c7b2c58371d9b7f6b4aec795f36d140eb1836aa1fb7f9f3"
 
 [[files]]
 file = "config/biomesoplenty/biome_ids.json"
@@ -946,7 +950,7 @@ hash = "e67bbe6c400d3df3bdd3fb681334558f9fc63e7c96b182cca7547899d9845ac4"
 
 [[files]]
 file = "config/hbm/hbm.cfg"
-hash = "8d61145cb08e5f900478a73114d041e6d43c5e50cd9bea18891cd15a331b0e94"
+hash = "bb1bfccda2274b1a5a606ed075f59b055f6784b585020b260e9c9d94c4a7acca"
 
 [[files]]
 file = "config/hbm/hbm_bedrock_ores.json"
@@ -1109,6 +1113,11 @@ file = "config/justenoughdimensions/justenoughdimensions.cfg"
 hash = "e240ef02127462e3a0c55a619872190bf7d98ea3b323945f604fc04cc8b34217"
 
 [[files]]
+file = "config/landofsignals/uk-signals-for-land-of-signals.pw.toml"
+hash = "b7d3e205ad477462bfd4be1165a040f8b4f7a1705cef393be291135b301aaa0c"
+metafile = true
+
+[[files]]
 file = "config/laser_drill_ores/default_ores.json"
 hash = "ebcf5a75da4357b4bac477906baca1cf50e285a5c5c001596196ffa91a0f6ecf"
 
@@ -1154,7 +1163,7 @@ hash = "3d281ea92837bda8f042edba7173a1a1410614b013d2fe9ef650a1be89ae85b3"
 
 [[files]]
 file = "config/mctimmersivetechnology.cfg"
-hash = "8a944bdafd16bb057ecdbc3e33a0b591c8efef655f23c6657e161b57d59126a5"
+hash = "3bb412873ab936140fb1839e988cfe770d69c5b519bb856d9ab5047fafd49163"
 
 [[files]]
 file = "config/microblocks.cfg"
@@ -1539,6 +1548,11 @@ hash = "01121b6669638a7350e0296bf1d941999e875bd84b15eada608b43c7db5a29ac"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage.pw.toml"
+hash = "4a94f6f3c72774c335c0e97b77d3d8e7750d34cf2f4321aca6c7ac885a659e1d"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6f2a5c57e847e8a587ca95caf23fff6d91aff86828d764496143a35a30773ed"
 metafile = true
@@ -1670,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "9b067a72e1a4d8eacb3e914e102fa62961faed1cd5fe721cbc255a4bad4b9854"
+hash = "db56edc8a557daa054c7da5e5fd6cedb7d2951f48a5b07f620724b53af2ca197"
 metafile = true
 
 [[files]]
@@ -1750,7 +1764,7 @@ metafile = true
 
 [[files]]
 file = "mods/furenikusroads.pw.toml"
-hash = "8d664576f9dc87d90d544e890c49492aed978728cf171c0ecc541c7495a3cba2"
+hash = "97a1c63803d3a15544664ffb4b2cefa7fd2a27f4471c18341c8cd02c6bb05dd6"
 metafile = true
 
 [[files]]
@@ -1769,13 +1783,8 @@ hash = "e105e97942ca227dd0925c73d3a26d30e74820d01e9ea5c458c91409436d515f"
 metafile = true
 
 [[files]]
-file = "mods/hammer-lib.pw.toml"
-hash = "d5663fe8e7f3578ba37ba4ef43d37cba66617c30f838e1c815e731eb58b9ab6c"
-metafile = true
-
-[[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "056085af81bef73e45302523012cc262435b1b11cf1c96fd8c5d83e10cfed8a8"
+hash = "04ebcda2f685d4ae79eeef18bd1e3cc96a15862500351b4a5535267f23235fad"
 metafile = true
 
 [[files]]
@@ -1901,6 +1910,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
 hash = "0be8dd0d73bab569db9f8ca4d45105f63fa6c1b97a62f21869996b9660a493ab"
+metafile = true
+
+[[files]]
+file = "mods/landofsignals.pw.toml"
+hash = "d297af5375438b3d071a79c90871b20e913b429f5c902ef917f88805cc8d7594"
 metafile = true
 
 [[files]]
@@ -2110,7 +2124,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft.toml"
-hash = "d5cbedf6c27ae5051fad8ae03b1fa56d7f721b9b8fd339108cabb08d7ad30c46"
+hash = "3e7fb817b781ec2508af9882dec2fce992b6ba45103647ca56cfdf89fc9ab719"
 metafile = true
 
 [[files]]
@@ -2226,11 +2240,6 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.toml"
 hash = "0f51f9f60a7bbf0d35b89c23267c2b34a23fad09988fa5eb346159180b8f3c72"
-metafile = true
-
-[[files]]
-file = "mods/thaumic-additions.pw.toml"
-hash = "3f699a2d62d567cf20559c19f6f1a1e60a81ac700ed114ccdf7478c4062b6c8a"
 metafile = true
 
 [[files]]
@@ -2355,7 +2364,7 @@ metafile = true
 
 [[files]]
 file = "mods/zetta-industries.toml"
-hash = "675a1012331d8b2cee64841a410e3647e7c7f3fb446e2cede488086c34d46887"
+hash = "621bcceaa9d2945373c0a9bd8b6ec6cf859900e42794b58863c99a83732b6ed5"
 metafile = true
 
 [[files]]

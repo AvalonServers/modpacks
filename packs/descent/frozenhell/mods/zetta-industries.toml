@@ -6,4 +6,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/zettaindustries-1.3-1.12.2-custom.jar"
 hash-format = "sha256"
-hash = "9cef9f0b418c78095c18b78e8e638c3bc4e2576ff1053c2b531ea569f70c6d29"
+hash = "8ecaae1d5c0e803c544a91001bdce945e2f1c69fca9355c03a669369ec87eb40"

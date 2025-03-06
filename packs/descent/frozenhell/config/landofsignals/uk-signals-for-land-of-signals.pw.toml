@@ -1,0 +1,13 @@
+name = "UK Signals for Land of Signals"
+filename = "uk_signals_1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "985af8618ad0d1bb0879ef9eaead6048641b9e19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3441942
+project-id = 521501

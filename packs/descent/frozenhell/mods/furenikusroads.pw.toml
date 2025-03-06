@@ -3,11 +3,6 @@ filename = "Furenikus_Roads-1.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bfbd86a2596b535637f34ea9b76764a90a2d8347"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5700373
-project-id = 60936
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Furenikus_Roads-1.2.6.jar"
+hash-format = "sha256"
+hash = "05c5a928469bad32bac47a135003fe5b7182f3d1ac734bb58637f55f0d6cd1ff"

@@ -3,14 +3,9 @@ filename = "DynamicSurroundings-1.12.2-3.6.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "62fc23aa49ba392f4bbeb14ff0aae276ff3a27f4"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3497269
-project-id = 238891
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/DynamicSurroundings-1.12.2-3.6.3.jar"
+hash-format = "sha256"
+hash = "2a10081b03fa3040eb74bcf0de14f722f9ac6718c7e8564b3c1259bc3af26fcb"
 
 [option]
 optional = true

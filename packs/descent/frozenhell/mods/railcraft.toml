@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/railcraft-12.1.0-beta-8.jar"
 hash-format = "sha256"
-hash = "0ad3ffe2551e58a33e7037d77e77e4c150af65de537f4c9510dfb03e3632c34a"
+hash = "e990cd6d6e9102a82e29f292045162fd764c4f1448f6d56aacb2765950be3d9f"

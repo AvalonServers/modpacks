@@ -1,0 +1,13 @@
+name = "Puddles"
+filename = "Puddles-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6409abf3a462d867bb6e60b2ff9a5a2924bfb854"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668151
+project-id = 312039

@@ -101,8 +101,12 @@ file = "config/ProjectRedRelocation.cfg"
 hash = "3351f944d57bbff8afc29dc2da53238addda1bbadc3cad4d82dcc2ce75e3b1fc"
 
 [[files]]
+file = "config/Puddles.cfg"
+hash = "9696c94accce0da621eb175e2a980636e105b00b9891082801546bc9ad3df9f6"
+
+[[files]]
 file = "config/Tiquality.cfg"
-hash = "87aedfdab431ab5179977d2195226be2945f335eb1573fa9a235c766d01214b6"
+hash = "5d3251a7b38c5dd2ddc6f3910ef2250c03053c7c06ccae2e3bc5ed4e50955eca"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -806,7 +810,7 @@ hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "ce945104d0ef1e35020f2349fe3cde5a9ac65df78021686395277ae82367ca15"
+hash = "30e0c2b58ff5bea5c9a7545fd91d433c002363801f4accb8ccdf0c2aa12875fe"
 
 [[files]]
 file = "config/dynamiclights.cfg"
@@ -1344,6 +1348,22 @@ hash = "c3aae0bc0fd51e6d813f53dd58629c870b0a5dbd31c420119d2bfa56018fa4b8"
 [[files]]
 file = "config/reccomplex.cfg"
 hash = "bd6cacaf43057cef3d3025c3f2b93baa67e283a1add95fa32cbff4332a4ff452"
+
+[[files]]
+file = "config/sereneseasons/biome_info.json"
+hash = "e6e907f40f8e4296186bad8ac49df09a9b4a30e4c6a556ad4b2f5618fb6667d2"
+
+[[files]]
+file = "config/sereneseasons/cropfertility.cfg"
+hash = "252b75edc674b35b9a263a02cbbfbae279b1c1b4a99a3a60604569587e713338"
+
+[[files]]
+file = "config/sereneseasons/seasons.cfg"
+hash = "64fca8ce998f89f51eb616fdfe9218888fc0209380d7866cc4bf76c2779764a1"
+
+[[files]]
+file = "config/soundphysics.cfg"
+hash = "c473352a45b1638b14b419d9cb545fab59656d17cb875cd4b164e90e9c30665d"
 
 [[files]]
 file = "config/splash.properties"
@@ -2118,6 +2138,11 @@ hash = "519f69f3db9db254dafe2d5b3fc3cb69f47a044c1d5a5b7dd1cf274f125ca5b7"
 metafile = true
 
 [[files]]
+file = "mods/puddles.pw.toml"
+hash = "5a298d285480b1cb58e5ec19da5abe9a28b2fc58c99c7af73f9a79e20209352e"
+metafile = true
+
+[[files]]
 file = "mods/questionably-immersive.pw.toml"
 hash = "f59169a19c1c895db4eec0d8d2e5fe2e6017aab9625d2bbb97bfcdfbc85f88b9"
 metafile = true
@@ -2183,8 +2208,18 @@ hash = "a3aa2700b4d47293eba2287a0931959d13cda946c8a372f933faf747c51a5286"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "537667da8b18765eb6b6a4041ca23651f1c7b16caf1b206992012ffdf7df2ed4"
+metafile = true
+
+[[files]]
 file = "mods/shadowfacts-forgelin.toml"
 hash = "d2735f89a6984884ca7e596295ab07e8839cbd7acaf4085c62171568a2bfd462"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remixin.pw.toml"
+hash = "2dc305e308957059a7546e4d577076c6ed8fb2aa1c5a368be7e5e3b78ecbcd5d"
 metafile = true
 
 [[files]]

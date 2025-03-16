@@ -1,13 +1,8 @@
 name = "LandOfSignals (Railroad Signal Mod)"
-filename = "LandOfSignals-1.12.2-forge-1.3.3.jar"
+filename = "LandOfSignals-1.12.2-forge-1.3.3-eb45531.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6c37cc2ab00709eead1c26251de370e640412e5d"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5765455
-project-id = 434307
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/LandOfSignals-1.12.2-forge-1.3.3-eb45531.jar"
+hash-format = "sha256"
+hash = "6960ef838bf94bc0599e7b4801279e2bb4199b33e3ff4576126c96eb99e37aca"

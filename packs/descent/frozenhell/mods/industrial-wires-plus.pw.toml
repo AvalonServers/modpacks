@@ -5,10 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/IndustrialWires-2.1-01.jar"
 hash-format = "sha256"
-hash = "ae686a42fc9b0d626ed860e06595b2b741117f6d6e6531ae5faae47f46be44e8"
-
-# Mod is currently built from source
-# [update]
-# [update.curseforge]
-# file-id = 4329964
-# project-id = 619614
+hash = "980289b0fb6047563793ad2ef5216a7d5c6876046f664d41becd17b841220095"

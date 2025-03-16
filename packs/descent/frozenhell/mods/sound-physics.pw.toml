@@ -1,0 +1,8 @@
+name = "Sound Physics"
+filename = "soundphysics-1.1.12.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/soundphysics-1.1.12.jar"
+hash-format = "sha256"
+hash = "f0c48a089ec7a9a5d7fb178c14dd3faae4f5f36653a0e8fed08ad52099e9c635"

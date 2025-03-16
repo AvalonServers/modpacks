@@ -393,5 +393,45 @@
     "enable_seasonal_effects": true,
     "use_tropical_seasons": true,
     "disable_crops": false
+  },
+  "minecraft:frozen_ocean": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:frozen_river": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:ice_flats": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:mutated_ice_flats": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:ice_mountains": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:taiga_cold": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:taiga_cold_hills": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
+  },
+  "minecraft:mutated_taiga_cold": {
+    "enable_seasonal_effects": true,
+    "use_tropical_seasons": false,
+    "disable_crops": false
   }
 }

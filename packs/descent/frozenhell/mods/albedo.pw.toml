@@ -1,0 +1,13 @@
+name = "Albedo"
+filename = "albedo-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/albedo-1.2.0.jar"
+hash-format = "sha256"
+hash = "3ebfc45f5ebdda4d082e30bb74aa618c11a981d76a9a791fe25806e9db53dcfe"
+
+[option]
+optional = true
+description = "A coloured lighting mod using shader-based dynamic lights. Highly experimental, we do NOT recommend turning this on. Significantly changes the look and feel of Minecraft's lighting system."
+default = false

@@ -1,11 +1,11 @@
 name = "Dynamic Surroundings"
-filename = "DynamicSurroundings-1.12.2-3.6.3.jar"
+filename = "dsurround-1.12.2-3.6.3.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/DynamicSurroundings-1.12.2-3.6.3.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/dsurround-1.12.2-3.6.3.jar"
 hash-format = "sha256"
-hash = "2a10081b03fa3040eb74bcf0de14f722f9ac6718c7e8564b3c1259bc3af26fcb"
+hash = "a5d4ecee0ef5c2f6d460b8391e154ae3c056941e7942a9fce5b6220d3c297f1d"
 
 [option]
 optional = true

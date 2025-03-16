@@ -1,8 +1,8 @@
 name = "Computronics"
-filename = "Computronics-1.12.2-1.6.7-railcraft-beta-8.jar"
+filename = "Computronics-1.12.2-1.6.7.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Computronics-1.12.2-1.6.7-railcraft-beta-8.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Computronics-1.12.2-1.6.7.jar"
 hash-format = "sha256"
-hash = "2c92d2ceccf1d9f68aa5764322cd7dec675c57044c7d6f65897405958b5b0bac"
+hash = "899d43638cbeabf6d45f8a066b1813a7dc0efb78cff41925bf95347f44449a42"

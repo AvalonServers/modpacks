@@ -1,9 +1,8 @@
 name = "Zetta Industries"
-filename = "zettaindustries-1.3-1.12.2-custom.jar"
+filename = "zettaindustries-1.3-1.12.2-null.jar"
 side = "both"
 
-# A custom version is in use
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/zettaindustries-1.3-1.12.2-custom.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/zettaindustries-1.3-1.12.2-null.jar"
 hash-format = "sha256"
-hash = "8ecaae1d5c0e803c544a91001bdce945e2f1c69fca9355c03a669369ec87eb40"
+hash = "fe674d3df69b65607485417d7f4af9ac41e3b23750edab036eba78373bfeea3f"

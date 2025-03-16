@@ -1,8 +1,8 @@
 name = "Immersive Intelligence"
-filename = "immersiveintelligence-0.3.0.jar"
+filename = "immersiveintelligence-0.3.1-dev3.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersiveintelligence-0.3.0.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersiveintelligence-0.3.1-dev3.jar"
 hash-format = "sha256"
-hash = "6f56fb28c3f1a5090b1be0de8297eef8cb17758f9a85135c3b0672a667e64272"
+hash = "ef7b0fabe28f2f51a304b5c8e73b5937a5ca25e7b6fb12ba0f8eb383399bb46e"

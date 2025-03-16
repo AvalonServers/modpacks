@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/IndustrialWires-2.1-01.jar"
 hash-format = "sha256"
-hash = "980289b0fb6047563793ad2ef5216a7d5c6876046f664d41becd17b841220095"
+hash = "760f1d9fcfb31a1ed6bd4fa3ca904ef1aa3ad63ca80972e317e7194b3d845ef1"

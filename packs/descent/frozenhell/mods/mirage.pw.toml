@@ -1,0 +1,8 @@
+name = "Mirage"
+filename = "Mirage-2.0.3-rc3.jar"
+side = "client"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/Mirage-2.0.3-rc3.jar"
+hash-format = "sha256"
+hash = "06925e92f2a6bbf610043d687c1f92c17bf5bcbeae6040abbda24ef6ff9d9825"

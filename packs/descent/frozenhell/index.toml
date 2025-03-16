@@ -1187,7 +1187,7 @@ hash = "2fb7bd6ae3d592927f258557ee24dcf382dfc6d72225f8d3093e757ceb847740"
 
 [[files]]
 file = "config/mirage.cfg"
-hash = "ece2e1805ebd0f9f5dafa6a8cbe1caca78ed6d1d85a5ecb59fb5fc28535c0899"
+hash = "7d0e71cf4aa6ae97232d49435d8c5a9c59733c761a7ec01333269f36fd00afb5"
 
 [[files]]
 file = "config/modularforcefieldsystem.cfg"
@@ -1375,7 +1375,7 @@ hash = "64fca8ce998f89f51eb616fdfe9218888fc0209380d7866cc4bf76c2779764a1"
 
 [[files]]
 file = "config/soundphysics.cfg"
-hash = "c473352a45b1638b14b419d9cb545fab59656d17cb875cd4b164e90e9c30665d"
+hash = "3cf75c839bed15d7999f3e4bb5fe67c474e30573353733f4b2d66beb18b88522"
 
 [[files]]
 file = "config/splash.properties"
@@ -1554,11 +1554,6 @@ hash = "7e5374acf211072274dcae8f6084a70089a0677a520bb2c20340aaf296a4692e"
 metafile = true
 
 [[files]]
-file = "mods/albedo.pw.toml"
-hash = "86e4e957a3a197d880884bbf6b934e2c4c8712fdd4f00c6732cf42f305dd5318"
-metafile = true
-
-[[files]]
 file = "mods/alternating-flux.toml"
 hash = "3b94c8556434975437ca2794ecf1b028f6c792aed166155b1b0eeabc116988c3"
 metafile = true
@@ -1680,7 +1675,7 @@ metafile = true
 
 [[files]]
 file = "mods/computronics.toml"
-hash = "fe7f0ae896e31289079edd80a6f82753e90fff7ff5961cfd51372bff185e930c"
+hash = "64d8f6c873bc07926927cd24d4d90e68725d9f5c68efe69a394adfe7fb7cf4db"
 metafile = true
 
 [[files]]
@@ -1720,7 +1715,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.pw.toml"
-hash = "2c30e1d34d588f859d99f3d89a1e98af2537b1ea310623191215f80980b9d238"
+hash = "ffa44280a6fc927c6bcc03ade497b90ce12adec40d13eae203081b5b0c716473"
 metafile = true
 
 [[files]]
@@ -1845,7 +1840,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "f9c4d7b55e4869e143d2bea8b1e951142d8eb177b1cbbd02c31d975ac93443b6"
+hash = "4312b927d7f9000bd2dc56f426499be20128cedb85a769718d2987973cbede40"
 metafile = true
 
 [[files]]
@@ -1855,7 +1850,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-intelligence.pw.toml"
-hash = "126a4887f7a060bd47a0e45b0721db9419e94686686c4e9966620ea6615478fb"
+hash = "edd0838a760c7ee8a02324f023bbfe597c56b880a050709c4e25f414dc8ceb7e"
 metafile = true
 
 [[files]]
@@ -1900,7 +1895,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-wires-plus.pw.toml"
-hash = "03208c44d3c523100a99ebb19dc56181e42720622b17069a12a58af4b7223029"
+hash = "a1997fb59718798100258bd717953b638ccf061d64301a90be50ef4748e38fcd"
 metafile = true
 
 [[files]]
@@ -1986,6 +1981,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transport-simulator.pw.toml"
 hash = "8b5ad0d2f0ea065c8989eea4fee3617b5cf131b4a8be8845d39e54921998bf96"
+metafile = true
+
+[[files]]
+file = "mods/mirage.pw.toml"
+hash = "e130dc44534cef190b5d23096af7f3fa3ed2fe565dfca30b1583f9e97eab02b6"
 metafile = true
 
 [[files]]
@@ -2265,7 +2265,7 @@ metafile = true
 
 [[files]]
 file = "mods/techguns.pw.toml"
-hash = "330f018168cb82cb484be4c7f510acb541ac0026fd4f25db5b9321030a23e5da"
+hash = "3c410470199f0cb5e307428a2bd3393fc4e3f897cee531c230e2545e218141ac"
 metafile = true
 
 [[files]]

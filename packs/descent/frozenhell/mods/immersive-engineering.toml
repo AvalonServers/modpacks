@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/ImmersiveEngineering-0.12-98.jar"
 hash-format = "sha256"
-hash = "687fc5f426cfc0978294206eb33184213ec8e2f46e1510cb78f628b882ace4a1"
+hash = "bf344a96b020ed5818443b12fce84544283ecec8bf74bdd1dc23d86238707ad9"

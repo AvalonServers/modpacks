@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/immersiveintelligence-0.3.1-dev3.jar"
 hash-format = "sha256"
-hash = "ef7b0fabe28f2f51a304b5c8e73b5937a5ca25e7b6fb12ba0f8eb383399bb46e"
+hash = "7a3f48a573f6d0020d2166e734e1f4f0eee9d1a1f0258bf9927a32e3d7215af2"

@@ -1,0 +1,8 @@
+name = "Tough As Nails"
+filename = "ToughAsNails-1.12.2-3.1.0.null-universal.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/ToughAsNails-1.12.2-3.1.0.null-universal.jar"
+hash-format = "sha256"
+hash = "f0e777f2ef06342edaa73866fa565b2fdb2e93b24be714ffd5d1bf326e6d4e97"

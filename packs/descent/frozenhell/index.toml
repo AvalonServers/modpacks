@@ -818,7 +818,7 @@ hash = "2695969995e5c4d34e6f350bc2bac289b8ab0e80bca9fce098f5e10c370389d6"
 
 [[files]]
 file = "config/dsurround/dsurround.cfg"
-hash = "9ae1a3d669264380a9af51b191d2e50a71a0f5bf8f2e6c1ebfba730b310505b5"
+hash = "453df0adc9c5cd7b90a6fb563cc7bfd32f293c3f857b72c750472c4f2d9849e1"
 
 [[files]]
 file = "config/dynamiclights.cfg"
@@ -1454,6 +1454,30 @@ file = "config/torchmaster.cfg"
 hash = "7e6219c00c884d036c6fa16ed4066f0bb53ba06501135b74b4b55304820ca55e"
 
 [[files]]
+file = "config/toughasnails/armor_temp_modifiers.json"
+hash = "c43e905ed2814c9121f593cf70a95196bdb6ffd3a451612458b2f3c73e5f4dad"
+
+[[files]]
+file = "config/toughasnails/block_temperature.json"
+hash = "b71e693764ea4e517f8ddcf84ba6fe456e1a61e91089d0ba32a704fe8c449960"
+
+[[files]]
+file = "config/toughasnails/drink_stats.json"
+hash = "8fa2d9d64ff2e5e44102eb17ce750ae7f4f3b6206755a9879173678a244ff44b"
+
+[[files]]
+file = "config/toughasnails/gameplay.cfg"
+hash = "32c26eb6b4400dd55c312dcb1ce358157ab54f48e24f602650979dba03203ab8"
+
+[[files]]
+file = "config/toughasnails/material_temperature.json"
+hash = "1421d61f7d986399994b0c959c1e491a22459385ef53dfa531271037af245b78"
+
+[[files]]
+file = "config/toughasnails/temperature.cfg"
+hash = "74960f49ba8dec5b775371ee873602bd5bbf252e91325910f219b944555a1221"
+
+[[files]]
 file = "config/trafficcontrol.cfg"
 hash = "d8fb1add72e7eebddbc6b7387d67d598999cff0c46bf8afa93aa2612bf53a240"
 
@@ -1689,6 +1713,11 @@ hash = "d17527467cbe5945e5424a2920912890cc047b8e779f702a665c8b27caf50453"
 metafile = true
 
 [[files]]
+file = "mods/craftstudio-api.pw.toml"
+hash = "62864f10984709eac9bd12cc55cfad6c44c95020fdbb715ec347087a520db8b1"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "8ed8a0a7736f4e8cb81b67809900711dbde1678024b5c95e11d40f2787eff486"
 metafile = true
@@ -1840,7 +1869,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.toml"
-hash = "4312b927d7f9000bd2dc56f426499be20128cedb85a769718d2987973cbede40"
+hash = "37efb89d1e5a4a3176b4697758d03aff42f55508a2b364f109de8b6cd755996c"
 metafile = true
 
 [[files]]
@@ -2259,6 +2288,16 @@ hash = "1976cfb3222e1f141aa56af5824be673771a9db93b49c7e48fa2cca3f58aef02"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ff5a7d6fe7c70f7db36e33ceefc6936b382a572c35c9f6efc21c4cccbaaea362"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "dd3da3ca6c83e6994a0e7e3df3403f8b52c0a802b96ba4091ec2d7ea0a83b114"
+metafile = true
+
+[[files]]
 file = "mods/tails.toml"
 hash = "46c2f226602630d2734885ed5e1832a5d20258cc76ff25a5e49ba460aa1f8c37"
 metafile = true
@@ -2266,6 +2305,11 @@ metafile = true
 [[files]]
 file = "mods/techguns.pw.toml"
 hash = "3c410470199f0cb5e307428a2bd3393fc4e3f897cee531c230e2545e218141ac"
+metafile = true
+
+[[files]]
+file = "mods/tektopia.pw.toml"
+hash = "1c0e25ebc5cb0bdce086723242b098ecbeb3915f12ef33835ecd02f6427e9f13"
 metafile = true
 
 [[files]]
@@ -2346,6 +2390,16 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "a3895abc87b7e4c9650ce4e7938953f22831d1f1e4e0fefc7a8c9dc65c0eb899"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-nails.pw.toml"
+hash = "575784ae316e60b140a68699aef4c1fa1f4070ef4e59bbb822e73913019a5cf3"
+metafile = true
+
+[[files]]
+file = "mods/tough-expansion.pw.toml"
+hash = "e22d371f67986a519950dfd18c5442d568f1c5cd1b94fcc43c5307cb2fb944d0"
 metafile = true
 
 [[files]]
@@ -2448,7 +2502,7 @@ hash = "76f52e27fe96e83bf3435828bc5270adf5897f90fead7426f96ba8e5fa9eedae"
 
 [[files]]
 file = "scripts/hbm.zs"
-hash = "36e8da9c1005326c06ea309f5c46bd62e012859aecd15d96e78c49a4842b6440"
+hash = "4b360e5aa50f3f29f7f89830929f0af2569a18b351c4008b695ac46f30e06cc3"
 
 [[files]]
 file = "scripts/icbm.zs"
@@ -2513,6 +2567,10 @@ hash = "2f25c09f1f23c4b80e504ca8fcc8d93ebb301e04aea816c829a70aa34a9320ba"
 [[files]]
 file = "scripts/thermaldynamics.zs"
 hash = "d5e89f0460a86fa8b8d1868adb789c6570622a64879f90466f5a99a855b5f5c5"
+
+[[files]]
+file = "scripts/toughasnails.zs"
+hash = "b1c49febc93572594fee758b9c6b5e215bb47b45d3cea7073c25fe7bf1efbb66"
 
 [[files]]
 file = "scripts/vanilla.zs"

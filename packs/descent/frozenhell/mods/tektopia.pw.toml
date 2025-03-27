@@ -1,0 +1,9 @@
+name = "TekTopia"
+filename = "tektopia-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/tektopia-1.1.0.jar"
+hash-format = "sha256"
+hash = "f72fae44e41d86f7021f97539c36d08e6cae7c78c18541a0fb517f5039b9299f"
+

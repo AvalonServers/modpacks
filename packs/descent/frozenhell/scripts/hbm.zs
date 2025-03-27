@@ -70,3 +70,5 @@ recipes.addShaped(<hbm:geiger_counter>, [[<ore:ingotGold>, <ore:ingotSteel>, <or
 <ore:circuitBasic>.add(<hbm:circuit_aluminium>);
 <ore:circuitAdvanced>.add(<hbm:circuit_copper>);
 <ore:circuitElite>.add(<hbm:circuit_red_copper>);
+
+<ore:nuggetQuicksilver>.add(<hbm:nugget_mercury>);

@@ -42,5 +42,145 @@
       "properties": {}
     },
     "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "biomesoplenty:blue_fire",
+      "properties": {}
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "railcraft:steam",
+      "properties": {}
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "industrialrenewal:steam",
+      "properties": {}
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_redstone",
+      "properties": {}
+    },
+    "temperature": 2.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_glowstone",
+      "properties": {}
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_ender",
+      "properties": {}
+    },
+    "temperature": -4.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_pyrotheum",
+      "properties": {}
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_cryotheum",
+      "properties": {}
+    },
+    "temperature": -10.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_aerotheum",
+      "properties": {}
+    },
+    "temperature": -2.0
+  },
+  {
+    "state": {
+      "block": "thermalfoundation:fluid_mana",
+      "properties": {}
+    },
+    "temperature": -2.0
+  },
+  {
+    "state": {
+      "block": "hbm:volcanic_lava_block",
+      "properties": {}
+    },
+    "temperature": 8.0
+  },
+  {
+    "state": {
+      "block": "hbm:mud_block",
+      "properties": {}
+    },
+    "temperature": 8.0
+  },
+  {
+    "state": {
+      "block": "hbm:toxic_block",
+      "properties": {}
+    },
+    "temperature": 4.0
+  },
+  {
+    "state": {
+      "block": "hbm:sellafield_core",
+      "properties": {}
+    },
+    "temperature": 6.0
+  },
+  {
+    "state": {
+      "block": "hbm:baleonitite_core",
+      "properties": {}
+    },
+    "temperature": 8.0
+  },
+  {
+    "state": {
+      "block": "hbm:block_corium",
+      "properties": {}
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "hbm:corium_block",
+      "properties": {}
+    },
+    "temperature": 12.0
+  },
+  {
+    "state": {
+      "block": "hbm:balefire",
+      "properties": {}
+    },
+    "temperature": 10.0
+  },
+  {
+    "state": {
+      "block": "hbm:fire_digamma",
+      "properties": {}
+    },
+    "temperature": 32.0
+  },
+  {
+    "state": {
+      "block": "hbm:digamma_matter",
+      "properties": {}
+    },
+    "temperature": 16.0
   }
 ]

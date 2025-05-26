@@ -1,8 +1,8 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.12.2-1.8.7-snapshot-20250127+3457e11a6.jar"
+filename = "OpenComputers-MC1.12.2-1.8.7-snapshot-20250406+3457e11a6.jar"
 side = "both"
 
 [download]
-url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/OpenComputers-MC1.12.2-1.8.7-snapshot-20250127+3457e11a6.jar"
+url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/OpenComputers-MC1.12.2-1.8.7-snapshot-20250406+3457e11a6.jar"
 hash-format = "sha256"
-hash = "f86bfb5894d268fe30e1439605cc3c8c16d21eeeac51755d5320a7bd7a95ec4e"
+hash = "26643932d0c476e9f40fb55eaefa432a2c44b492c52c8ed97a0b099a74de9061"

@@ -21,5 +21,68 @@
       "toughasnails:wool_boots"
     ],
     "modifier": 1
+  },
+  {
+    "names": [
+      "enderio:item_stellar_alloy_helmet",
+      "enderio:item_stellar_alloy_chestplate",
+      "enderio:item_stellar_alloy_leggings",
+      "enderio:item_stellar_alloy_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "hbm:hazmat_helmet",
+      "hbm:hazmat_plate",
+      "hbm:hazmat_legs",
+      "hbm:hazmat_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "hbm:hazmat_helmet_red",
+      "hbm:hazmat_plate_red",
+      "hbm:hazmat_legs_red",
+      "hbm:hazmat_boots_red"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "hbm:liquidator_helmet",
+      "hbm:liquidator_plate",
+      "hbm:liquidator_legs",
+      "hbm:liquidator_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "hbm:hazmat_paa_helmet",
+      "hbm:hazmat_paa_plate",
+      "hbm:hazmat_paa_legs",
+      "hbm:hazmat_paa_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "hbm:paa_helmet",
+      "hbm:paa_plate",
+      "hbm:paa_legs",
+      "hbm:paa_boots"
+    ],
+    "modifier": 2
+  },
+  {
+    "names": [
+      "hbm:asbestos_helmet",
+      "hbm:asbestos_plate",
+      "hbm:asbestos_legs",
+      "hbm:asbestos_boots"
+    ],
+    "modifier": -2
   }
 ]

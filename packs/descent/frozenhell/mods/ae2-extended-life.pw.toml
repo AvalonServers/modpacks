@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/ae2-uel-v0.56.6-12-gaf4bdee.dirty.jar"
 hash-format = "sha256"
-hash = "5edb62314226c61c94f3b6bf921bfcd17ebf40f1a4718b077b36735b9a54cf20"
+hash = "2480776d0f1564060c2d853819f18967497378c45a98d33eed572c7188986306"

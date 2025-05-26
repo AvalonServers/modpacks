@@ -1,4 +1,5 @@
 import mods.immersiveengineering.Mixer;
+import mods.thermalexpansion.Pulverizer;
 
 // Removals
 recipes.remove(<toughasnails:rain_collector>);
@@ -13,8 +14,9 @@ recipes.remove(<tanaddons:portable_temp_regulator>);
 recipes.remove(<tanaddons:temp_regulator>);
 
 // Pulveriser recipe for ice cubes and magma fragments
-mods.thermalexpansion.Pulverizer.addRecipe(<toughasnails:ice_cube> * 4, <minecraft:ice>, 1000, <minecraft:snowball>, 15);
-//mods.thermalexpansion.Pulverizer.addRecipe(<toughasnails:magma_shard> * 4, <minecraft:magma>, 1000, <biomesoplenty:ash>, 15); // conflict with magma cream
+Pulverizer.removeRecipe(<minecraft:magma>);
+Pulverizer.addRecipe(<toughasnails:ice_cube> * 4, <minecraft:ice>, 1000, <minecraft:snowball>, 15);
+Pulverizer.addRecipe(<minecraft:magma_cream> * 4, <minecraft:magma>, 1000, <toughasnails:magma_shard>, 15);
 
 // Additions
 // Rain Collector

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://s3.eu-west-1.wasabisys.com/parallax-assets/mods/dsurround-1.12.2-3.6.3.jar"
 hash-format = "sha256"
-hash = "421cb069cdcbfa67df7d8785882e6e13edc9d649353518398c0f8f043f65df1e"
+hash = "6a3d75f0f51f78d63bfb0341e2ce46642b5df50f54160bfbeb6c1bd5f1643a4e"
 
 [option]
 optional = true

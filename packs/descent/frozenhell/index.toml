@@ -114,7 +114,7 @@ hash = "9696c94accce0da621eb175e2a980636e105b00b9891082801546bc9ad3df9f6"
 
 [[files]]
 file = "config/Tiquality.cfg"
-hash = "65ae2afc58dfe177d070347a7cd87c1782c8f720d8598c208bb2314808d6929f"
+hash = "743c04849e87d37e0d1c98b19e6a446d09415ecdeb9ab4a62eb92a673251f868"
 
 [[files]]
 file = "config/Universal Tweaks - Bugfixes.cfg"
@@ -1243,7 +1243,7 @@ hash = "d7bc152b73a63abff66084d96c8ba19af9e35f459054f21a8dd08308c4a1f8c3"
 
 [[files]]
 file = "config/opencomputers/settings.conf"
-hash = "f166a42acf97db3c0fd9696582a60402e14a80abb400325cfe3eb0d45de1cd52"
+hash = "246d5869d9d867dafb6aa2821658a3dcc5df8d4ff2d91fdb4f945cb770d0c778"
 
 [[files]]
 file = "config/opencomputers/user.recipes"
@@ -1499,7 +1499,7 @@ hash = "1b2555b1f00f89c7c068ab7db045a58ccbf2461db384cf0a6bf6ccbd59460029"
 
 [[files]]
 file = "config/watercontrolextreme.cfg"
-hash = "2950eac74837f4e8bb918407f10b379f5d182f46ea84fdf2bb8468930d7e6012"
+hash = "526ad9724dcbe6b59f3f13edded0fe0b79558f8a51221d6d2eb3b93caf1e4397"
 
 [[files]]
 file = "config/wearablebackpacks.cfg"
@@ -1624,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/brutalism.pw.toml"
-hash = "b369e519bbf256068a7ec058d2dfd88bb9f39f4a2d3ef1eba4a490b04b5b8327"
+hash = "78daca2154973b087d006bd44135d5a5ee4534dd31a6ae4d6120176c7840d0d9"
 metafile = true
 
 [[files]]
@@ -1844,7 +1844,7 @@ metafile = true
 
 [[files]]
 file = "mods/hbms-nuclear-tech-mod-extended-edition.pw.toml"
-hash = "3865e36d708bf280cd3d6d8c7de3673b6706f9e18fa3f4ee9e3e8686f99be46b"
+hash = "34cbb86d87e9c21f3040c167bc6e5a62aa5debfc2ecc501c13ae9982d33d04f7"
 metafile = true
 
 [[files]]
@@ -2423,6 +2423,11 @@ hash = "7db541563e5f3da249cad0778e6982d1555c3b0347aa26793832fa0ca61e8929"
 metafile = true
 
 [[files]]
+file = "mods/unlimited-chisel-works.pw.toml"
+hash = "3a41f19e492630f2256f127fcc977a4e10839ac79bfb8e7cf382f1d25de04655"
+metafile = true
+
+[[files]]
 file = "mods/water-control-extreme.pw.toml"
 hash = "8f25394bbe889d370870638dcc5396d8be97b58488ac2b2df2a6cc3783c36258"
 metafile = true
@@ -2496,7 +2501,7 @@ hash = "4b360e5aa50f3f29f7f89830929f0af2569a18b351c4008b695ac46f30e06cc3"
 
 [[files]]
 file = "scripts/icbm.zs"
-hash = "3a6be7d0c595b73cb050ecc6e19ebc4ef9dae2001dde6d3a44b544e746ec4627"
+hash = "e5df8574fbdfb43e91479f03fd2f29f66ba7ec7e72ba2c70b374a6416d55a224"
 
 [[files]]
 file = "scripts/immersiveengineering.zs"

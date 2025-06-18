@@ -4,6 +4,7 @@ recipes.removeByRecipeName("icbmclassic:explosives/redmatter");
 
 // remove recipe for steel plates
 recipes.removeByRecipeName("icbmclassic:parts/plate.steel");
+recipes.removeByRecipeName("icbmclassic:parts/clump.steel");
 
 // var plutonium = <ore:fuelHEP239>;
 

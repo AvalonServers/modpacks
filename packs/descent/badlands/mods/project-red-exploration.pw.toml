@@ -1,0 +1,13 @@
+name = "Project Red Exploration"
+filename = "ProjectRed-1.20.1-4.21.0-exploration.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVQMH6pX/versions/MSbcrH9B/ProjectRed-1.20.1-4.21.0-exploration.jar"
+hash-format = "sha512"
+hash = "7526a55ff5f1a21156de0eeead2b30970dacbf0586524a6edf8b58b9ea9e2219a648761c3d8692d8f4c29cc43b86fe4b374a6ca268cd45c89e8aa67b6ba12501"
+
+[update]
+[update.modrinth]
+mod-id = "TVQMH6pX"
+version = "MSbcrH9B"

@@ -1,0 +1,13 @@
+name = "Additional Additions"
+filename = "additionaladditions-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/r8V0VbWA/additionaladditions-6.0.1.jar"
+hash-format = "sha512"
+hash = "dfcab33380354be820503671a7faeff83b76cc3778612493aa6b2820705fcd52b830ed5aca41c0cd1e2c6b6c7447e489dbb9365e3120c882cfa5274567ab9814"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "r8V0VbWA"

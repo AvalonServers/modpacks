@@ -1,0 +1,13 @@
+name = "ZBGT"
+filename = "zbgt-0.16.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9b46a1d9b63075aa7df60f80d93555b8570040b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6399818
+project-id = 1101263

@@ -1,0 +1,13 @@
+name = "Descent: Badlands"
+author = "Avalon Servers"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "50a401e8131dc00c6c221083bc930be6676f0fa082b1fb972f21ae25f7817481"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

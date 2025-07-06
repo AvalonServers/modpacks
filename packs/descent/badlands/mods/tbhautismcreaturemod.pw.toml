@@ -1,0 +1,13 @@
+name = "tbh autism creature mod"
+filename = "tbh_creature_mod-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qXQ8YIx9/versions/il0otaWJ/tbh_creature_mod-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "d895ad29c14a9c99eb8e52e93785944d67402662364a321ce24558c0e045c061e7ebe121473406fbed610c975f2b3da23b626865b25c7b97fb5f6df706a39b11"
+
+[update]
+[update.modrinth]
+mod-id = "qXQ8YIx9"
+version = "il0otaWJ"

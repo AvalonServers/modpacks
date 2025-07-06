@@ -1,0 +1,13 @@
+name = "Just Enough Dz (JEDZ)"
+filename = "JEDZ-1.20.1-v1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9dc2eb17c7edf67789fe7f004154c0c84f2a03d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6328913
+project-id = 529690

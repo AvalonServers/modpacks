@@ -1,0 +1,13 @@
+name = "Modern Online Picture Frames"
+filename = "opf-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f95aa2c5c9d368b750ba8441a60fcad3a3e5851d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4964954
+project-id = 428377

@@ -1,0 +1,5 @@
+series = "descent"
+name = "badlands"
+
+[servers.survival]
+name = "Descent: Badlands SMP"

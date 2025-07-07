@@ -1,0 +1,13 @@
+name = "Appliances"
+filename = "appliances-0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36f1a2800f0901e34f24b1dd4b93fcaf90959fde"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6498351
+project-id = 1239998

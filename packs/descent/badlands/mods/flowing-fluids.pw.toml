@@ -1,0 +1,13 @@
+name = "Flowing Fluids"
+filename = "flowing_fluids_forge_1.20.1-0.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/s1I3BT95/versions/1qDiVTm7/flowing_fluids_forge_1.20.1-0.6.1.jar"
+hash-format = "sha512"
+hash = "d8a41dd05cf26a9dbf021d51f2b8557ff1a6eaeb575368edba8bacd941bb22527608f9db3532a063807bd4cc37f39bbb5e16a2f86b901d3872e02d8936d34faa"
+
+[update]
+[update.modrinth]
+mod-id = "s1I3BT95"
+version = "1qDiVTm7"
